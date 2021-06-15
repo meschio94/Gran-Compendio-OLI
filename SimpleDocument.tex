@@ -19,7 +19,7 @@
 
 \title{Gran Compendio OLI}
 \author{\href{https://github.com/meschio94/Gran-Compendio-OLI}{Meschio}}
-\date{2021\\V1.0b}
+\date{2021\\V1.0c}
 
 \begin{document}
 \maketitle
@@ -461,7 +461,33 @@ max: &8u_1 - 2u_2 \\
 \raisebox{-.5\height}{\includegraphics[width=5cm]{immagini/ProblemaDuale1.jpg}}
 \end{center}
 
-Osservando l'ultima immagine per chiarezza col risultato finale che si riconduce al sistema iniziale.
+Osservando l'ultima immagine per chiarezza col risultato finale che si riconduce al sistema iniziale.\\
+Se volessi risolvere il sistema invece, partendo dal sistema già orientato nel verso giusto e il suo problema duale:\\
+
+\begin{align*}
+min: &2x_1 + 4x_2 - 3x_3 & & & max: &5u_1 - 10u_2 \\
+&x_1 - 3x_2 - x_3 \geqq -5  & & & &u_1 - u_2 \leqq 2\\
+&-2x_1 - 2x_2 + x_3 \geqq -10 & & &  &-3u_1 - 2u_2 \leqq 4\\
+&x_1,x_2,x_3 \geqq 0 & & & &-u_1 + u_2 \leqq -3\\
+& & & & &u_1,u_2 \geqq 0\\
+\end{align*}
+
+\begin{align*}
+\left\{ \begin{array}{rcl} (x_1 -3x_2 - x_3 + 5)u_1 = 0 \\ (-2x_1 -2x_2 - x_3 + 10)u_2 = 0 \\ (u_1 -2u_2 - 2 )x_1 = 0 \\ (-3u_1 -2u_2 - 4 )x_2 = 0 \\ (-u_1 +u_2 + 3 )x_3 = 0  \end{array}\right. & &\Rightarrow	& &\left\{ \begin{array}{rcl} (0)u_1 = 0 \\ (0)u_2 = 0 \\ u_1 -2u_2 = 2 \\ (-3u_1 -2u_2 - 2 )0 = 0 \\ (-u_1 +u_2) = -3  \end{array}\right.\\
+\end{align*}
+$u = (4,1) z_D= -30$
+
+\begin{itemize}
+\item Moltiplico ogni vincolo del primale per la sua variabile corrispondente del
+duale e lo pongo uguale a zero, prima porto a sinistra il termine noto.\\
+\item Moltiplico ogni vincolo del duale per la sua variabili corrispondente del
+primale e lo pongo uguale a zero, prima porto a sinistra il termine noto.
+\item Metto tutto a sistema e semplifico, ad esempio sappiamo i valori delle
+variabili della funzione obiettivo del duale, inoltre i vincoli che ci portano alla
+soluzione ottima saranno uguale a zero e i restanti diversi da \item Ottengo un sistema che posso risolvere, e dovrebbero essere presenti solo
+variabili del problema primale, risolvo il sistema e ottengo i valori delle
+variabili della funzione obiettivo del problema primale
+\end{itemize}
 
 \subsection{Rappresentazione Grafica}
 Anche tu sei a digiuno di grafici ed hai un incontrollato appetito di disegnarne altri ?\\

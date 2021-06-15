@@ -19,46 +19,46 @@
 \contentsline {subsubsection}{\numberline {3.2.2}Simplesso Duale}{16}{subsubsection.3.2.2}%
 \contentsline {subsubsection}{\numberline {3.2.3}2Fasi}{17}{subsubsection.3.2.3}%
 \contentsline {subsubsection}{\numberline {3.2.4}Duale del problema}{19}{subsubsection.3.2.4}%
-\contentsline {subsection}{\numberline {3.3}Rappresentazione Grafica}{21}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}ILP}{22}{subsection.3.4}%
-\contentsline {subsubsection}{\numberline {3.4.1}Tagli di Gomory}{22}{subsubsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.3}Rappresentazione Grafica}{22}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}ILP}{23}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Tagli di Gomory}{23}{subsubsection.3.4.1}%
 \contentsline {subsection}{\numberline {3.5}Esercizi Particolari}{25}{subsection.3.5}%
 \contentsline {subsubsection}{\numberline {3.5.1}Simplesso con variabili free}{25}{subsubsection.3.5.1}%
-\contentsline {subsubsection}{\numberline {3.5.2}Problema PLC con simplesso e gomory in salsa teriyaki}{27}{subsubsection.3.5.2}%
-\contentsline {subsubsection}{\numberline {3.5.3}Senstivity Analysis}{29}{subsubsection.3.5.3}%
-\contentsline {section}{\numberline {4}Grafi}{31}{section.4}%
-\contentsline {subsection}{\numberline {4.1}GT}{31}{subsection.4.1}%
-\contentsline {subsubsection}{\numberline {4.1.1}Dijkstra}{31}{subsubsection.4.1.1}%
-\contentsline {subsubsection}{\numberline {4.1.2}Shortest Path Tree}{33}{subsubsection.4.1.2}%
-\contentsline {subsection}{\numberline {4.2}SST}{34}{subsection.4.2}%
-\contentsline {subsubsection}{\numberline {4.2.1}Cenni di Base}{34}{subsubsection.4.2.1}%
-\contentsline {subsubsection}{\numberline {4.2.2}SST Prim's}{35}{subsubsection.4.2.2}%
-\contentsline {subsubsection}{\numberline {4.2.3}SST Da Matrice trovare la soluzione ottimale}{36}{subsubsection.4.2.3}%
-\contentsline {subsection}{\numberline {4.3}Max Flow}{37}{subsection.4.3}%
-\contentsline {subsubsection}{\numberline {4.3.1}Cenni di Base}{37}{subsubsection.4.3.1}%
-\contentsline {subsubsection}{\numberline {4.3.2}Flow Network}{38}{subsubsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.4}DP}{40}{subsection.4.4}%
-\contentsline {subsubsection}{\numberline {4.4.1}DP Knapsack 0-1 Dynamic Programming}{40}{subsubsection.4.4.1}%
-\contentsline {subsubsection}{\numberline {4.4.2}DP: SSP Bellman's-Ford}{42}{subsubsection.4.4.2}%
-\contentsline {subsection}{\numberline {4.5}ILP}{44}{subsection.4.5}%
-\contentsline {subsubsection}{\numberline {4.5.1}ILP standard B\&B}{44}{subsubsection.4.5.1}%
-\contentsline {subsubsection}{\numberline {4.5.2}ILP esercizio standard B\&B}{48}{subsubsection.4.5.2}%
-\contentsline {subsubsection}{\numberline {4.5.3}ILP esercizio B\&B 0-1}{50}{subsubsection.4.5.3}%
-\contentsline {section}{\numberline {5}GPLK}{52}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Dal modello al codice}{52}{subsection.5.1}%
-\contentsline {subsubsection}{\numberline {5.1.1}Modello Easy}{52}{subsubsection.5.1.1}%
-\contentsline {subsubsection}{\numberline {5.1.2}Caso Particolare 1 Graffa}{53}{subsubsection.5.1.2}%
-\contentsline {subsubsection}{\numberline {5.1.3}Caso Particolare 2 Sommatoria doppio insieme}{55}{subsubsection.5.1.3}%
-\contentsline {subsection}{\numberline {5.2}Dal codice al modello}{56}{subsection.5.2}%
-\contentsline {subsubsection}{\numberline {5.2.1}Normale}{56}{subsubsection.5.2.1}%
-\contentsline {section}{\numberline {6}Domande varie di teoria}{57}{section.6}%
-\contentsline {subsection}{\numberline {6.1}PLC degenerate}{57}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}PLC sensitivty}{58}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}B\&B}{58}{subsection.6.3}%
-\contentsline {subsection}{\numberline {6.4}PLC minimization}{58}{subsection.6.4}%
-\contentsline {subsection}{\numberline {6.5}cutting Plane}{58}{subsection.6.5}%
-\contentsline {subsection}{\numberline {6.6}PLC dual}{59}{subsection.6.6}%
-\contentsline {subsection}{\numberline {6.7}Dijkstra}{59}{subsection.6.7}%
-\contentsline {subsection}{\numberline {6.8}B\&B knapsack}{59}{subsection.6.8}%
-\contentsline {subsection}{\numberline {6.9}Branch \& cut}{59}{subsection.6.9}%
-\contentsline {subsection}{\numberline {6.10}PLC}{60}{subsection.6.10}%
+\contentsline {subsubsection}{\numberline {3.5.2}Problema PLC con simplesso e gomory in salsa teriyaki}{28}{subsubsection.3.5.2}%
+\contentsline {subsubsection}{\numberline {3.5.3}Senstivity Analysis}{30}{subsubsection.3.5.3}%
+\contentsline {section}{\numberline {4}Grafi}{32}{section.4}%
+\contentsline {subsection}{\numberline {4.1}GT}{32}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Dijkstra}{32}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Shortest Path Tree}{34}{subsubsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.2}SST}{35}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Cenni di Base}{35}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}SST Prim's}{36}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.3}SST Da Matrice trovare la soluzione ottimale}{37}{subsubsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.3}Max Flow}{38}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Cenni di Base}{38}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}Flow Network}{39}{subsubsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.4}DP}{41}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}DP Knapsack 0-1 Dynamic Programming}{41}{subsubsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.2}DP: SSP Bellman's-Ford}{43}{subsubsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.5}ILP}{45}{subsection.4.5}%
+\contentsline {subsubsection}{\numberline {4.5.1}ILP standard B\&B}{45}{subsubsection.4.5.1}%
+\contentsline {subsubsection}{\numberline {4.5.2}ILP esercizio standard B\&B}{49}{subsubsection.4.5.2}%
+\contentsline {subsubsection}{\numberline {4.5.3}ILP esercizio B\&B 0-1}{51}{subsubsection.4.5.3}%
+\contentsline {section}{\numberline {5}GPLK}{53}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Dal modello al codice}{53}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}Modello Easy}{53}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}Caso Particolare 1 Graffa}{54}{subsubsection.5.1.2}%
+\contentsline {subsubsection}{\numberline {5.1.3}Caso Particolare 2 Sommatoria doppio insieme}{56}{subsubsection.5.1.3}%
+\contentsline {subsection}{\numberline {5.2}Dal codice al modello}{57}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}Normale}{57}{subsubsection.5.2.1}%
+\contentsline {section}{\numberline {6}Domande varie di teoria}{58}{section.6}%
+\contentsline {subsection}{\numberline {6.1}PLC degenerate}{58}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}PLC sensitivty}{59}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}B\&B}{59}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}PLC minimization}{59}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}cutting Plane}{59}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}PLC dual}{60}{subsection.6.6}%
+\contentsline {subsection}{\numberline {6.7}Dijkstra}{60}{subsection.6.7}%
+\contentsline {subsection}{\numberline {6.8}B\&B knapsack}{60}{subsection.6.8}%
+\contentsline {subsection}{\numberline {6.9}Branch \& cut}{60}{subsection.6.9}%
+\contentsline {subsection}{\numberline {6.10}PLC}{61}{subsection.6.10}%
