@@ -19,7 +19,7 @@
 
 \title{Gran Compendio OLI}
 \author{\href{https://github.com/meschio94/Gran-Compendio-OLI}{Meschio}}
-\date{2021\\V1.0a}
+\date{2021\\V1.0b}
 
 \begin{document}
 \maketitle
@@ -408,8 +408,20 @@ Procediamo infine ad avere gli 0 nelle rispettive colonne della nostra base, in 
 
 \subsubsection{Duale del problema}
 Come trasformiamo il nostro sistema in un problema duale ?\\
-Per prima cosa dobbiamo scegliere una direzione per i segni, tutti devono andare nella stessa direzione (non va considerata la riga finale delle $x_i \geqq 0$ ), Esempio:\\
+Per prima cosa dobbiamo scegliere una direzione per i segni, tutti devono andare nella stessa direzione (non va considerata la riga finale delle $x_i \geqq 0$ ), possiamo seguire questa tabella per indicazioni più rigorose:\\
 
+
+\begin{center}
+\raisebox{-.5\height}{\includegraphics[width=8cm]{immagini/DualeProblema0.jpg}}
+\raisebox{-.5\height}{\includegraphics[width=8cm]{immagini/DualeProblema0a.jpg}}
+\end{center}
+\begin{itemize}
+\item se i vincoli del primale sono: \textbf{$a_i^Tx \geqq b_i$},nel duale arriveremo dal basso della regione ammissibile, le slack di conseguenza saranno \textbf{non negative}. Nel duale staremo massimizzando, percui le nostre corrispettive variabili (moltiplicative) dovranno essere \textbf{non negative}.
+\item se i vincoli del primale sono \textbf{$a_i^Tx \leqq b_i$},le slack dei vincoli dovranno essere \textbf{non positive}. Nel duale staremo massimizzando, percui le nostre corrispettive variabili (moltiplicative) dovranno essere \textbf{non positive}.
+\item se i vincoli del primale sono \textbf{$a_i^Tx = b_i$}, le slack dei vincoli potranno avere qualsiasi valore. Le corrispondenti variabili (moltiplicative) potranno avere qualsiasi valore.
+\end{itemize}
+
+Esempio:\\
 
 \begin{align*}
 min: &2x_1 + 3x_2 + x_3      &              &          min:& &2x_1 + 3x_2 + x_3\\
@@ -417,6 +429,11 @@ min: &2x_1 + 3x_2 + x_3      &              &          min:& &2x_1 + 3x_2 + x_3\
 &x_2 - x_3 \leqq 2           &              & 			     & &-x_2 + x_3 \geqq -2\\
 &x_1, x_2,x_3 \geqq 0        &              & 				 & &x_1, x_2,x_3 \geqq 0\\
 \end{align*}
+
+Possiamo sempre ricondurci alla forma canonica o standard prima di scrivere il duale:
+\begin{center}
+\raisebox{-.5\height}{\includegraphics[width=8cm]{immagini/DualeProblema0b.jpg}}
+\end{center}
 
 Ordiniamo il sistema per una maggiore chiarezza:\\
 
@@ -1399,7 +1416,7 @@ Soluzione:\\
 Given a PLC problem with $n$ variables and $m$ constraints, a basic matrix is: (a) a collection of $m$ constraints; (b) none of the above answers.; (c) a square $m$x$m$ matrix with value 1 on the main diagonal; (d) a collection of $n-m$ columns of the constraint matrix; (e) a square submatrix of the constraint matrix, that can be inverted.
 }%
 }%
-\\
+\\/
 Soluzione:\\
 (B)
 \end{document}
