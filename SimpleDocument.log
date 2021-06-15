@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.16)  15 JUN 2021 10:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.16)  15 JUN 2021 13:31
 entering extended mode
 **./SimpleDocument.tex
 (SimpleDocument.tex
@@ -172,6 +172,142 @@ Package: listings 2020/03/24 1.8d (Carsten Heinz)
  (C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
+(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+
+(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcm
+ds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr
+.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys
+.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefi
+nekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape
+.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmac
+ro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.s
+ty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen154
+\Hy@linkcounter=\count271
+\Hy@pagecounter=\count272
+
+(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.s
+ty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count273
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count274
+ (C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen155
+
+(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintca
+lc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count275
+\Field@Width=\dimen156
+\Fld@charsize=\dimen157
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+
+(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count276
+\c@Item=\count277
+\c@Hfootnote=\count278
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+
+(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.st
+y
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count279
+\c@bookmark@seq@number=\count280
+
+(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunf
+ilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqu
+ecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip52
+)
 (C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/imakeidx\imakeidx.sty
 Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
 nous mode
@@ -185,36 +321,33 @@ x
 \XKV@toks=\toks23
 \XKV@tempa@toks=\toks24
 )
-\XKV@depth=\count271
+\XKV@depth=\count281
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
-
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
-))
+)
 (C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 ) (C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
 Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
-\c@tracingmulticols=\count272
+\c@tracingmulticols=\count282
 \mult@box=\box51
-\multicol@leftmargin=\dimen154
-\c@unbalance=\count273
-\c@collectmore=\count274
-\doublecol@number=\count275
-\multicoltolerance=\count276
-\multicolpretolerance=\count277
-\full@width=\dimen155
-\page@free=\dimen156
-\premulticols=\dimen157
-\postmulticols=\dimen158
-\multicolsep=\skip52
-\multicolbaselineskip=\skip53
+\multicol@leftmargin=\dimen158
+\c@unbalance=\count283
+\c@collectmore=\count284
+\doublecol@number=\count285
+\multicoltolerance=\count286
+\multicolpretolerance=\count287
+\full@width=\dimen159
+\page@free=\dimen160
+\premulticols=\dimen161
+\postmulticols=\dimen162
+\multicolsep=\skip53
+\multicolbaselineskip=\skip54
 \partial@page=\box52
 \last@line=\box53
-\maxbalancingoverflow=\dimen159
+\maxbalancingoverflow=\dimen163
 \mult@rightbox=\box54
 \mult@grightbox=\box55
 \mult@gfirstbox=\box56
@@ -256,15 +389,15 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \@tempa=\box92
 \@tempa=\box93
 \@tempa=\box94
-\c@minrows=\count278
-\c@columnbadness=\count279
-\c@finalcolumnbadness=\count280
-\last@try=\dimen160
-\multicolovershoot=\dimen161
-\multicolundershoot=\dimen162
+\c@minrows=\count288
+\c@columnbadness=\count289
+\c@finalcolumnbadness=\count290
+\last@try=\dimen164
+\multicolovershoot=\dimen165
+\multicolundershoot=\dimen166
 \mult@nat@firstbox=\box95
 \colbreak@box=\box96
-\mc@col@check@num=\count281
+\mc@col@check@num=\count291
 ))
 \SimpleDocument@idxfile=\write3
 \openout3 = `SimpleDocument.idx'.
@@ -274,39 +407,41 @@ Writing index file SimpleDocument.idx
 (C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
 dftex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count282
+\l__kernel_color_stack_int=\count292
 \l__pdf_internal_box=\box97
 ) (SimpleDocument.aux)
 \openout1 = `SimpleDocument.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
 
 (C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
 mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count283
-\scratchdimen=\dimen163
+\scratchcounter=\count293
+\scratchdimen=\dimen167
 \scratchbox=\box98
-\nofMPsegments=\count284
-\nofMParguments=\count285
+\nofMPsegments=\count294
+\nofMParguments=\count295
 \everyMPshowfont=\toks25
-\MPscratchCnt=\count286
-\MPscratchDim=\dimen164
-\MPnumerator=\count287
-\makeMPintoPDFobject=\count288
+\MPscratchCnt=\count296
+\MPscratchDim=\dimen168
+\MPnumerator=\count297
+\makeMPintoPDFobject=\count298
 \everyMPtoPDFconversion=\toks26
 )
 (C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
@@ -315,920 +450,966 @@ Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 )
-\c@lstlisting=\count289
-LaTeX Font Info:    Trying to load font information for U+msa on input line 23.
+\c@lstlisting=\count299
+Package hyperref Info: Link coloring OFF on input line 24.
+
+(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gett
+itlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count300
+)
+LaTeX Info: Redefining \ref on input line 24.
+LaTeX Info: Redefining \pageref on input line 24.
+LaTeX Info: Redefining \nameref on input line 24.
+ (SimpleDocument.out) (SimpleDocument.out)
+\@outlinefile=\write4
+\openout4 = `SimpleDocument.out'.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 26.
 
 
 (C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 23.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 26.
 
 
 (C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 26--29
+Underfull \hbox (badness 10000) in paragraph at lines 28--31
 
  []
 
-(SimpleDocument.toc [1
+
+Package hyperref Warning: old toc file detected, not used; run LaTeX again.
+
+\tf@toc=\write5
+\openout5 = `SimpleDocument.toc'.
+
+[1
 Non-PDF special ignored!
 <special> papersize=614.295pt,794.96999pt
 
-{C:/Users/Meschio/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2])
-\tf@toc=\write4
-\openout4 = `SimpleDocument.toc'.
+{C:/Users/Meschio/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] [3]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 65--84
+[] 
+ []
 
- [3]
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--84
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--84
+
+ []
+
 [4]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 63--82
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 95--113
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--82
+Underfull \hbox (badness 10000) in paragraph at lines 95--113
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--82
+Underfull \hbox (badness 10000) in paragraph at lines 95--113
 
  []
 
-[5]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 93--111
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 126--143
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--111
+Underfull \hbox (badness 10000) in paragraph at lines 126--143
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--111
+Underfull \hbox (badness 10000) in paragraph at lines 126--143
 
  []
 
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 124--141
+Underfull \hbox (badness 10000) in paragraph at lines 126--143
+
+ []
+
+[5] [6]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 157--176
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--141
+Underfull \hbox (badness 10000) in paragraph at lines 157--176
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--141
+Underfull \hbox (badness 10000) in paragraph at lines 157--176
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 124--141
-
- []
-
-[6] [7]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 155--174
+[7] [8] [9]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 191--212
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 155--174
+Underfull \hbox (badness 10000) in paragraph at lines 191--212
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 155--174
-
- []
-
-[8] [9] [10]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 189--210
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 224--240
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--210
+Underfull \hbox (badness 10000) in paragraph at lines 224--240
+
+ []
+
+[10] [11]
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
 
  []
 
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 222--238
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 271.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\Rightarrow' on input line 271.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 271.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 277.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\Rightarrow' on input line 277.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 277.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--302
+
+ []
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 288--305
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--238
+Underfull \hbox (badness 10000) in paragraph at lines 288--305
 
  []
 
-[11] [12]
-Underfull \hbox (badness 10000) in paragraph at lines 248--249
+[12] [13]
+Underfull \hbox (badness 10000) in paragraph at lines 320--322
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 300--300
-
- []
-
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 286--303
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 286--303
-
- []
-
-[13] [14]
-Underfull \hbox (badness 10000) in paragraph at lines 318--320
-
- []
-
-<immagini/mappa.jpg, id=61, 986.18437pt x 372.64218pt>
+<immagini/mappa.jpg, id=88, 986.18437pt x 372.64218pt>
 File: immagini/mappa.jpg Graphic file (type jpg)
 <use immagini/mappa.jpg>
-Package pdftex.def Info: immagini/mappa.jpg  used on input line 322.
+Package pdftex.def Info: immagini/mappa.jpg  used on input line 324.
 (pdftex.def)             Requested size: 341.43306pt x 129.01657pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 330--331
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
 
  []
 
-[15 <./immagini/mappa.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 339--340
+[14 <./immagini/mappa.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 341--342
 
  []
 
-<immagini/PivotSimplex.jpg, id=65, 596.2275pt x 219.06844pt>
+<immagini/PivotSimplex.jpg, id=98, 596.2275pt x 219.06844pt>
 File: immagini/PivotSimplex.jpg Graphic file (type jpg)
 <use immagini/PivotSimplex.jpg>
-Package pdftex.def Info: immagini/PivotSimplex.jpg  used on input line 342.
+Package pdftex.def Info: immagini/PivotSimplex.jpg  used on input line 344.
 (pdftex.def)             Requested size: 341.43306pt x 125.45192pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 349--350
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
 
  []
 
-<immagini/DualSimplex0.jpg, id=66, 633.86812pt x 188.20313pt>
+<immagini/DualSimplex0.jpg, id=99, 633.86812pt x 188.20313pt>
 File: immagini/DualSimplex0.jpg Graphic file (type jpg)
 <use immagini/DualSimplex0.jpg>
-Package pdftex.def Info: immagini/DualSimplex0.jpg  used on input line 351.
+Package pdftex.def Info: immagini/DualSimplex0.jpg  used on input line 353.
 (pdftex.def)             Requested size: 284.52756pt x 84.48097pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 354--355
+Underfull \hbox (badness 10000) in paragraph at lines 356--357
 
  []
 
-<immagini/DualSimplex1.jpg, id=67, 643.6547pt x 204.765pt>
+<immagini/DualSimplex1.jpg, id=100, 643.6547pt x 204.765pt>
 File: immagini/DualSimplex1.jpg Graphic file (type jpg)
 <use immagini/DualSimplex1.jpg>
-Package pdftex.def Info: immagini/DualSimplex1.jpg  used on input line 357.
+Package pdftex.def Info: immagini/DualSimplex1.jpg  used on input line 359.
 (pdftex.def)             Requested size: 284.52756pt x 90.51866pt.
-[16 <./immagini/PivotSimplex.jpg> <./immagini/DualSimplex0.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 360--361
+[15 <./immagini/PivotSimplex.jpg> <./immagini/DualSimplex0.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 362--363
 
  []
 
-<immagini/DualSimplex2.jpg, id=72, 651.18282pt x 255.20343pt>
+<immagini/DualSimplex2.jpg, id=107, 651.18282pt x 255.20343pt>
 File: immagini/DualSimplex2.jpg Graphic file (type jpg)
 <use immagini/DualSimplex2.jpg>
-Package pdftex.def Info: immagini/DualSimplex2.jpg  used on input line 363.
+Package pdftex.def Info: immagini/DualSimplex2.jpg  used on input line 365.
 (pdftex.def)             Requested size: 284.52756pt x 111.51103pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 369--370
+Underfull \hbox (badness 10000) in paragraph at lines 371--372
 
  []
 
-<immagini/2fasi0.jpg, id=73, 597.73312pt x 119.69719pt>
+<immagini/2fasi0.jpg, id=108, 597.73312pt x 119.69719pt>
 File: immagini/2fasi0.jpg Graphic file (type jpg)
 <use immagini/2fasi0.jpg>
-Package pdftex.def Info: immagini/2fasi0.jpg  used on input line 372.
+Package pdftex.def Info: immagini/2fasi0.jpg  used on input line 374.
 (pdftex.def)             Requested size: 341.43306pt x 68.37238pt.
-<immagini/2fasi1.jpg, id=74, 572.1375pt x 100.87688pt>
+<immagini/2fasi1.jpg, id=109, 572.1375pt x 100.87688pt>
 File: immagini/2fasi1.jpg Graphic file (type jpg)
 <use immagini/2fasi1.jpg>
-Package pdftex.def Info: immagini/2fasi1.jpg  used on input line 379.
+Package pdftex.def Info: immagini/2fasi1.jpg  used on input line 381.
 (pdftex.def)             Requested size: 341.43306pt x 60.20026pt.
-[17 <./immagini/DualSimplex1.jpg> <./immagini/DualSimplex2.jpg> <./immagini/2fa
+[16 <./immagini/DualSimplex1.jpg> <./immagini/DualSimplex2.jpg> <./immagini/2fa
 si0.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 382--383
+Underfull \hbox (badness 10000) in paragraph at lines 384--385
 
  []
 
-<immagini/2fasi2.jpg, id=78, 669.2503pt x 165.61874pt>
+<immagini/2fasi2.jpg, id=115, 669.2503pt x 165.61874pt>
 File: immagini/2fasi2.jpg Graphic file (type jpg)
 <use immagini/2fasi2.jpg>
-Package pdftex.def Info: immagini/2fasi2.jpg  used on input line 385.
+Package pdftex.def Info: immagini/2fasi2.jpg  used on input line 387.
 (pdftex.def)             Requested size: 341.43306pt x 84.49728pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 389--390
+Underfull \hbox (badness 10000) in paragraph at lines 391--392
 
  []
 
-<immagini/2fasi3.jpg, id=79, 649.67719pt x 248.42813pt>
+<immagini/2fasi3.jpg, id=116, 649.67719pt x 248.42813pt>
 File: immagini/2fasi3.jpg Graphic file (type jpg)
 <use immagini/2fasi3.jpg>
-Package pdftex.def Info: immagini/2fasi3.jpg  used on input line 392.
+Package pdftex.def Info: immagini/2fasi3.jpg  used on input line 394.
 (pdftex.def)             Requested size: 341.43306pt x 130.56319pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 395--397
+Underfull \hbox (badness 10000) in paragraph at lines 397--399
 
  []
 
-<immagini/2fasi4.jpg, id=80, 599.99156pt x 109.1578pt>
+<immagini/2fasi4.jpg, id=117, 599.99156pt x 109.1578pt>
 File: immagini/2fasi4.jpg Graphic file (type jpg)
 <use immagini/2fasi4.jpg>
-Package pdftex.def Info: immagini/2fasi4.jpg  used on input line 398.
+Package pdftex.def Info: immagini/2fasi4.jpg  used on input line 400.
 (pdftex.def)             Requested size: 341.43306pt x 62.11899pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 401--402
+Underfull \hbox (badness 10000) in paragraph at lines 403--404
 
  []
 
-[18 <./immagini/2fasi1.jpg> <./immagini/2fasi2.jpg> <./immagini/2fasi3.jpg> <./
+[17 <./immagini/2fasi1.jpg> <./immagini/2fasi2.jpg> <./immagini/2fasi3.jpg> <./
 immagini/2fasi4.jpg>]
-<immagini/2fasi5.jpg, id=84, 538.26094pt x 111.41624pt>
+<immagini/2fasi5.jpg, id=122, 538.26094pt x 111.41624pt>
 File: immagini/2fasi5.jpg Graphic file (type jpg)
 <use immagini/2fasi5.jpg>
-Package pdftex.def Info: immagini/2fasi5.jpg  used on input line 404.
+Package pdftex.def Info: immagini/2fasi5.jpg  used on input line 406.
 (pdftex.def)             Requested size: 341.43306pt x 70.67542pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 408--410
+Underfull \hbox (badness 10000) in paragraph at lines 410--412
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 419--420
+Underfull \hbox (badness 10000) in paragraph at lines 421--422
 
  []
 
-<immagini/DualeProblema.jpg, id=85, 348.55219pt x 158.09062pt>
+<immagini/DualeProblema.jpg, id=123, 348.55219pt x 158.09062pt>
 File: immagini/DualeProblema.jpg Graphic file (type jpg)
 <use immagini/DualeProblema.jpg>
-Package pdftex.def Info: immagini/DualeProblema.jpg  used on input line 422.
+Package pdftex.def Info: immagini/DualeProblema.jpg  used on input line 424.
 (pdftex.def)             Requested size: 227.62204pt x 103.24013pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 425--432
+Underfull \hbox (badness 10000) in paragraph at lines 427--434
 
  []
 
-[19 <./immagini/2fasi5.jpg> <./immagini/DualeProblema.jpg>]
-<immagini/ProblemaDuale1.jpg, id=90, 254.45062pt x 180.675pt>
+[18 <./immagini/2fasi5.jpg> <./immagini/DualeProblema.jpg>]
+<immagini/ProblemaDuale1.jpg, id=129, 254.45062pt x 180.675pt>
 File: immagini/ProblemaDuale1.jpg Graphic file (type jpg)
 <use immagini/ProblemaDuale1.jpg>
-Package pdftex.def Info: immagini/ProblemaDuale1.jpg  used on input line 442.
+Package pdftex.def Info: immagini/ProblemaDuale1.jpg  used on input line 444.
 (pdftex.def)             Requested size: 142.26378pt x 101.02016pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--451
+Underfull \hbox (badness 10000) in paragraph at lines 450--453
 
  []
 
-[20 <./immagini/ProblemaDuale1.jpg>]
-<immagini/Grafico1.jpg, id=94, 345.54094pt x 341.77687pt>
+[19 <./immagini/ProblemaDuale1.jpg>]
+<immagini/Grafico1.jpg, id=136, 345.54094pt x 341.77687pt>
 File: immagini/Grafico1.jpg Graphic file (type jpg)
 <use immagini/Grafico1.jpg>
-Package pdftex.def Info: immagini/Grafico1.jpg  used on input line 465.
+Package pdftex.def Info: immagini/Grafico1.jpg  used on input line 467.
 (pdftex.def)             Requested size: 256.0748pt x 253.29163pt.
- [21 <./immagini/Grafico1.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 470--471
+ [20 <./immagini/Grafico1.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 472--473
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 475--477
+Underfull \hbox (badness 10000) in paragraph at lines 477--479
 
  []
 
-<immagini/Gomory0.jpg, id=98, 236.38312pt x 109.91063pt>
+<immagini/Gomory0.jpg, id=141, 236.38312pt x 109.91063pt>
 File: immagini/Gomory0.jpg Graphic file (type jpg)
 <use immagini/Gomory0.jpg>
-Package pdftex.def Info: immagini/Gomory0.jpg  used on input line 479.
+Package pdftex.def Info: immagini/Gomory0.jpg  used on input line 481.
 (pdftex.def)             Requested size: 170.71652pt x 79.37875pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 490--491
+Underfull \hbox (badness 10000) in paragraph at lines 492--493
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 494--496
+Underfull \hbox (badness 10000) in paragraph at lines 496--498
 
  []
 
-<immagini/Gomory1.jpg, id=99, 268.75406pt x 137.01187pt>
+<immagini/Gomory1.jpg, id=142, 268.75406pt x 137.01187pt>
 File: immagini/Gomory1.jpg Graphic file (type jpg)
 <use immagini/Gomory1.jpg>
-Package pdftex.def Info: immagini/Gomory1.jpg  used on input line 497.
+Package pdftex.def Info: immagini/Gomory1.jpg  used on input line 499.
 (pdftex.def)             Requested size: 170.71652pt x 87.03293pt.
-[22 <./immagini/Gomory0.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 500--501
+[21 <./immagini/Gomory0.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 502--503
 
  []
 
-<immagini/Gomory2.jpg, id=103, 575.90157pt x 146.04562pt>
+<immagini/Gomory2.jpg, id=149, 575.90157pt x 146.04562pt>
 File: immagini/Gomory2.jpg Graphic file (type jpg)
 <use immagini/Gomory2.jpg>
-Package pdftex.def Info: immagini/Gomory2.jpg  used on input line 503.
+Package pdftex.def Info: immagini/Gomory2.jpg  used on input line 505.
 (pdftex.def)             Requested size: 256.0748pt x 64.93994pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 506--507
+Underfull \hbox (badness 10000) in paragraph at lines 508--509
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 512--513
+Underfull \hbox (badness 10000) in paragraph at lines 514--515
 
  []
 
-<immagini/Gomory3.jpg, id=104, 632.3625pt x 169.38281pt>
+<immagini/Gomory3.jpg, id=150, 632.3625pt x 169.38281pt>
 File: immagini/Gomory3.jpg Graphic file (type jpg)
 <use immagini/Gomory3.jpg>
-Package pdftex.def Info: immagini/Gomory3.jpg  used on input line 515.
+Package pdftex.def Info: immagini/Gomory3.jpg  used on input line 517.
 (pdftex.def)             Requested size: 256.0748pt x 68.5919pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 518--519
+Underfull \hbox (badness 10000) in paragraph at lines 520--521
 
  []
 
-<immagini/Gomory4.jpg, id=105, 280.79906pt x 161.10187pt>
+<immagini/Gomory4.jpg, id=151, 280.79906pt x 161.10187pt>
 File: immagini/Gomory4.jpg Graphic file (type jpg)
 <use immagini/Gomory4.jpg>
-Package pdftex.def Info: immagini/Gomory4.jpg  used on input line 521.
+Package pdftex.def Info: immagini/Gomory4.jpg  used on input line 523.
 (pdftex.def)             Requested size: 170.71652pt x 97.94505pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 533--552
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 535--554
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 533--552
+Underfull \hbox (badness 10000) in paragraph at lines 535--554
 
  []
 
-[23 <./immagini/Gomory1.jpg> <./immagini/Gomory2.jpg> <./immagini/Gomory3.jpg> 
+[22 <./immagini/Gomory1.jpg> <./immagini/Gomory2.jpg> <./immagini/Gomory3.jpg> 
 <./immagini/Gomory4.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 561--562
+Underfull \hbox (badness 10000) in paragraph at lines 563--564
 
  []
 
-<immagini/matrici/2_0_1_0.jpg, id=109, 572.89032pt x 545.78906pt>
+<immagini/matrici/2_0_1_0.jpg, id=156, 572.89032pt x 545.78906pt>
 File: immagini/matrici/2_0_1_0.jpg Graphic file (type jpg)
 <use immagini/matrici/2_0_1_0.jpg>
-Package pdftex.def Info: immagini/matrici/2_0_1_0.jpg  used on input line 564.
+Package pdftex.def Info: immagini/matrici/2_0_1_0.jpg  used on input line 566.
 (pdftex.def)             Requested size: 284.52756pt x 271.07pt.
-[24]
-Underfull \hbox (badness 10000) in paragraph at lines 567--574
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 569--576
 
  []
 
-[25 <./immagini/matrici/2_0_1_0.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 597--597
+[24 <./immagini/matrici/2_0_1_0.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 599--599
 
  []
 
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 577--598
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 579--600
 [] 
  []
 
-<immagini/matrici/2_6_3_0.jpg, id=117, 351.56343pt x 718.93594pt>
+<immagini/matrici/2_6_3_0.jpg, id=167, 351.56343pt x 718.93594pt>
 File: immagini/matrici/2_6_3_0.jpg Graphic file (type jpg)
 <use immagini/matrici/2_6_3_0.jpg>
-Package pdftex.def Info: immagini/matrici/2_6_3_0.jpg  used on input line 600.
+Package pdftex.def Info: immagini/matrici/2_6_3_0.jpg  used on input line 602.
 (pdftex.def)             Requested size: 284.52756pt x 581.84128pt.
-[26]
+[25]
 Overfull \vbox (26.84128pt too high) has occurred while \output is active []
 
 
-[27 <./immagini/matrici/2_6_3_0.jpg>]
-<immagini/matrici/2_6_3_1.jpg, id=124, 353.06906pt x 270.25969pt>
+[26 <./immagini/matrici/2_6_3_0.jpg>]
+<immagini/matrici/2_6_3_1.jpg, id=178, 353.06906pt x 270.25969pt>
 File: immagini/matrici/2_6_3_1.jpg Graphic file (type jpg)
 <use immagini/matrici/2_6_3_1.jpg>
-Package pdftex.def Info: immagini/matrici/2_6_3_1.jpg  used on input line 603.
+Package pdftex.def Info: immagini/matrici/2_6_3_1.jpg  used on input line 605.
 (pdftex.def)             Requested size: 284.52756pt x 217.7957pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 628--628
+Underfull \hbox (badness 10000) in paragraph at lines 630--630
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 628--628
+Underfull \hbox (badness 10000) in paragraph at lines 630--630
 
  []
 
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 606--629
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 608--631
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 630--633
+Underfull \hbox (badness 10000) in paragraph at lines 632--635
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 630--633
+Underfull \hbox (badness 10000) in paragraph at lines 632--635
 
  []
 
-[28 <./immagini/matrici/2_6_3_1.jpg>] [29]
-Underfull \hbox (badness 10000) in paragraph at lines 658--661
+[27 <./immagini/matrici/2_6_3_1.jpg>] [28]
+Underfull \hbox (badness 10000) in paragraph at lines 660--663
 
  []
 
-<immagini/grafi/Dijkstra1.jpg, id=131, 639.89063pt x 374.90062pt>
+<immagini/grafi/Dijkstra1.jpg, id=188, 639.89063pt x 374.90062pt>
 File: immagini/grafi/Dijkstra1.jpg Graphic file (type jpg)
 <use immagini/grafi/Dijkstra1.jpg>
-Package pdftex.def Info: immagini/grafi/Dijkstra1.jpg  used on input line 662.
+Package pdftex.def Info: immagini/grafi/Dijkstra1.jpg  used on input line 664.
 (pdftex.def)             Requested size: 227.62204pt x 133.36237pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 664--665
+Underfull \hbox (badness 10000) in paragraph at lines 666--667
 
  []
 
-<immagini/grafi/Dijkstra2.jpg, id=132, 478.03593pt x 246.9225pt>
+<immagini/grafi/Dijkstra2.jpg, id=189, 478.03593pt x 246.9225pt>
 File: immagini/grafi/Dijkstra2.jpg Graphic file (type jpg)
 <use immagini/grafi/Dijkstra2.jpg>
-Package pdftex.def Info: immagini/grafi/Dijkstra2.jpg  used on input line 667.
+Package pdftex.def Info: immagini/grafi/Dijkstra2.jpg  used on input line 669.
 (pdftex.def)             Requested size: 227.62204pt x 117.57198pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 670--672
+Underfull \hbox (badness 10000) in paragraph at lines 672--674
 
  []
 
-[30 <./immagini/grafi/Dijkstra1.jpg> <./immagini/grafi/Dijkstra2.jpg>]
-<immagini/grafi/Dijkstra3.jpg, id=136, 475.7775pt x 249.93375pt>
+[29 <./immagini/grafi/Dijkstra1.jpg> <./immagini/grafi/Dijkstra2.jpg>]
+<immagini/grafi/Dijkstra3.jpg, id=197, 475.7775pt x 249.93375pt>
 File: immagini/grafi/Dijkstra3.jpg Graphic file (type jpg)
 <use immagini/grafi/Dijkstra3.jpg>
-Package pdftex.def Info: immagini/grafi/Dijkstra3.jpg  used on input line 674.
+Package pdftex.def Info: immagini/grafi/Dijkstra3.jpg  used on input line 676.
 (pdftex.def)             Requested size: 227.62204pt x 119.57402pt.
-<immagini/grafi/Dijkstra4.jpg, id=137, 485.56406pt x 252.19218pt>
+<immagini/grafi/Dijkstra4.jpg, id=198, 485.56406pt x 252.19218pt>
 File: immagini/grafi/Dijkstra4.jpg Graphic file (type jpg)
 <use immagini/grafi/Dijkstra4.jpg>
-Package pdftex.def Info: immagini/grafi/Dijkstra4.jpg  used on input line 680.
+Package pdftex.def Info: immagini/grafi/Dijkstra4.jpg  used on input line 682.
 (pdftex.def)             Requested size: 227.62204pt x 118.21863pt.
-<immagini/grafi/Dijkstra5.jpg, id=138, 479.54156pt x 246.9225pt>
+<immagini/grafi/Dijkstra5.jpg, id=199, 479.54156pt x 246.9225pt>
 File: immagini/grafi/Dijkstra5.jpg Graphic file (type jpg)
 <use immagini/grafi/Dijkstra5.jpg>
-Package pdftex.def Info: immagini/grafi/Dijkstra5.jpg  used on input line 686.
+Package pdftex.def Info: immagini/grafi/Dijkstra5.jpg  used on input line 688.
 (pdftex.def)             Requested size: 227.62204pt x 117.2065pt.
-<immagini/grafi/Dijkstra6.jpg, id=139, 483.30562pt x 244.66406pt>
+<immagini/grafi/Dijkstra6.jpg, id=200, 483.30562pt x 244.66406pt>
 File: immagini/grafi/Dijkstra6.jpg Graphic file (type jpg)
 <use immagini/grafi/Dijkstra6.jpg>
-Package pdftex.def Info: immagini/grafi/Dijkstra6.jpg  used on input line 687.
+Package pdftex.def Info: immagini/grafi/Dijkstra6.jpg  used on input line 689.
 (pdftex.def)             Requested size: 227.62204pt x 115.22731pt.
- [31 <./immagini/grafi/Dijkstra3.jpg> <./immagini/grafi/Dijkstra4.jpg> <./immag
+ [30 <./immagini/grafi/Dijkstra3.jpg> <./immagini/grafi/Dijkstra4.jpg> <./immag
 ini/grafi/Dijkstra5.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 691--692
+Underfull \hbox (badness 10000) in paragraph at lines 693--694
 
  []
 
-<immagini/grafi/SPT1.jpg, id=144, 305.64188pt x 193.47281pt>
+<immagini/grafi/SPT1.jpg, id=205, 305.64188pt x 193.47281pt>
 File: immagini/grafi/SPT1.jpg Graphic file (type jpg)
 <use immagini/grafi/SPT1.jpg>
-Package pdftex.def Info: immagini/grafi/SPT1.jpg  used on input line 694.
+Package pdftex.def Info: immagini/grafi/SPT1.jpg  used on input line 696.
 (pdftex.def)             Requested size: 142.26378pt x 90.05249pt.
-<immagini/grafi/SPT2.jpg, id=145, 296.60812pt x 134.75343pt>
+<immagini/grafi/SPT2.jpg, id=206, 296.60812pt x 134.75343pt>
 File: immagini/grafi/SPT2.jpg Graphic file (type jpg)
 <use immagini/grafi/SPT2.jpg>
-Package pdftex.def Info: immagini/grafi/SPT2.jpg  used on input line 695.
+Package pdftex.def Info: immagini/grafi/SPT2.jpg  used on input line 697.
 (pdftex.def)             Requested size: 142.26378pt x 64.6336pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 697--703
+Underfull \hbox (badness 10000) in paragraph at lines 699--705
 
  []
 
-<immagini/grafi/SPT3.jpg, id=146, 380.92313pt x 295.1025pt>
+<immagini/grafi/SPT3.jpg, id=207, 380.92313pt x 295.1025pt>
 File: immagini/grafi/SPT3.jpg Graphic file (type jpg)
 <use immagini/grafi/SPT3.jpg>
-Package pdftex.def Info: immagini/grafi/SPT3.jpg  used on input line 704.
+Package pdftex.def Info: immagini/grafi/SPT3.jpg  used on input line 706.
 (pdftex.def)             Requested size: 142.26378pt x 110.20836pt.
-<immagini/grafi/SPT4.jpg, id=147, 761.09344pt x 320.69812pt>
+<immagini/grafi/SPT4.jpg, id=208, 761.09344pt x 320.69812pt>
 File: immagini/grafi/SPT4.jpg Graphic file (type jpg)
 <use immagini/grafi/SPT4.jpg>
-Package pdftex.def Info: immagini/grafi/SPT4.jpg  used on input line 705.
+Package pdftex.def Info: immagini/grafi/SPT4.jpg  used on input line 707.
 (pdftex.def)             Requested size: 284.52756pt x 119.89449pt.
-[32 <./immagini/grafi/Dijkstra6.jpg> <./immagini/grafi/SPT1.jpg> <./immagini/gr
-afi/SPT2.jpg> <./immagini/grafi/SPT3.jpg>] [33 <./immagini/grafi/SPT4.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 724--725
+[31 <./immagini/grafi/Dijkstra6.jpg> <./immagini/grafi/SPT1.jpg> <./immagini/gr
+afi/SPT2.jpg> <./immagini/grafi/SPT3.jpg>] [32 <./immagini/grafi/SPT4.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 726--727
 
  []
 
-<immagini/grafi/Prim1.jpg, id=154, 179.16937pt x 143.78719pt>
+<immagini/grafi/Prim1.jpg, id=221, 179.16937pt x 143.78719pt>
 File: immagini/grafi/Prim1.jpg Graphic file (type jpg)
 <use immagini/grafi/Prim1.jpg>
-Package pdftex.def Info: immagini/grafi/Prim1.jpg  used on input line 726.
+Package pdftex.def Info: immagini/grafi/Prim1.jpg  used on input line 728.
 (pdftex.def)             Requested size: 170.71652pt x 137.01172pt.
-<immagini/grafi/Prim2.jpg, id=155, 625.58719pt x 165.61874pt>
+<immagini/grafi/Prim2.jpg, id=222, 625.58719pt x 165.61874pt>
 File: immagini/grafi/Prim2.jpg Graphic file (type jpg)
 <use immagini/grafi/Prim2.jpg>
-Package pdftex.def Info: immagini/grafi/Prim2.jpg  used on input line 733.
+Package pdftex.def Info: immagini/grafi/Prim2.jpg  used on input line 735.
 (pdftex.def)             Requested size: 312.9803pt x 82.8597pt.
-<immagini/grafi/Prim3.jpg, id=156, 585.68813pt x 158.84344pt>
+<immagini/grafi/Prim3.jpg, id=223, 585.68813pt x 158.84344pt>
 File: immagini/grafi/Prim3.jpg Graphic file (type jpg)
 <use immagini/grafi/Prim3.jpg>
-Package pdftex.def Info: immagini/grafi/Prim3.jpg  used on input line 739.
+Package pdftex.def Info: immagini/grafi/Prim3.jpg  used on input line 741.
 (pdftex.def)             Requested size: 312.9803pt x 84.88708pt.
-<immagini/grafi/Prim4.jpg, id=157, 606.01407pt x 231.11343pt>
+<immagini/grafi/Prim4.jpg, id=224, 606.01407pt x 231.11343pt>
 File: immagini/grafi/Prim4.jpg Graphic file (type jpg)
 <use immagini/grafi/Prim4.jpg>
-Package pdftex.def Info: immagini/grafi/Prim4.jpg  used on input line 745.
+Package pdftex.def Info: immagini/grafi/Prim4.jpg  used on input line 747.
 (pdftex.def)             Requested size: 312.9803pt x 119.36153pt.
-[34 <./immagini/grafi/Prim1.jpg> <./immagini/grafi/Prim2.jpg> <./immagini/grafi
+[33 <./immagini/grafi/Prim1.jpg> <./immagini/grafi/Prim2.jpg> <./immagini/grafi
 /Prim3.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 749--750
+Underfull \hbox (badness 10000) in paragraph at lines 751--752
 
  []
 
-<immagini/grafi/3_1_1_0.jpg, id=161, 289.83281pt x 201.75375pt>
+<immagini/grafi/3_1_1_0.jpg, id=230, 289.83281pt x 201.75375pt>
 File: immagini/grafi/3_1_1_0.jpg Graphic file (type jpg)
 <use immagini/grafi/3_1_1_0.jpg>
-Package pdftex.def Info: immagini/grafi/3_1_1_0.jpg  used on input line 762.
+Package pdftex.def Info: immagini/grafi/3_1_1_0.jpg  used on input line 764.
 (pdftex.def)             Requested size: 142.26378pt x 99.02951pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 751--763
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 753--765
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 764--765
+Underfull \hbox (badness 10000) in paragraph at lines 766--767
 
  []
 
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 7
-68.
+70.
 (C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
 File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 768.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 770.
 
-Underfull \hbox (badness 10000) in paragraph at lines 766--771
+Underfull \hbox (badness 10000) in paragraph at lines 768--773
 
  []
 
-<immagini/grafi/3_1_1_1.jpg, id=162, 474.27188pt x 373.395pt>
+<immagini/grafi/3_1_1_1.jpg, id=231, 474.27188pt x 373.395pt>
 File: immagini/grafi/3_1_1_1.jpg Graphic file (type jpg)
 <use immagini/grafi/3_1_1_1.jpg>
-Package pdftex.def Info: immagini/grafi/3_1_1_1.jpg  used on input line 773.
+Package pdftex.def Info: immagini/grafi/3_1_1_1.jpg  used on input line 775.
 (pdftex.def)             Requested size: 199.16928pt x 156.80774pt.
-[35 <./immagini/grafi/Prim4.jpg> <./immagini/grafi/3_1_1_0.jpg>]
-<immagini/grafi/3_2_2_0.jpg, id=166, 463.7325pt x 242.40562pt>
+[34 <./immagini/grafi/Prim4.jpg> <./immagini/grafi/3_1_1_0.jpg>]
+<immagini/grafi/3_2_2_0.jpg, id=237, 463.7325pt x 242.40562pt>
 File: immagini/grafi/3_2_2_0.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_2_0.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_2_0.jpg  used on input line 808.
+Package pdftex.def Info: immagini/grafi/3_2_2_0.jpg  used on input line 810.
 (pdftex.def)             Requested size: 199.16928pt x 104.11401pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 793--811
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 795--813
 [] 
  []
 
-[36 <./immagini/grafi/3_1_1_1.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 813--814
+[35 <./immagini/grafi/3_1_1_1.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 815--816
 
  []
 
-<immagini/grafi/3_2_2_1.jpg, id=170, 670.75594pt x 367.3725pt>
+<immagini/grafi/3_2_2_1.jpg, id=244, 670.75594pt x 367.3725pt>
 File: immagini/grafi/3_2_2_1.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_2_1.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_2_1.jpg  used on input line 816.
+Package pdftex.def Info: immagini/grafi/3_2_2_1.jpg  used on input line 818.
 (pdftex.def)             Requested size: 284.52756pt x 155.83133pt.
-[37 <./immagini/grafi/3_2_2_0.jpg> <./immagini/grafi/3_2_2_1.jpg>]
-<immagini/grafi/3_2_2_2.jpg, id=175, 441.90094pt x 250.68657pt>
+[36 <./immagini/grafi/3_2_2_0.jpg> <./immagini/grafi/3_2_2_1.jpg>]
+<immagini/grafi/3_2_2_2.jpg, id=250, 441.90094pt x 250.68657pt>
 File: immagini/grafi/3_2_2_2.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_2_2.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_2_2.jpg  used on input line 823.
+Package pdftex.def Info: immagini/grafi/3_2_2_2.jpg  used on input line 825.
 (pdftex.def)             Requested size: 170.71652pt x 96.84549pt.
- [38 <./immagini/grafi/3_2_2_2.jpg>]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 831--848
+ [37 <./immagini/grafi/3_2_2_2.jpg>]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 833--850
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 831--848
+Underfull \hbox (badness 10000) in paragraph at lines 833--850
 
  []
 
-<immagini/grafi/3_2_3_0.jpg, id=179, 472.01344pt x 141.52875pt>
+<immagini/grafi/3_2_3_0.jpg, id=256, 472.01344pt x 141.52875pt>
 File: immagini/grafi/3_2_3_0.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_3_0.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_3_0.jpg  used on input line 849.
+Package pdftex.def Info: immagini/grafi/3_2_3_0.jpg  used on input line 851.
 (pdftex.def)             Requested size: 199.16928pt x 59.72025pt.
-<immagini/grafi/3_2_3_0a.jpg, id=180, 481.8pt x 127.22531pt>
+<immagini/grafi/3_2_3_0a.jpg, id=257, 481.8pt x 127.22531pt>
 File: immagini/grafi/3_2_3_0a.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_3_0a.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_3_0a.jpg  used on input line 850.
+Package pdftex.def Info: immagini/grafi/3_2_3_0a.jpg  used on input line 852.
 (pdftex.def)             Requested size: 199.16928pt x 52.59174pt.
 
-Overfull \hbox (70.56078pt too wide) in paragraph at lines 849--851
+Overfull \hbox (70.56078pt too wide) in paragraph at lines 851--853
 [][] [] 
  []
 
-<immagini/grafi/3_2_3_1.jpg, id=181, 484.05844pt x 152.82094pt>
+<immagini/grafi/3_2_3_1.jpg, id=258, 484.05844pt x 152.82094pt>
 File: immagini/grafi/3_2_3_1.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_3_1.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_3_1.jpg  used on input line 855.
+Package pdftex.def Info: immagini/grafi/3_2_3_1.jpg  used on input line 857.
 (pdftex.def)             Requested size: 199.16928pt x 62.8785pt.
-<immagini/grafi/3_2_3_1a.jpg, id=182, 475.7775pt x 137.7647pt>
+<immagini/grafi/3_2_3_1a.jpg, id=259, 475.7775pt x 137.7647pt>
 File: immagini/grafi/3_2_3_1a.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_3_1a.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_3_1a.jpg  used on input line 856.
+Package pdftex.def Info: immagini/grafi/3_2_3_1a.jpg  used on input line 858.
 (pdftex.def)             Requested size: 199.16928pt x 57.67157pt.
 
-Overfull \hbox (70.56078pt too wide) in paragraph at lines 855--857
+Overfull \hbox (70.56078pt too wide) in paragraph at lines 857--859
 [][] [] 
  []
 
-[39 <./immagini/grafi/3_2_3_0.jpg> <./immagini/grafi/3_2_3_0a.jpg> <./immagini/
+[38 <./immagini/grafi/3_2_3_0.jpg> <./immagini/grafi/3_2_3_0a.jpg> <./immagini/
 grafi/3_2_3_1.jpg> <./immagini/grafi/3_2_3_1a.jpg>]
-<immagini/grafi/3_2_3_2.jpg, id=186, 477.28313pt x 144.54pt>
+<immagini/grafi/3_2_3_2.jpg, id=266, 477.28313pt x 144.54pt>
 File: immagini/grafi/3_2_3_2.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_3_2.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_3_2.jpg  used on input line 861.
+Package pdftex.def Info: immagini/grafi/3_2_3_2.jpg  used on input line 863.
 (pdftex.def)             Requested size: 199.16928pt x 60.316pt.
-<immagini/grafi/3_2_3_2a.jpg, id=187, 471.26062pt x 129.48375pt>
+<immagini/grafi/3_2_3_2a.jpg, id=267, 471.26062pt x 129.48375pt>
 File: immagini/grafi/3_2_3_2a.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_3_2a.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_3_2a.jpg  used on input line 862.
+Package pdftex.def Info: immagini/grafi/3_2_3_2a.jpg  used on input line 864.
 (pdftex.def)             Requested size: 199.16928pt x 54.7246pt.
 
-Overfull \hbox (70.56078pt too wide) in paragraph at lines 861--863
+Overfull \hbox (70.56078pt too wide) in paragraph at lines 863--865
 [][] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 864--866
+Underfull \hbox (badness 10000) in paragraph at lines 866--868
 
  []
 
-<immagini/grafi/3_2_3_3.jpg, id=188, 463.7325pt x 131.74219pt>
+<immagini/grafi/3_2_3_3.jpg, id=268, 463.7325pt x 131.74219pt>
 File: immagini/grafi/3_2_3_3.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_3_3.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_3_3.jpg  used on input line 871.
+Package pdftex.def Info: immagini/grafi/3_2_3_3.jpg  used on input line 873.
 (pdftex.def)             Requested size: 199.16928pt x 56.5837pt.
-<immagini/grafi/3_2_3_3a.jpg, id=189, 472.01344pt x 127.22531pt>
+<immagini/grafi/3_2_3_3a.jpg, id=269, 472.01344pt x 127.22531pt>
 File: immagini/grafi/3_2_3_3a.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_3_3a.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_3_3a.jpg  used on input line 872.
+Package pdftex.def Info: immagini/grafi/3_2_3_3a.jpg  used on input line 874.
 (pdftex.def)             Requested size: 199.16928pt x 53.68468pt.
 
-Overfull \hbox (70.56078pt too wide) in paragraph at lines 871--877
+Overfull \hbox (70.56078pt too wide) in paragraph at lines 873--879
 [][] [] 
  []
 
-<immagini/grafi/3_2_3_4.jpg, id=190, 463.7325pt x 131.74219pt>
+<immagini/grafi/3_2_3_4.jpg, id=270, 463.7325pt x 131.74219pt>
 File: immagini/grafi/3_2_3_4.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_3_4.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_3_4.jpg  used on input line 878.
+Package pdftex.def Info: immagini/grafi/3_2_3_4.jpg  used on input line 880.
 (pdftex.def)             Requested size: 199.16928pt x 56.5837pt.
-<immagini/grafi/3_2_3_4a.jpg, id=191, 486.31688pt x 128.73094pt>
+<immagini/grafi/3_2_3_4a.jpg, id=271, 486.31688pt x 128.73094pt>
 File: immagini/grafi/3_2_3_4a.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_3_4a.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_3_4a.jpg  used on input line 879.
+Package pdftex.def Info: immagini/grafi/3_2_3_4a.jpg  used on input line 881.
 (pdftex.def)             Requested size: 199.16928pt x 52.72108pt.
 
-Overfull \hbox (70.56078pt too wide) in paragraph at lines 878--882
+Overfull \hbox (70.56078pt too wide) in paragraph at lines 880--884
 [][] [] 
  []
 
-[40 <./immagini/grafi/3_2_3_2.jpg> <./immagini/grafi/3_2_3_2a.jpg> <./immagini/
+[39 <./immagini/grafi/3_2_3_2.jpg> <./immagini/grafi/3_2_3_2a.jpg> <./immagini/
 grafi/3_2_3_3.jpg> <./immagini/grafi/3_2_3_3a.jpg> <./immagini/grafi/3_2_3_4.jp
 g> <./immagini/grafi/3_2_3_4a.jpg>]
-<immagini/grafi/3_2_3_5.jpg, id=195, 472.76625pt x 132.495pt>
+<immagini/grafi/3_2_3_5.jpg, id=276, 472.76625pt x 132.495pt>
 File: immagini/grafi/3_2_3_5.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_3_5.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_3_5.jpg  used on input line 883.
+Package pdftex.def Info: immagini/grafi/3_2_3_5.jpg  used on input line 885.
 (pdftex.def)             Requested size: 199.16928pt x 55.81935pt.
-<immagini/grafi/3_2_3_5a.jpg, id=196, 468.24937pt x 129.48375pt>
+<immagini/grafi/3_2_3_5a.jpg, id=277, 468.24937pt x 129.48375pt>
 File: immagini/grafi/3_2_3_5a.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_3_5a.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_3_5a.jpg  used on input line 884.
+Package pdftex.def Info: immagini/grafi/3_2_3_5a.jpg  used on input line 886.
 (pdftex.def)             Requested size: 199.16928pt x 55.07628pt.
 
-Overfull \hbox (70.56078pt too wide) in paragraph at lines 883--885
+Overfull \hbox (70.56078pt too wide) in paragraph at lines 885--887
 [][] [] 
  []
 
-<immagini/grafi/3_2_4_0.jpg, id=197, 365.11406pt x 202.50656pt>
+<immagini/grafi/3_2_4_0.jpg, id=278, 365.11406pt x 202.50656pt>
 File: immagini/grafi/3_2_4_0.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_4_0.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_4_0.jpg  used on input line 888.
+Package pdftex.def Info: immagini/grafi/3_2_4_0.jpg  used on input line 890.
 (pdftex.def)             Requested size: 199.16928pt x 110.46739pt.
-<immagini/grafi/3_2_4_1.jpg, id=198, 490.83376pt x 210.03468pt>
+<immagini/grafi/3_2_4_1.jpg, id=279, 490.83376pt x 210.03468pt>
 File: immagini/grafi/3_2_4_1.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_4_1.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_4_1.jpg  used on input line 894.
+Package pdftex.def Info: immagini/grafi/3_2_4_1.jpg  used on input line 896.
 (pdftex.def)             Requested size: 256.0748pt x 109.58081pt.
-<immagini/grafi/3_2_4_2.jpg, id=199, 487.06969pt x 200.24812pt>
+<immagini/grafi/3_2_4_2.jpg, id=280, 487.06969pt x 200.24812pt>
 File: immagini/grafi/3_2_4_2.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_4_2.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_4_2.jpg  used on input line 900.
+Package pdftex.def Info: immagini/grafi/3_2_4_2.jpg  used on input line 902.
 (pdftex.def)             Requested size: 256.0748pt x 105.2785pt.
 File: immagini/grafi/3_2_4_0.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_4_0.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_4_0.jpg  used on input line 901.
+Package pdftex.def Info: immagini/grafi/3_2_4_0.jpg  used on input line 903.
 (pdftex.def)             Requested size: 142.26378pt x 78.90306pt.
 
-Overfull \hbox (70.56079pt too wide) in paragraph at lines 900--902
+Overfull \hbox (70.56079pt too wide) in paragraph at lines 902--904
 [][] [] 
  []
 
-[41 <./immagini/grafi/3_2_3_5.jpg> <./immagini/grafi/3_2_3_5a.jpg> <./immagini/
+[40 <./immagini/grafi/3_2_3_5.jpg> <./immagini/grafi/3_2_3_5a.jpg> <./immagini/
 grafi/3_2_4_0.jpg> <./immagini/grafi/3_2_4_1.jpg>]
-<immagini/grafi/3_2_4_3.jpg, id=203, 491.58656pt x 205.5178pt>
+<immagini/grafi/3_2_4_3.jpg, id=286, 491.58656pt x 205.5178pt>
 File: immagini/grafi/3_2_4_3.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_4_3.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_4_3.jpg  used on input line 909.
+Package pdftex.def Info: immagini/grafi/3_2_4_3.jpg  used on input line 911.
 (pdftex.def)             Requested size: 256.0748pt x 107.06116pt.
 File: immagini/grafi/3_2_4_0.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_4_0.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_4_0.jpg  used on input line 910.
+Package pdftex.def Info: immagini/grafi/3_2_4_0.jpg  used on input line 912.
 (pdftex.def)             Requested size: 142.26378pt x 78.90306pt.
 
-Overfull \hbox (70.56079pt too wide) in paragraph at lines 909--911
+Overfull \hbox (70.56079pt too wide) in paragraph at lines 911--913
 [][] [] 
  []
 
-<immagini/grafi/3_2_4_5.jpg, id=204, 490.83376pt x 205.5178pt>
+<immagini/grafi/3_2_4_5.jpg, id=287, 490.83376pt x 205.5178pt>
 File: immagini/grafi/3_2_4_5.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_4_5.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_4_5.jpg  used on input line 916.
+Package pdftex.def Info: immagini/grafi/3_2_4_5.jpg  used on input line 918.
 (pdftex.def)             Requested size: 256.0748pt x 107.22423pt.
-<immagini/grafi/3_2_4_5a.jpg, id=205, 367.3725pt x 201.75375pt>
+<immagini/grafi/3_2_4_5a.jpg, id=288, 367.3725pt x 201.75375pt>
 File: immagini/grafi/3_2_4_5a.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_4_5a.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_4_5a.jpg  used on input line 917.
+Package pdftex.def Info: immagini/grafi/3_2_4_5a.jpg  used on input line 919.
 (pdftex.def)             Requested size: 142.26378pt x 78.1295pt.
 
-Overfull \hbox (70.56079pt too wide) in paragraph at lines 916--918
+Overfull \hbox (70.56079pt too wide) in paragraph at lines 918--920
 [][] [] 
  []
 
-<immagini/grafi/3_2_4_6.jpg, id=206, 490.83376pt x 201.00093pt>
+<immagini/grafi/3_2_4_6.jpg, id=289, 490.83376pt x 201.00093pt>
 File: immagini/grafi/3_2_4_6.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_4_6.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_4_6.jpg  used on input line 923.
+Package pdftex.def Info: immagini/grafi/3_2_4_6.jpg  used on input line 925.
 (pdftex.def)             Requested size: 256.0748pt x 104.86765pt.
-<immagini/grafi/3_2_4_6a.jpg, id=207, 366.61969pt x 203.25937pt>
+<immagini/grafi/3_2_4_6a.jpg, id=290, 366.61969pt x 203.25937pt>
 File: immagini/grafi/3_2_4_6a.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_4_6a.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_4_6a.jpg  used on input line 924.
+Package pdftex.def Info: immagini/grafi/3_2_4_6a.jpg  used on input line 926.
 (pdftex.def)             Requested size: 142.26378pt x 78.87384pt.
 
-Overfull \hbox (70.56079pt too wide) in paragraph at lines 923--925
+Overfull \hbox (70.56079pt too wide) in paragraph at lines 925--927
 [][] [] 
  []
 
-[42 <./immagini/grafi/3_2_4_2.jpg> <./immagini/grafi/3_2_4_3.jpg> <./immagini/g
+[41 <./immagini/grafi/3_2_4_2.jpg> <./immagini/grafi/3_2_4_3.jpg> <./immagini/g
 rafi/3_2_4_5.jpg> <./immagini/grafi/3_2_4_5a.jpg>]
-<immagini/grafi/3_2_4_7.jpg, id=211, 492.33937pt x 201.00093pt>
+<immagini/grafi/3_2_4_7.jpg, id=295, 492.33937pt x 201.00093pt>
 File: immagini/grafi/3_2_4_7.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_4_7.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_4_7.jpg  used on input line 931.
+Package pdftex.def Info: immagini/grafi/3_2_4_7.jpg  used on input line 933.
 (pdftex.def)             Requested size: 256.0748pt x 104.54868pt.
-<immagini/grafi/3_2_4_7a.jpg, id=212, 365.86688pt x 203.25937pt>
+<immagini/grafi/3_2_4_7a.jpg, id=296, 365.86688pt x 203.25937pt>
 File: immagini/grafi/3_2_4_7a.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_4_7a.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_4_7a.jpg  used on input line 932.
+Package pdftex.def Info: immagini/grafi/3_2_4_7a.jpg  used on input line 934.
 (pdftex.def)             Requested size: 142.26378pt x 79.03511pt.
 
-Overfull \hbox (70.56079pt too wide) in paragraph at lines 931--933
+Overfull \hbox (70.56079pt too wide) in paragraph at lines 933--935
 [][] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 940--941
+Underfull \hbox (badness 10000) in paragraph at lines 942--943
 
  []
 
-<immagini/grafi/3_2_5_0.jpg, id=213, 250.68657pt x 124.21407pt>
+<immagini/grafi/3_2_5_0.jpg, id=297, 250.68657pt x 124.21407pt>
 File: immagini/grafi/3_2_5_0.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_5_0.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_5_0.jpg  used on input line 943.
+Package pdftex.def Info: immagini/grafi/3_2_5_0.jpg  used on input line 945.
 (pdftex.def)             Requested size: 170.71652pt x 84.5933pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 946--947
+Underfull \hbox (badness 10000) in paragraph at lines 948--949
 
  []
 
-[43 <./immagini/grafi/3_2_4_6.jpg> <./immagini/grafi/3_2_4_6a.jpg> <./immagini/
+[42 <./immagini/grafi/3_2_4_6.jpg> <./immagini/grafi/3_2_4_6a.jpg> <./immagini/
 grafi/3_2_4_7.jpg> <./immagini/grafi/3_2_4_7a.jpg> <./immagini/grafi/3_2_5_0.jp
 g>]
-Underfull \hbox (badness 10000) in paragraph at lines 953--955
+Underfull \hbox (badness 10000) in paragraph at lines 955--957
 
  []
 
-<immagini/grafi/3_2_5_1.jpg, id=218, 207.02344pt x 204.01219pt>
+<immagini/grafi/3_2_5_1.jpg, id=304, 207.02344pt x 204.01219pt>
 File: immagini/grafi/3_2_5_1.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_5_1.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_5_1.jpg  used on input line 956.
+Package pdftex.def Info: immagini/grafi/3_2_5_1.jpg  used on input line 958.
 (pdftex.def)             Requested size: 170.71652pt x 168.23741pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 958--960
+Underfull \hbox (badness 10000) in paragraph at lines 960--962
 
  []
 
-<immagini/grafi/3_2_5_2a.jpg, id=219, 411.03563pt x 143.03438pt>
+<immagini/grafi/3_2_5_2a.jpg, id=305, 411.03563pt x 143.03438pt>
 File: immagini/grafi/3_2_5_2a.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_5_2a.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_5_2a.jpg  used on input line 961.
+Package pdftex.def Info: immagini/grafi/3_2_5_2a.jpg  used on input line 963.
 (pdftex.def)             Requested size: 227.62204pt x 79.20822pt.
-<immagini/grafi/3_2_5_3.jpg, id=220, 243.15843pt x 255.95625pt>
+<immagini/grafi/3_2_5_3.jpg, id=306, 243.15843pt x 255.95625pt>
 File: immagini/grafi/3_2_5_3.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_5_3.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_5_3.jpg  used on input line 962.
+Package pdftex.def Info: immagini/grafi/3_2_5_3.jpg  used on input line 964.
 (pdftex.def)             Requested size: 170.71652pt x 179.6993pt.
-[44 <./immagini/grafi/3_2_5_1.jpg> <./immagini/grafi/3_2_5_2a.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 965--968
+[43 <./immagini/grafi/3_2_5_1.jpg> <./immagini/grafi/3_2_5_2a.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 967--970
 
  []
 
-<immagini/grafi/3_2_5_4.jpg, id=224, 497.60907pt x 221.32687pt>
+<immagini/grafi/3_2_5_4.jpg, id=312, 497.60907pt x 221.32687pt>
 File: immagini/grafi/3_2_5_4.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_5_4.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_5_4.jpg  used on input line 969.
+Package pdftex.def Info: immagini/grafi/3_2_5_4.jpg  used on input line 971.
 (pdftex.def)             Requested size: 227.62204pt x 101.24422pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 971--973
+Underfull \hbox (badness 10000) in paragraph at lines 973--975
 
  []
 
-<immagini/grafi/3_2_5_5.jpg, id=225, 231.86626pt x 222.07968pt>
+<immagini/grafi/3_2_5_5.jpg, id=313, 231.86626pt x 222.07968pt>
 File: immagini/grafi/3_2_5_5.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_5_5.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_5_5.jpg  used on input line 974.
+Package pdftex.def Info: immagini/grafi/3_2_5_5.jpg  used on input line 976.
 (pdftex.def)             Requested size: 170.71652pt x 163.51294pt.
-[45 <./immagini/grafi/3_2_5_3.jpg> <./immagini/grafi/3_2_5_4.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 976--977
+[44 <./immagini/grafi/3_2_5_3.jpg> <./immagini/grafi/3_2_5_4.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 978--979
 
  []
 
-<immagini/grafi/3_2_5_2.jpg, id=229, 511.9125pt x 331.2375pt>
+<immagini/grafi/3_2_5_2.jpg, id=318, 511.9125pt x 331.2375pt>
 File: immagini/grafi/3_2_5_2.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_5_2.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_5_2.jpg  used on input line 979.
+Package pdftex.def Info: immagini/grafi/3_2_5_2.jpg  used on input line 981.
 (pdftex.def)             Requested size: 227.62204pt x 147.28143pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 984--1004
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 986--1006
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 984--1004
+Underfull \hbox (badness 10000) in paragraph at lines 986--1006
 
  []
 
-[46 <./immagini/grafi/3_2_5_5.jpg> <./immagini/grafi/3_2_5_2.jpg>]
-<immagini/grafi/PLC1.jpg, id=233, 525.46312pt x 380.92313pt>
+[45 <./immagini/grafi/3_2_5_5.jpg> <./immagini/grafi/3_2_5_2.jpg>]
+<immagini/grafi/PLC1.jpg, id=323, 525.46312pt x 380.92313pt>
 File: immagini/grafi/PLC1.jpg Graphic file (type jpg)
 <use immagini/grafi/PLC1.jpg>
-Package pdftex.def Info: immagini/grafi/PLC1.jpg  used on input line 1005.
+Package pdftex.def Info: immagini/grafi/PLC1.jpg  used on input line 1007.
 (pdftex.def)             Requested size: 256.0748pt x 185.6426pt.
-<immagini/grafi/PLC2.jpg, id=234, 520.94624pt x 362.85562pt>
+<immagini/grafi/PLC2.jpg, id=324, 520.94624pt x 362.85562pt>
 File: immagini/grafi/PLC2.jpg Graphic file (type jpg)
 <use immagini/grafi/PLC2.jpg>
-Package pdftex.def Info: immagini/grafi/PLC2.jpg  used on input line 1009.
+Package pdftex.def Info: immagini/grafi/PLC2.jpg  used on input line 1011.
 (pdftex.def)             Requested size: 256.0748pt x 178.36555pt.
- [47 <./immagini/grafi/PLC1.jpg>]
-<immagini/grafi/PLC3.jpg, id=238, 518.6878pt x 337.26pt>
+ [46 <./immagini/grafi/PLC1.jpg>]
+<immagini/grafi/PLC3.jpg, id=330, 518.6878pt x 337.26pt>
 File: immagini/grafi/PLC3.jpg Graphic file (type jpg)
 <use immagini/grafi/PLC3.jpg>
-Package pdftex.def Info: immagini/grafi/PLC3.jpg  used on input line 1013.
+Package pdftex.def Info: immagini/grafi/PLC3.jpg  used on input line 1015.
 (pdftex.def)             Requested size: 256.0748pt x 166.50935pt.
-<immagini/grafi/PLC4.jpg, id=239, 551.81157pt x 352.31625pt>
+<immagini/grafi/PLC4.jpg, id=331, 551.81157pt x 352.31625pt>
 File: immagini/grafi/PLC4.jpg Graphic file (type jpg)
 <use immagini/grafi/PLC4.jpg>
-Package pdftex.def Info: immagini/grafi/PLC4.jpg  used on input line 1017.
+Package pdftex.def Info: immagini/grafi/PLC4.jpg  used on input line 1019.
 (pdftex.def)             Requested size: 256.0748pt x 163.5028pt.
-<immagini/grafi/PLC5.jpg, id=240, 444.15938pt x 391.4625pt>
+<immagini/grafi/PLC5.jpg, id=332, 444.15938pt x 391.4625pt>
 File: immagini/grafi/PLC5.jpg Graphic file (type jpg)
 <use immagini/grafi/PLC5.jpg>
-Package pdftex.def Info: immagini/grafi/PLC5.jpg  used on input line 1020.
+Package pdftex.def Info: immagini/grafi/PLC5.jpg  used on input line 1022.
 (pdftex.def)             Requested size: 199.16928pt x 175.53528pt.
- [48 <./immagini/grafi/PLC2.jpg> <./immagini/grafi/PLC3.jpg> <./immagini/grafi/
+ [47 <./immagini/grafi/PLC2.jpg> <./immagini/grafi/PLC3.jpg> <./immagini/grafi/
 PLC4.jpg>]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1024--1038
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1026--1040
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1024--1038
+Underfull \hbox (badness 10000) in paragraph at lines 1026--1040
 
  []
 
-<immagini/grafi/3_2_1_0.jpg, id=244, 465.23813pt x 414.04688pt>
+<immagini/grafi/3_2_1_0.jpg, id=337, 465.23813pt x 414.04688pt>
 File: immagini/grafi/3_2_1_0.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_1_0.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_1_0.jpg  used on input line 1043.
+Package pdftex.def Info: immagini/grafi/3_2_1_0.jpg  used on input line 1045.
 (pdftex.def)             Requested size: 199.16928pt x 177.25327pt.
-[49 <./immagini/grafi/PLC5.jpg>] [50 <./immagini/grafi/3_2_1_0.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 1084--1084
+[48 <./immagini/grafi/PLC5.jpg>] [49 <./immagini/grafi/3_2_1_0.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 1086--1086
 
  []
 
@@ -1239,66 +1420,66 @@ File: lstlang1.sty 2020/03/24 1.8d listings language file
 (C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 )
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1067--1094
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1069--1096
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1067--1094
+Underfull \hbox (badness 10000) in paragraph at lines 1069--1096
 
  []
 
-[51]
-Underfull \hbox (badness 10000) in paragraph at lines 1137--1137
+[50]
+Underfull \hbox (badness 10000) in paragraph at lines 1139--1139
 
  []
 
 
-Overfull \hbox (66.31479pt too wide) detected at line 1137
+Overfull \hbox (66.31479pt too wide) detected at line 1139
 []
  []
 
 
-Overfull \hbox (73.11478pt too wide) in paragraph at lines 1118--1147
+Overfull \hbox (73.11478pt too wide) in paragraph at lines 1120--1149
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1118--1147
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1149
 
  []
 
-[52]
-Underfull \hbox (badness 10000) in paragraph at lines 1198--1198
+[51]
+Underfull \hbox (badness 10000) in paragraph at lines 1200--1200
 
  []
 
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1182--1208
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1184--1210
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1182--1208
+Underfull \hbox (badness 10000) in paragraph at lines 1184--1210
 
  []
 
-[53] [54]
-Underfull \hbox (badness 10000) in paragraph at lines 1237--1238
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1239--1248
+[52] [53]
+Underfull \hbox (badness 10000) in paragraph at lines 1239--1240
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1274--1275
+Underfull \hbox (badness 10000) in paragraph at lines 1241--1250
 
  []
 
-[55]
+
+Underfull \hbox (badness 10000) in paragraph at lines 1276--1277
+
+ []
+
+[54]
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ≤ in font cmr10!
 Missing character: There is no √ in font cmr10!
@@ -1309,17 +1490,17 @@ Missing character: There is no í in font cmr10!
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ® in font cmr10!
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1293--1305
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1295--1307
 [] 
  []
 
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1306--1319
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1308--1321
 [] 
  []
 
-[56]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1320--1331
+[55]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1322--1333
 [] 
  []
 
@@ -1339,7 +1520,7 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1332--1344
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1334--1346
 [] 
  []
 
@@ -1350,23 +1531,23 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1345--1355
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1347--1357
 [] 
  []
 
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1356--1361
-[] 
+Overfull \hbox (50.68898pt too wide) in paragraph at lines 1358--1365
+[]\OT1/cmr/m/n/10 Soluzione: 
  []
 
-[57]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1363--1368
-[] 
+[56]
+Overfull \hbox (50.68898pt too wide) in paragraph at lines 1367--1374
+[]\OT1/cmr/m/n/10 Soluzione: 
  []
 
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1370--1375
-[] 
+Overfull \hbox (50.68898pt too wide) in paragraph at lines 1376--1383
+[]\OT1/cmr/m/n/10 Soluzione: 
  []
 
 Missing character: There is no ‚ in font cmr10!
@@ -1376,48 +1557,57 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1377--1382
-[] 
+Overfull \hbox (50.68898pt too wide) in paragraph at lines 1385--1392
+[]\OT1/cmr/m/n/10 Soluzione: 
  []
 
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1384--1389
-[] 
+Overfull \hbox (50.68898pt too wide) in paragraph at lines 1393--1400
+[]\OT1/cmr/m/n/10 Soluzione: 
  []
 
-[58] (SimpleDocument.aux) ) 
+[57] (SimpleDocument.aux)
+
+Package rerunfilecheck Warning: File `SimpleDocument.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `SimpleDocument.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  E819F50BC83584E1FC153B9849328368;4516.
+ ) 
 Here is how much of TeX's memory you used:
- 5471 strings out of 479697
- 81107 string characters out of 2866183
- 654798 words of memory out of 3000000
- 22416 multiletter control sequences out of 15000+200000
+ 9490 strings out of 479697
+ 145333 string characters out of 2866183
+ 739672 words of memory out of 3000000
+ 26118 multiletter control sequences out of 15000+200000
  412403 words of font info for 62 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,18n,74p,698b,1792s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Meschio\AppData\Local\MiKTeX\fonts/pk/ljf
-our/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Meschio/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Meschio/AppData/Local/P
-rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Meschio/AppD
-ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Me
-schio/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><
-C:/Users/Meschio/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
-mmi10.pfb><C:/Users/Meschio/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmmi5.pfb><C:/Users/Meschio/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmmi7.pfb><C:/Users/Meschio/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Meschio/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Meschio/AppData/Loc
-al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Meschio/A
-ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/
-Meschio/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><
-C:/Users/Meschio/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
-mr9.pfb><C:/Users/Meschio/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmsy10.pfb><C:/Users/Meschio/AppData/Local/Programs/MiKTeX/fonts/type1/
-public/amsfonts/cm/cmsy7.pfb><C:/Users/Meschio/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/Meschio/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on SimpleDocument.pdf (58 pages, 2763921 bytes).
+ 66i,18n,74p,698b,2020s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Meschio\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tc
+rm1000.pk><C:/Users/Meschio/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmbx10.pfb><C:/Users/Meschio/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Meschio/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Meschio/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Meschio/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Mesch
+io/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/U
+sers/Meschio/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7
+.pfb><C:/Users/Meschio/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmr10.pfb><C:/Users/Meschio/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmr12.pfb><C:/Users/Meschio/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Meschio/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Meschio/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Meschio/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Meschio
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Us
+ers/Meschio/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.
+pfb><C:/Users/Meschio/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmtt10.pfb><C:/Users/Meschio/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/symbols/msam10.pfb>
+Output written on SimpleDocument.pdf (57 pages, 2789918 bytes).
 PDF statistics:
- 338 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
+ 605 PDF objects out of 1000 (max. 8388607)
+ 220 named destinations out of 1000 (max. 500000)
  381 words of extra memory for PDF output out of 10000 (max. 10000000)
 
