@@ -10,6 +10,9 @@
 \usepackage{textcomp}
 \lstset{upquote=true}
 
+\usepackage{graphicx} %pacchetti per mettere immagini in equazioni
+\usepackage[export]{adjustbox}
+
 \usepackage{hyperref} %per gli hyperlink
 
 \usepackage{imakeidx} %per l'indice
@@ -453,16 +456,16 @@ Reiteriamo per ogni colonna, il vettore colonna azzurro, ovvero il vettore dei t
 \begin{align*}
 max: &8u_1 - 2u_2 \\
 &-u_1 \leqq 2  \\
-&3u_1 - u_2 \leqq 3   \\
+&3u_1 - u_2 \leqq 3  \\
 &-2u_1 + u_2 \leqq 1   \\
 &u_1, u_2 \geqq 0 \\
 \end{align*}
 
-\raisebox{-.5\height}{\includegraphics[width=5cm]{immagini/ProblemaDuale1.jpg}}
+\raisebox{-.5\height}{\includegraphics[width=4cm]{immagini/ProblemaDuale1.jpg}}
 \end{center}
 
 Osservando l'ultima immagine per chiarezza col risultato finale che si riconduce al sistema iniziale.\\
-Se volessi risolvere il sistema invece, partendo dal sistema già orientato nel verso giusto e il suo problema duale:\\
+Se volessi risolvere il sistema invece, partendo dal sistema già orientato nel verso giusto e il suo problema duale con soluzione $x=(15,0,20,0,0)$ $z_P=-30$:\\
 
 \begin{align*}
 min: &2x_1 + 4x_2 - 3x_3 & & & max: &5u_1 - 10u_2 \\
