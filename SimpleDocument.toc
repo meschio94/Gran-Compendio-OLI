@@ -20,10 +20,10 @@
 \contentsline {subsubsection}{\numberline {3.2.3}2Fasi}{17}{subsubsection.3.2.3}%
 \contentsline {subsubsection}{\numberline {3.2.4}Duale del problema}{19}{subsubsection.3.2.4}%
 \contentsline {subsection}{\numberline {3.3}Rappresentazione Grafica}{22}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}ILP}{23}{subsection.3.4}%
-\contentsline {subsubsection}{\numberline {3.4.1}Tagli di Gomory}{23}{subsubsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.5}Esercizi Particolari}{25}{subsection.3.5}%
-\contentsline {subsubsection}{\numberline {3.5.1}Simplesso con variabili free}{25}{subsubsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.4}ILP}{24}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Tagli di Gomory}{24}{subsubsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.5}Esercizi Particolari}{26}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}Simplesso con variabili free}{26}{subsubsection.3.5.1}%
 \contentsline {subsubsection}{\numberline {3.5.2}Problema PLC con simplesso e gomory in salsa teriyaki}{28}{subsubsection.3.5.2}%
 \contentsline {subsubsection}{\numberline {3.5.3}Senstivity Analysis}{30}{subsubsection.3.5.3}%
 \contentsline {section}{\numberline {4}Grafi}{32}{section.4}%
