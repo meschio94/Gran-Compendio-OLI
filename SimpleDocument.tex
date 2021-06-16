@@ -22,7 +22,7 @@
 
 \title{Gran Compendio OLI}
 \author{\href{https://github.com/meschio94/Gran-Compendio-OLI}{Meschio}}
-\date{2021\\V1.0c}
+\date{2021\\V1.1}
 
 \begin{document}
 \maketitle
@@ -493,6 +493,11 @@ variabili del problema primale, risolvo il sistema e ottengo i valori delle
 variabili della funzione obiettivo del problema primale
 \end{itemize}
 
+Nell'esempio del sistema sopra, stringi stringi abbiamo fatto:\\
+Poniamo a $0$ le $x$ dentro le parentesi, abbiamo un sistema di $n$ equazioni in $m$ incognite, poniamo uguali a $0$ a scelta $n-m$, noi scegliamo quindi di annullare fuori dalle parentesi tra $x_1,x_2,x_3$, $x_2=0$ per semplificarci i calcoli (si veda la 4 riga del sistema risolto sopra), ci rimane in questo caso un sistema a due equazioni:\\
+$u_1 - 2u_2 = 2$\\
+$(u_1 + u_2) = -1$\\
+Lo risolviamo $u_1 = 4, u_2 = 1$ avremo per cui sostituendo le relative $u$ nella funzione obbiettivo del duale $5u_1 - 10u_2$, $z = -30$.
 \subsection{Rappresentazione Grafica}
 Anche tu sei a digiuno di grafici ed hai un incontrollato appetito di disegnarne altri ?\\
 Molto semplicemente partendo da un sistema, si calcola la derivata prima della funzione obbiettivo per avere il nostro bel gradiente.
