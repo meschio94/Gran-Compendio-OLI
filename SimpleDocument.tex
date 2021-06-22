@@ -15,6 +15,8 @@
 
 \usepackage{hyperref} %per gli hyperlink
 
+\usepackage{enumitem}%per numerare gli item con le lettere, usato nella sezione 6
+
 \usepackage{imakeidx} %per l'indice
 \makeindex
 
@@ -22,7 +24,7 @@
 
 \title{Gran Compendio OLI}
 \author{\href{https://github.com/meschio94/Gran-Compendio-OLI}{Meschio}}
-\date{2021\\V1.1}
+\date{2021\\V1.2}
 
 \begin{document}
 \maketitle
@@ -525,7 +527,7 @@ Integer Linear Programming, in italiano Programmazione Lineare Intera PLI
 I tagli di gomory si usano quando il nostro problema da PL Lineare è PLI, ovvero Lineare Intero, il principio è che, non avendo numeri con virgole, posso approssimare il risultato all'intero più vicino.\\
 
 Partendo dal tableu già risolto e con risultato ottimale e avendo termini fratti nella $R_0$, posso sfruttare Gomory per trovare una soluzione PLI, la formula da usare è:\\
-$\displaystyle \sum_{j \in F} ( \underline{a}_{tj} - \lfloor \underline{a}_{tj} \rfloor )x_j \geqq \underline{b}_t -  \lfloor \underline{b}_t \rfloor$
+$\displaystyle \sum_{j \in F} ( \overline{a}_{tj} - \lfloor \overline{a}_{tj} \rfloor )x_j \geqq \overline{b}_t -  \lfloor \overline{b}_t \rfloor$
 
 NB. Le sbarre non sono valore assoluto, ma significano che approssimo difetto.\\
 Dovrò aggiungere una riga e una colonna alla fine del mio tableu, sfruttando la relativa formula, vediamo un esempio:\\
@@ -1341,17 +1343,26 @@ max : z= &\displaystyle \sum_{i=0}^{n} \sum_{j=0}^{n} c_{ij} x_{ij} + \sum_{i=0}
 \end{align*}
 \end{center}
 
+\newpage
 \section{Domande varie di teoria}
-Ricordo che il prof assegna +1 a risposta corretta, ma toglie -1 a risposta errata!, può essere che alcune domande abbiano più di una risposta corretta o nessuna risposta.\\
-Per alcune purtroppo non ho soluzione certa
+Il conteggio si svolge cosi all'esame, avrete 5 domande, ogni domanda può darvi massimo 1 punto a giusta o togliervi massimo 1 punto se sbagliate tutto, ogni domanda puo avere più di una scelta giusta, se sbagliate una scelta all'interno di quella domanda, l'errore rimane confinato li ed andrà a sottrarsi al monte punti, ad esempio: se la domanda X, ha 3 scelte giuste, quindi un totale di 3 punti interni a quella domanda, io ne segno 2 giuste ed una sbagliata, ottengo $2-1 = 1$ punto, che sui 3 giusti vale $0.33$ punti reali per l'esame!\\
+nel caso avessi preso tutte e 3 le scelte giuste della domanda X quindi facendo internamente a quella domanda $3$ punti, avrei ottenuto $1$ punto pieno per il mio esame.\\
+Il prof arrotonda per eccesso, ovviamente se in una domanda sbaglio tutto posso andare in negativo fino ad un massimo di $-1$ punto per domanda nel conto del voto finale dell'esame, rispondete se siete sicuri.
 \subsection{PLC degenerate}
 \noindent\fbox{%
     \parbox{\textwidth}{%
-A basic solution of a PLC problem is called degenerate when: (a) there are more variables
-than constraints; (b) the number of basic variables with zero value is equal to the number of
-constraints; (c) the number of basic variables with zero value is equal to the difference of the
-number of columns and rows (n − m); (d) the number of basic variables with non-zero value is
-equal to the number of rows in the constrains matrix; (e) the basic matrix is invertible.
+A basic solution of a PLC problem is called degenerate when:
+ \begin{enumerate}[label=\Alph*]
+\item | there are more variables
+than constraints;
+\item | the number of basic variables with zero value is equal to the number of
+constraints;
+\item | the number of basic variables with zero value is equal to the difference of the
+number of columns and rows (n − m);
+\item | the number of basic variables with non-zero value is
+equal to the number of rows in the constrains matrix;
+\item | the basic matrix is invertible.
+\end{enumerate}
 }%
 }%
 \\
@@ -1360,12 +1371,19 @@ Nessuna di queste è giusta.
 \subsection{PLC sensitivty}
 \noindent\fbox{%
     \parbox{\textwidth}{%
-Given a PLC problem the sensitivity analysis of a right hand side value b: (a) defines an
-upper bound on the optimal solution value; (b) defines the minimum and maximum value of
-b which does not change the optimal basis; (c) defines the minimum and maximum value of b
-which does not change the value of the optimal solution; (d) defines the range of values of b
-which does not change the reduced costs; (e) defines the range of values of b which does not
+Given a PLC problem the sensitivity analysis of a right hand side value b:
+ \begin{enumerate}[label=\Alph*]
+\item | defines an
+upper bound on the optimal solution value;
+\item | defines the minimum and maximum value of
+b which does not change the optimal basis;
+\item | defines the minimum and maximum value of b
+which does not change the value of the optimal solution;
+\item | defines the range of values of b
+which does not change the reduced costs;
+\item | defines the range of values of b which does not
 change the dual variables;
+\end{enumerate}
 }%
 }%
 \\
@@ -1374,10 +1392,16 @@ Soluzione:\\
 \subsection{B\&B}
 \noindent\fbox{%
     \parbox{\textwidth}{%
- The branch-and-bound method: (a) is used to find the computational complexity of the
-problem; (b) can be applied to minimization problems in standard form; (c) finds the optimal
-solution of an NP-complete problem; (d) always use as bounding procedure the solution of a
-PLC problem; (e) none of the above answers.
+ The branch-and-bound method:
+ \begin{enumerate}[label=\Alph*]
+\item | is used to find the computational complexity of the
+problem;
+\item | can be applied to minimization problems in standard form; \item | finds the optimal
+solution of an NP-complete problem;
+\item | always use as bounding procedure the solution of a
+PLC problem;
+\item | none of the above answers.
+\end{enumerate}
 }%
 }%
 \\
@@ -1387,10 +1411,17 @@ Soluzione:\\
 \noindent\fbox{%
     \parbox{\textwidth}{%
 Given a PLC problem P in minimization form, with 2 constraints with sign ’≥’ and 1
-constraint with sign ’=’, and 5 variables, consider the dual problem D: (a) D has 3 variables
-and 5 constraints; (b) D has 5 variables and 3 constraints; (c) the first variable of D must be
-non-negative; (d) the third variable of D is unrestricted in sign; (e) the second variable of D
+constraint with sign ’=’, and 5 variables, consider the dual problem D:
+\begin{enumerate}[label=\Alph*]
+\item | D has 3 variables
+and 5 constraints;
+\item | D has 5 variables and 3 constraints;
+\item | the first variable of D must be
+non-negative;
+\item | the third variable of D is unrestricted in sign;
+\item | the second variable of D
 must be non-positive.
+\end{enumerate}
 }%
 }%
 \\
@@ -1399,9 +1430,16 @@ Soluzione:\\
 \subsection{cutting Plane}
 \noindent\fbox{%
     \parbox{\textwidth}{%
-The cutting plane method: (a) is used to solve linear programming problems with continuous variables; (b) terminates in a polynomial number of iterations; (c) is used to solve
-NP-complete (”difficult”) problems; (d) at each iteration uses the simplex algorithm to solve
-the current subproblem; (e) uses the lowest-first strategy to explore the subproblems.
+The cutting plane method:
+\begin{enumerate}[label=\Alph*]
+\item | is used to solve linear programming problems with continuous variables;
+\item | terminates in a polynomial number of iterations;
+\item | is used to solve
+NP-complete (”difficult”) problems;
+\item | at each iteration uses the simplex algorithm to solve
+the current subproblem;
+\item | uses the lowest-first strategy to explore the subproblems.
+\end{enumerate}
 }%
 }%
 \\
@@ -1410,7 +1448,14 @@ Soluzione:\\
 \subsection{PLC dual}
 \noindent\fbox{%
     \parbox{\textwidth}{%
-Given a primal PLC problem in minimization form and its dual: (a) if the primal has finite solution, then the dual has finite solution; (b) a feasible dual solution may have a value smaller than that of the optimal primal solution; (c) if the primal is unbounded, then the dual is unbounded; (d) any feasible solution of the primal has a value greater or equal to any feasible solution of the dual; (e) if the primal is empty, then the dual is empty.
+Given a primal PLC problem in minimization form and its dual:
+\begin{enumerate}[label=\Alph*]
+\item | if the primal has finite solution, then the dual has finite solution;
+\item | a feasible dual solution may have a value smaller than that of the optimal primal solution;
+\item | if the primal is unbounded, then the dual is unbounded;
+\item | any feasible solution of the primal has a value greater or equal to any feasible solution of the dual;
+\item | if the primal is empty, then the dual is empty.
+\end{enumerate}
 }%
 }%
 \\
@@ -1420,17 +1465,29 @@ Soluzione:\\
 \subsection{Dijkstra}
 \noindent\fbox{%
     \parbox{\textwidth}{%
-The Dijkstra algorithm : (a) cannot be used in a graph with negative cost arcs; (b) cannot be used in a graph with negative circuits; (c) can be used to find the shortest path in a directed graph, from a source node to a sink node; (d) can be used to find the minimum cost spanning tree; (e) cannot be applied to acyclic graphs.
+The Dijkstra algorithm :
+\begin{enumerate}[label=\Alph*]
+\item | cannot be used in a graph with negative cost arcs;
+\item | cannot be used in a graph with negative circuits;
+\item | can be used to find the shortest path in a directed graph, from a source node to a sink node;
+\item | can be used to find the minimum cost spanning tree;
+\item | cannot be applied to acyclic graphs.
+\end{enumerate}
 }%
 }%
 \\
 Soluzione:\\
 (A,B,C)
 
+\newpage
 \subsection{B\&B knapsack}
 \noindent\fbox{%
     \parbox{\textwidth}{%
-The branch-and-bound method for 0-1 knapsack problems: (a) uses a decision tree with an exponential number of levels; (b) uses a decision tree with a polynomial number of levels; (c) uses the lowest-first strategy to explore the decision tree; (d) computes an upper bound at each node of the decision tree; (e) uses a decision tree with an exponential number of nodes.
+The branch-and-bound method for 0-1 knapsack problems: 
+\begin{enumerate}[label=\Alph*]
+\item | uses a decision tree with an exponential number of levels; \item | uses a decision tree with a polynomial number of levels; \item | uses the lowest-first strategy to explore the decision tree; 
+\item | computes an upper bound at each node of the decision tree; \item | uses a decision tree with an exponential number of nodes.
+\end{enumerate}
 }%
 }%
 \\
@@ -1440,7 +1497,13 @@ Soluzione:\\
 \subsection{Branch \& cut}
 \noindent\fbox{%
     \parbox{\textwidth}{%
-The branch-and-cut method: (a) is used to solve linear programming problems with continuous variables; (b) always uses the lowest-first strategy to explore the subproblems.; (c) is used to solve NP-complete (“difficult”) problems; (d)  terminates in a polynomial number of iterations; (e) at each iteration uses the simplex algorithm to solve the current subproblem.
+The branch-and-cut method: 
+\begin{enumerate}[label=\Alph*]
+\item | is used to solve linear programming problems with continuous variables; 
+\item | always uses the lowest-first strategy to explore the subproblems.;
+\item | is used to solve NP-complete (“difficult”) problems; (d)  terminates in a polynomial number of iterations;
+\item | at each iteration uses the simplex algorithm to solve the current subproblem.
+\end{enumerate}
 }%
 }%
 \\
@@ -1449,10 +1512,100 @@ Soluzione:\\
 \subsection{PLC}
 \noindent\fbox{%
     \parbox{\textwidth}{%
-Given a PLC problem with $n$ variables and $m$ constraints, a basic matrix is: (a) a collection of $m$ constraints; (b) none of the above answers.; (c) a square $m$x$m$ matrix with value 1 on the main diagonal; (d) a collection of $n-m$ columns of the constraint matrix; (e) a square submatrix of the constraint matrix, that can be inverted.
+Given a PLC problem with $n$ variables and $m$ constraints, a basic matrix is: 
+\begin{enumerate}[label=\Alph*]
+\item | a collection of $m$ constraints; (b) none of the above answers.; 
+\item |  a square $m$x$m$ matrix with value 1 on the main diagonal; \item |  a collection of $n-m$ columns of the constraint matrix; \item |  a square submatrix of the constraint matrix, that can be inverted.
+\end{enumerate}
 }%
 }%
-\\/
+\\
 Soluzione:\\
 (B)
+
+\subsection{Soluzione Base}
+\noindent\fbox{%
+    \parbox{\textwidth}{%
+Consider the two problems, $P:min\{c^Tx:Ax = b, x \geqq 0\}$, $D: max\{u^T: u^T A \leqq c^T\}$, then: 
+\begin{enumerate}[label=\Alph*]
+\item | a pair of solution $x$ and $u$ with $x$ feasible for $P$ and $u$ feasible for $D$ are optimal if $\{Ax-b\}u^T=0$; 
+\item | a pair of solution $x$ and $u$ with $x$ feasible for $P$ and $u$ feasible for $D$ are optimal if $c^T x \geqq u^T b $; 
+\item | a feasible solution of $P$ gives a lower bound on the optimal value of $D$; 
+\item | a solution $u$ is optimal if $u^TA \leqq c^T$ and $u^T \geqq 0$; 
+\item | a feasible solution of $D$ gives a lower bound on the optimal value of $P$.
+\end{enumerate}
+	}%
+}%
+\\
+Soluzione:\\
+(E)
+
+\subsection{Ford-Fulkerson}
+\noindent\fbox{%
+    \parbox{\textwidth}{%
+The Ford-Fulkerson algorithm for the max-flow problem: 
+\begin{enumerate}[label=\Alph*]
+\item | at each iteration computes the shortest path from the source to the sink; 
+\item | terminate when an $s-t$ cut of the graph is saturated; 
+\item | uses saturated arcs in their opposite direction; 
+\item | minimizes the toal cost of the flow; 
+\item | uses non-empty, non-saturated arcs in both directions.
+\end{enumerate}
+	}%
+}%
+\\
+Soluzione:\\
+(B,C)
+
+\subsection{PLI minimization \& relaxation}
+\noindent\fbox{%
+    \parbox{\textwidth}{%
+Given a PLI problem $IP$ in minimization form, consider its continuous relaxation and let $z^*$ be the optimal value of the relaxation: 
+\begin{enumerate}[label=\Alph*]
+\item | the least integer greater than or equal to $z*$ is a lower bound on the optimal $IP$ value if the coefficents of the objective function are integer; 
+\item | $z*$ is a lower bound on the optimal $IP$ value; 
+\item | the least integer greater than or equal to $z*$ is an upper bound on the optimal $IP$ value; 
+\item | $z*$ is an upper bound on the optimal $IP$ value; 
+\item | the least integer greater than or equal to $z*$ is a lower bound on the optimal $IP$ value if the coefficents of the objective function are rational numbers;
+\end{enumerate}
+	}%
+}%
+\\
+Soluzione:\\
+(A,B)
+
+\subsection{B\&B knapsack 0-1}
+\noindent\fbox{%
+    \parbox{\textwidth}{%
+The branch-and-bound method for 0-1 knapsack problem: 
+\begin{enumerate}[label=\Alph*]
+\item | stop the search when level $n$ is reached; 
+\item | computes the upper bound only in the son nodes generated by a constraint of the kind $x=1$; 
+\item | computes the upper bound only in the son nodes generated by a constraint of the kind $x=0$; 
+\item | use the highest first strategy to explore the tree; 
+\item | has $O(2^n)$ tree levels;
+\end{enumerate}
+	}%
+}%
+\\
+Soluzione:\\
+(C,E)
+
+\subsection{NP problem}
+\noindent\fbox{%
+    \parbox{\textwidth}{%
+a generic NP-complete problem: 
+\begin{enumerate}[label=\Alph*]
+\item | can be solved exactly using the simplex algorithm with the addition of Gomory cuts; 
+\item | can be solved exactly using the simplex algorithm with a non-polynomial number of iteration; 
+\item | cannot be solved exactly in polynomial time; 
+\item | can be solved exactly using a binary decision-tree with $n$ levels, where $n$ is the number of variables; 
+\item | can be solved exactly using Dijkstra algorithm;
+\end{enumerate}
+	}%
+}%
+\\
+Soluzione:\\
+(C,D)
+
 \end{document}

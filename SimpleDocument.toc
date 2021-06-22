@@ -51,14 +51,19 @@
 \contentsline {subsubsection}{\numberline {5.1.3}Caso Particolare 2 Sommatoria doppio insieme}{56}{subsubsection.5.1.3}%
 \contentsline {subsection}{\numberline {5.2}Dal codice al modello}{57}{subsection.5.2}%
 \contentsline {subsubsection}{\numberline {5.2.1}Normale}{57}{subsubsection.5.2.1}%
-\contentsline {section}{\numberline {6}Domande varie di teoria}{58}{section.6}%
-\contentsline {subsection}{\numberline {6.1}PLC degenerate}{58}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}PLC sensitivty}{59}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}B\&B}{59}{subsection.6.3}%
-\contentsline {subsection}{\numberline {6.4}PLC minimization}{59}{subsection.6.4}%
-\contentsline {subsection}{\numberline {6.5}cutting Plane}{59}{subsection.6.5}%
-\contentsline {subsection}{\numberline {6.6}PLC dual}{60}{subsection.6.6}%
-\contentsline {subsection}{\numberline {6.7}Dijkstra}{60}{subsection.6.7}%
-\contentsline {subsection}{\numberline {6.8}B\&B knapsack}{60}{subsection.6.8}%
-\contentsline {subsection}{\numberline {6.9}Branch \& cut}{60}{subsection.6.9}%
-\contentsline {subsection}{\numberline {6.10}PLC}{61}{subsection.6.10}%
+\contentsline {section}{\numberline {6}Domande varie di teoria}{59}{section.6}%
+\contentsline {subsection}{\numberline {6.1}PLC degenerate}{59}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}PLC sensitivty}{60}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}B\&B}{60}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}PLC minimization}{61}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}cutting Plane}{61}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}PLC dual}{62}{subsection.6.6}%
+\contentsline {subsection}{\numberline {6.7}Dijkstra}{62}{subsection.6.7}%
+\contentsline {subsection}{\numberline {6.8}B\&B knapsack}{63}{subsection.6.8}%
+\contentsline {subsection}{\numberline {6.9}Branch \& cut}{63}{subsection.6.9}%
+\contentsline {subsection}{\numberline {6.10}PLC}{63}{subsection.6.10}%
+\contentsline {subsection}{\numberline {6.11}Soluzione Base}{64}{subsection.6.11}%
+\contentsline {subsection}{\numberline {6.12}Ford-Fulkerson}{64}{subsection.6.12}%
+\contentsline {subsection}{\numberline {6.13}PLI minimization \& relaxation}{65}{subsection.6.13}%
+\contentsline {subsection}{\numberline {6.14}B\&B knapsack 0-1}{65}{subsection.6.14}%
+\contentsline {subsection}{\numberline {6.15}NP problem}{66}{subsection.6.15}%
