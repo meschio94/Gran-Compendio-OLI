@@ -56,7 +56,7 @@ Una azienda produce il prodotto X, la linea di produzione è formata da 3 differ
 Pongo $x_{ij} \in \{0,1\}, j \in \{1,2,3\}, i \in \{\alpha,\beta\} $ che rappresenta un booleano, che vale 1, nel caso in cui il lotto $i$ è prodotto nella linea $j$, 0 altrimenti.\\
 Come posso fare il controllo di verità di questa condizione con un vincolo matematico ?\\
 $\displaystyle \sum_{i \in \alpha} x_{ij} \leqq (1-x_{ki})M$ $i \in \{1,2,3\}, k \in \beta$\\
-Sto ciclando a sinistra delal disuguaglianza tutti i prodotti X del lotto $\alpha$, la $j$ è vincolata fuori quindi guardiamo una linea alla volta, a destra della disuguaglianza sto dicendo che nel caso in cui $x_{kj}$ dove $k$ è l'insieme del lotto $\beta$ vale 1, quindi lo stiamo producendo nelal stessa linea produttiva $i$, allora avendolo posto negativo, si annulla con l'1 : $(1-x_{ki})$, valendo 0 e di conseguenza, rompendo il vincolo.\\
+Sto ciclando a sinistra della disuguaglianza tutti i prodotti X del lotto $\alpha$, la $j$ è vincolata fuori quindi guardiamo una linea alla volta, a destra della disuguaglianza sto dicendo che nel caso in cui $x_{kj}$ dove $k$ è l'insieme del lotto $\beta$ vale 1, quindi lo stiamo producendo nella stessa linea produttiva $i$, allora avendolo posto negativo, si annulla con l'1 : $(1-x_{ki})$, valendo 0 e di conseguenza, rompendo il vincolo.\\
 Il Big M a destra della parentesi, serve nel caso in cui non produciamo $\beta$ in quella specifica linea di produzione, e l'uno risultante dalla tonda che ne deriva, deve essere moltiplicato con qualcosa di grande per rendere vera l'equazione di sinistra.
 
 \item \textbf{$\Delta$}, il delta viene usato per rappresentare la differenza di variabili, come può essere l'età media delle persone, se in un problema vedete un punto che risulta simile a:"minimizzare il valore assoluto della differenza massima tra l'etá media di un gruppo e un altro"
@@ -67,7 +67,7 @@ $x_i \leqq |A|$
 \newpage
 \subsection{Esercizi}
 \subsubsection{Problema con Delta}
-Esame 2020-07-16 Ex 1\\
+Esame 2020-06-25 Ex 1\\
 \noindent\fbox{%
     \parbox{\textwidth}{%
 In a summer camp there are 70 children to be allocated to 10 groups, each one
@@ -91,13 +91,13 @@ $\Delta$ massima differenza di età (valore assoluto).\\
     	&\Delta \geqq \displaystyle \sum_{i = 1}^{70} \frac{e_i x_{jg}}{7} - e_j x_{jg} & &j=\{1,\dots,70\},g=\{1,\dots,10\}\\
     	&\Delta \geqq - \displaystyle \sum_{i = 1}^{70} \frac{e_i x_{jg}}{7} + e_j x_{jg} & &j=\{1,\dots,70\},g=\{1,\dots,10\}\\
     	&\displaystyle \sum_{g = 1}^{10} x_{ig} = 1 & &i=\{1,\dots,70\}\\
-    	&\displaystyle \sum_{g = 1}^{70} x_{ig} = 7 & &g=\{1,\dots,10\}\\
+    	&\displaystyle \sum_{i = 1}^{70} x_{ig} = 7 & &g=\{1,\dots,10\}\\
     	&x_{ig} \in \{0,1\} & &i=\{1,\dots,70\},g=\{1,\dots,10\}\\
 \end{align*}
 
 \newpage
 \subsubsection{Problema con massima distanza}
-Esame 2020-06-25 Ex 1\\
+Esame 2020-07-16 Ex 1\\
 \noindent\fbox{%
     \parbox{\textwidth}{%
 A company that distributes medical products wants to open at least
@@ -213,7 +213,7 @@ by adding an objective function which minimizes the movement of pallets.
 \\
 Soluzione:\\
 $x_{ilk} = 1$ se il pallet $i$ è stoccato nella locazione $l$ al livello $k$, 0 altrimenti.\\
-$y_{ij}=1 $ se il pallet è sotto al pallet $j$ (stessa location), 0 altrimenti.\\
+$y_{ij}=1 $ se il pallet $i$ è sotto al pallet $j$ (stessa location), 0 altrimenti.\\
 \begin{align*}
 &min: z= \displaystyle \sum_{i \in I} \sum_{j \in I: \sigma(i)<\sigma(j)} y_{ij}\\
 		&\displaystyle \sum_{l \in L}\sum_{k=1}^{m}x_{ilk} = 1 & &i \in I\\
@@ -231,7 +231,7 @@ Esame 2020-06-08 Ex 2\\
     \parbox{\textwidth}{%
 A warehouse has to store n boxes in a rack with $m$ shelves. The first
 $m1$ shelves have length $L1$, while the remaining have length $L2$. Each
-box $j-1,\dots,n$ has length $l_j$ and a frequency of usage $f_j$.\\ 
+box $j=1,\dots,n$ has length $l_j$ and a frequency of usage $f_j$.\\ 
 Write a linear programming model that helps the warehouse to decide how to
 store the boxes, so that the sum of the frequencies of the boxes stored
 in the first $m1$ shelves is maximized. (N.B. It is not known if all the
@@ -245,8 +245,8 @@ $x_{ij} = 1$ se la scatola $j$ è stoccata nello scaffale $i$, 0 altrimenti.\\
 \begin{align*}
 &max: z= \displaystyle \sum_{i = 1}^{m1} \sum_{j = 1}^{n} x_{ij}f_j\\
 		&\displaystyle \sum_{i=1}^{m}x_{ij} \leqq 1 & &j = 1,\dots,n\\
-    	&\displaystyle \sum_{j = 1} l_{j}x_{ij} \leqq L1 & &i=1,\dots,m1 \\
-    	&\displaystyle \sum_{j = 1} l_{j}x_{ij} \leqq L2 & &i=m1+1,\dots,m \\
+    	&\displaystyle \sum_{j=1}^{n} l_{j}x_{ij} \leqq L1 & &i=1,\dots,m1 \\
+    	&\displaystyle \sum_{j=1}^{m} l_{j}x_{ij} \leqq L2 & &i=m1+1,\dots,m \\
     	&x_{ij} \in \{0,1\} & &i=1,\dots,m,j=1,\dots,n\\
 \end{align*}
 
