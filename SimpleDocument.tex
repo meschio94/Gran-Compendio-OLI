@@ -24,7 +24,7 @@
 
 \title{Gran Compendio OLI}
 \author{\href{https://github.com/meschio94/Gran-Compendio-OLI}{Meschio}}
-\date{2021\\V1.2}
+\date{2021\\V1.2.1}
 
 \begin{document}
 \maketitle
@@ -329,17 +329,17 @@ Abbiamo 3 strumenti, che non sono equivalenti (quasi), vediamo la mappa concettu
 \raisebox{-.5\height}{\includegraphics[width=12cm]{immagini/mappa.jpg}}
 \end{center}
 
-Questo sarebbe il flusso logico per approcciare il problema, in realtà il 2fasi può sempre sostituire il simplesso duale, non è vero il contrario, in ogni caso il 2 fasi essendo più lungo è sconveniente usarlo sempre.
-NB. La condizione di scelta del primo ramo no (costi ridotti negativi), non è discriminante della radice (termini noti positivi), ovvero, il simplesso standard, \underline{può} essere usato se i suoi costi ridotti sono negativi, è condizione necessaria che abbia i termini noti positivi.
+Questo sarebbe il flusso logico per approcciare il problema, in realtà il 2 fasi può sempre sostituire il simplesso duale, non è vero il contrario, in ogni caso il 2 fasi essendo più lungo è sconveniente usarlo sempre.
+NB. La condizione di scelta del primo ramo "no" (costi ridotti negativi), non è discriminante della radice (termini noti positivi), ovvero, il simplesso standard, \underline{può} essere usato se i suoi costi ridotti sono negativi, è condizione necessaria che abbia i termini noti positivi.
 \subsection{LP}
 Linear Programming, in italiano Programmazione Lineare PL
 \subsubsection{Simplesso}
-una volta che abbiamo sviluppato il nostro problema e sistemato i vincoli, trovandoci nella condizione di poterlo sfruttare avendo i termini noti positivi una volta costruito il tableu, le iterazioni per selezionare il pivot saranno le seguenti:\\
+Una volta che abbiamo sviluppato il nostro problema e sistemato i vincoli, trovandoci nella condizione di poterlo sfruttare avendo i termini noti positivi una volta costruito il tableau, le iterazioni per selezionare il pivot saranno le seguenti:\\
 \begin{itemize}
-\item Siamo in un problema di $Massimo$: Scelgo le colonne che hanno valori $positivi$,non do precedenza a nessuna colonna specifica se ne incontro più di una $positiva$, prendo sempre quella più a sinistra, con indice minore (legge di Bland).
+\item Siamo in un problema di $Massimo$: scelgo le colonne che hanno valori $positivi$, non do precedenza a nessuna colonna specifica se ne incontro più di una $positiva$, prendo sempre quella più a sinistra, con indice minore (legge di Bland).
 
 
-\item Siamo in un problema di $Minimo$: Scelgo le colonne che hanno valori $negativi$,non do precedenza a nessuna colonna specifica se ne incontro più di una $negativa$, prendo sempre quella più a sinistra, con indice minore (legge di Bland).
+\item Siamo in un problema di $Minimo$: scelgo le colonne che hanno valori $negativi$, non do precedenza a nessuna colonna specifica se ne incontro più di una $negativa$, prendo sempre quella più a sinistra, con indice minore (legge di Bland).
 
 \end{itemize}
 
@@ -353,7 +353,7 @@ Una volta designata la colonna, la riga viene scelta prendendo il valore $minore
 Iteriamo finchè la riga della funzione obbiettivo, ovvero la $R0$ (o anche riga dei costi), non diventa tutta $positiva$ se siamo in problema di $minimo$, o $negativa$ se siamo in un problema di $massimo$.
 
 \subsubsection{Simplesso Duale}
-Il processo è molto simile al Simplesso standard, con una sostanziale differenza, ora non partiamo più a selezionare la colonna in base a che tipo di problema di ottimizzazione ci troviamo ($max$ o $min$), ma prima partiamo a scegliere la riga, in base al fatt oche il termine noto sia negativo (vale per entrambi i problemi):\\
+Il processo è molto simile al Simplesso standard, con una sostanziale differenza, ora non partiamo più a selezionare la colonna in base a che tipo di problema di ottimizzazione ci troviamo ($max$ o $min$), ma prima partiamo a scegliere la riga, in base al fatto che il termine noto sia negativo (vale per entrambi i problemi):\\
 \begin{center}
 \raisebox{-.5\height}{\includegraphics[width=10cm]{immagini/DualSimplex0.jpg}}
 \end{center}
@@ -370,24 +370,23 @@ Nel caso avessi più di un valore negativo da cui scegliere, scelgo il pivot che
 \raisebox{-.5\height}{\includegraphics[width=10cm]{immagini/DualSimplex2.jpg}}
 \end{center}
 Continuo ad iterare fintanto che i termini noti non sono tutti positivi.\\
-NB. È importante che la $R_0$ rimanga sempre positiva, perchè è condizione necessaria del simplesso duale.
+NB. È importante che la $R_0$ rimanga sempre positiva, perchè è condizione ne-cessaria del simplesso duale.
 
 \subsubsection{2Fasi}
-Il metodo delle due fasi può sostituire il simplesso duale, nel caso in cui noi avessimo dei termini noti negativi, sarebbe sufficiente cambiare i segni dei vincoli, in modo da forzarli positivi, e bilanciare le slack negative con le variabili di surplus, il 2 fasi \underline{richiede} in input un problema di $minimizzazione$, quindi nel caso in cui avessimo un problema di massimo, cambiamo i segni di quella riga per ricondurci all'input adeguato.\\
+Il metodo delle due fasi può sostituire il simplesso duale. Nel caso in cui noi avessimo dei termini noti negativi sarebbe sufficiente cambiare i segni dei vincoli, in modo da forzarli positivi, e bilanciare le slack negative con le variabili di surplus, il 2 fasi \underline{richiede} in input un problema di $minimizzazione$, quindi nel caso in cui avessimo un problema di massimo, cambiamo i segni di quella riga per ricondurci all'input adeguato.\\
 
 \begin{center}
 \raisebox{-.5\height}{\includegraphics[width=12cm]{immagini/2fasi0.jpg}}
 \end{center}
 
-Dal nome, ci sono due fasi principali su cui lavorare, partiamo dalla prima fase, dobbiamo costruire un tableu una volta ricavata la forma standard, poniamo a 0 tutti gli elementi della $R_0$, lasciando un 1 esclusivamente dove è presente una variabile di surplus.
+Dal nome, ci sono due fasi principali su cui lavorare, partiamo dalla prima fase, dobbiamo costruire un tableau, una volta ricavata la forma standard poniamo a 0 tutti gli elementi della $R_0$, lasciando un 1 esclusivamente dove è presente una variabile di surplus.
 Le variabili di surplus vengono aggiunte solo se la slack di quel vincolo è negativa.
 
 \begin{center}
 \raisebox{-.5\height}{\includegraphics[width=12cm]{immagini/2fasi1.jpg}}
 \end{center}
 
-Procediamo facendo sparire gli $1$ delle rispettive variabili di surplus dalla $R_0$:\\
-
+Procediamo facendo sparire gli $1$ delle rispettive variabili di surplus dalla $R_0$, calcoliamo quindi $R_0' = R_0 - 1 * R_1 - 1 * R_2$    (Si usano i costi ridotti, non i termini noti, e in questo caso sono sempre valorizzati a 1):\\
 \begin{center}
 \raisebox{-.5\height}{\includegraphics[width=12cm]{immagini/2fasi2.jpg}}
 \end{center}
@@ -406,7 +405,7 @@ NB.Se il problema era di massimizzazione originariamente, dobbiamo riportarcelo,
 \end{center}
 
 Procediamo infine ad avere gli 0 nelle rispettive colonne della nostra base, in modo da sviluppare la soluzione, quindi tramite operazioni matriciali sistemiamo la $R_0$.\\
-
+$R_0'''' = R_0''' - 3 * R_1'' - 4 * R_2''$     (Si usano i costi ridotti, non i termini noti)\\
 \begin{center}
 \raisebox{-.5\height}{\includegraphics[width=12cm]{immagini/2fasi5.jpg}}
 \end{center}
@@ -421,7 +420,7 @@ Per prima cosa dobbiamo scegliere una direzione per i segni, tutti devono andare
 \raisebox{-.5\height}{\includegraphics[width=8cm]{immagini/DualeProblema0a.jpg}}
 \end{center}
 \begin{itemize}
-\item se i vincoli del primale sono: \textbf{$a_i^Tx \geqq b_i$},nel duale arriveremo dal basso della regione ammissibile, le slack di conseguenza saranno \textbf{non negative}. Nel duale staremo massimizzando, percui le nostre corrispettive variabili (moltiplicative) dovranno essere \textbf{non negative}.
+\item se i vincoli del primale sono: \textbf{$a_i^Tx \geqq b_i$}, nel duale arriveremo dal basso della regione ammissibile, le slack di conseguenza saranno \textbf{non negative}. Nel duale staremo massimizzando, percui le nostre corrispettive variabili (moltiplicative) dovranno essere \textbf{non negative}.
 \item se i vincoli del primale sono \textbf{$a_i^Tx \leqq b_i$},le slack dei vincoli dovranno essere \textbf{non positive}. Nel duale staremo massimizzando, percui le nostre corrispettive variabili (moltiplicative) dovranno essere \textbf{non positive}.
 \item se i vincoli del primale sono \textbf{$a_i^Tx = b_i$}, le slack dei vincoli potranno avere qualsiasi valore. Le corrispondenti variabili (moltiplicative) potranno avere qualsiasi valore.
 \end{itemize}
@@ -526,11 +525,11 @@ Integer Linear Programming, in italiano Programmazione Lineare Intera PLI
 \subsubsection{Tagli di Gomory}
 I tagli di gomory si usano quando il nostro problema da PL Lineare è PLI, ovvero Lineare Intero, il principio è che, non avendo numeri con virgole, posso approssimare il risultato all'intero più vicino.\\
 
-Partendo dal tableu già risolto e con risultato ottimale e avendo termini fratti nella $R_0$, posso sfruttare Gomory per trovare una soluzione PLI, la formula da usare è:\\
+Partendo dal tableau già risolto e con risultato ottimale e avendo termini fratti nella $R_0$, posso sfruttare Gomory per trovare una soluzione PLI, la formula da usare è:\\
 $\displaystyle \sum_{j \in F} ( \overline{a}_{tj} - \lfloor \overline{a}_{tj} \rfloor )x_j \geqq \overline{b}_t -  \lfloor \overline{b}_t \rfloor$
 
 NB. Le sbarre non sono valore assoluto, ma significano che approssimo difetto.\\
-Dovrò aggiungere una riga e una colonna alla fine del mio tableu, sfruttando la relativa formula, vediamo un esempio:\\
+Dovrò aggiungere una riga e una colonna alla fine del mio tableau, sfruttando la relativa formula, vediamo un esempio:\\
 
 \begin{center}
 \raisebox{-.5\height}{\includegraphics[width=6cm]{immagini/Gomory0.jpg}}
@@ -544,7 +543,7 @@ Dovrò aggiungere una riga e una colonna alla fine del mio tableu, sfruttando la
 \item arriviamo a: $\frac{1}{4}S_1 + \frac{1}{4}S_2 \geqq \frac{1}{2}$
 \end{itemize}
 
-Possiamo ora inserire la riga nel tableu, aggiungendo anche una colonna di surplus per bilanciare:\\
+Possiamo ora inserire la riga nel tableau, aggiungendo anche una colonna di surplus per bilanciare:\\
 
 $\frac{1}{4}S_1 + \frac{1}{4}S_2 -S_3 = \frac{1}{2}$
 
@@ -566,7 +565,7 @@ $  ( -\frac{1}{3} - \lfloor - \frac{1}{3} \rfloor )S_2 +  ( \frac{2}{3} - \lfloo
 NB. L'arrotondamento di $S_2$ è stato di $+1$, i termini negativi, per difetto, si avvicinano a $- \infty$, di conseguenza $- \frac{1}{3} \Rightarrow -0,33 \Rightarrow -1 $ !\\
 Avremo: $\frac{2}{3}S_2 + \frac{2}{3}S_3 -S_4 = \frac{2}{3}$
 
-Aggiungiamo la riga nel tableu moltiplicandola prima per $-1$ come prima:\\
+Aggiungiamo la riga nel tableau moltiplicandola prima per $-1$ come prima:\\
 
 \begin{center}
 \raisebox{-.5\height}{\includegraphics[width=9cm]{immagini/Gomory3.jpg}}
@@ -615,7 +614,7 @@ max: &x_1^+ - x_1^- -2x_2^+ + 2x_2^-\\
 \end{align*}
 \end{center}
 
-costruiamo il relativo tableu e risolviamolo con il simplesso standard:\\
+costruiamo il relativo tableau e risolviamolo con il simplesso standard:\\
 
 \begin{center}
 \raisebox{-.5\height}{\includegraphics[width=10cm]{immagini/matrici/2_0_1_0.jpg}}
