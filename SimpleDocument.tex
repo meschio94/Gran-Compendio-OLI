@@ -37,6 +37,7 @@ Non è un sostituto all'esercizio e lo studio, l'esame richiede una buona dose d
 
 \tableofcontents
 
+\newpage
 \section{Modelli}
 Mi dispiace, qua non troverete guide per fare i modelli, sfortunatamente questi van fatti alla nausea cercando di capire di volta in volta e costruendosi il metodo, riporto solamente delle fattispecie di problemi con soluzioni di tipologie degne di nota.
 
@@ -315,7 +316,7 @@ min:  &8x_1 + 3x_2 + x_3 \\
     	&x_1,x_2,x_3^+,x_3^- \geqq 0
 \end{align*}
 Le variabili free son state sdoppiate, $x_3 \Rightarrow x_3^+,x_3^-$ e sostituite nel sistema, la $x_3^+$ ha mantenuto sempre il suo segno, mentre la $x_3^-$ aveva l'opposto della sua controparte positiva.\\
-Nel secondo vincolo avevamo un uguaglianza, abbiamo quindi dovuto porre il segno a $\geqq$ e aggiungere una nuova riga, con gli stessi termini moltiplicati per $-1$ e segno $\leqq$.
+Nel primo vincolo avevamo un'uguaglianza, abbiamo quindi dovuto porre il segno a $\geqq$ e aggiungere una nuova riga, con gli stessi termini moltiplicati per $-1$ e segno $\leqq$.
 
 \newpage
 \section{Matrici : LP, ILP}
@@ -330,7 +331,7 @@ Abbiamo 3 strumenti, che non sono equivalenti (quasi), vediamo la mappa concettu
 \end{center}
 
 Questo sarebbe il flusso logico per approcciare il problema, in realtà il 2 fasi può sempre sostituire il simplesso duale, non è vero il contrario, in ogni caso il 2 fasi essendo più lungo è sconveniente usarlo sempre.
-NB. La condizione di scelta del primo ramo "no" (costi ridotti negativi), non è discriminante della radice (termini noti positivi), ovvero, il simplesso standard, \underline{può} essere usato se i suoi costi ridotti sono negativi, è condizione necessaria che abbia i termini noti positivi.
+NB: la condizione di scelta del primo ramo "no" (costi ridotti negativi), non è discriminante della radice (termini noti positivi), ovvero, il simplesso standard, \underline{può} essere usato se i suoi costi ridotti sono negativi, è condizione necessaria che abbia i termini noti positivi.
 \subsection{LP}
 Linear Programming, in italiano Programmazione Lineare PL
 \subsubsection{Simplesso}
@@ -1090,16 +1091,34 @@ levels: justify your choice.
 }
 \\
 Soluzione:\\
-Per prima cosa dobbiamo ordinare gli oggetti per $ \frac{valore}{peso} $ in ordine crescente, facendo la frazione $ \frac{pj}{wj} $, una volta ordinati, in questo esercizio è già stato fatto dal prof, calcoliamo l'Upper bound del nodo p1 con Dantzig's bound\\
+Per prima cosa dobbiamo ordinare gli oggetti per $ \frac{valore}{peso} $ in ordine decrescente, facendo la frazione $ \frac{pj}{wj} $, una volta ordinati, in questo esercizio è già stato fatto dal prof, calcoliamo l'Upper bound del nodo p1 con Dantzig's bound\\
 \begin{center}
 UB=$ \displaystyle \sum_{j=1}^{s-1} p_j + p_jx_s (\displaystyle \sum_{j=1}^{s-1} p_j + \lfloor p_j x_s \rfloor$ if integer $p_j)  $
 \end{center}
+~\\
+Dalla figura seguente vediamo che arrivati a P4, ci fermiamo che non possiamo più inserire altri oggetti, e abbiamo la nostra prima soluzione P4 = \{1,1,1,0,0\} con valore 33, risalendo a P3 ci spostiamo a dx non prendendo l'ultimo oggetto (il terzo per la precisione, valore 8 peso 10), come ogni volta che non prendiamo un oggetto, ricalcoliamo UB, in questo caso abbiamo sempre valore 33, e non ha senso esplorare ulteriormente questo ramo.\\
 
 \begin{center}
 \raisebox{-.5\height}{\includegraphics[width=7cm]{immagini/grafi/3_2_1_0.jpg}}
 \end{center}
-
-Dalla figura vediamo che arrivati a P4, ci fermiamo che non possiamo più inserire altri oggetti, e abbiamo la nostra prima soluzione P4 = \{1,1,1,0,0\} con valore 33, risalendo a P3 ci spostiamo a dx non prendendo l'ultimo oggetto (il terzo per la precisione, valore 8 peso 10), come ogni volta che non prendiamo un oggetto, ricalcoliamo UB, in questo caso abbiamo sempre valore 33, e non ha senso esplorare ulteriormente questo ramo
+~\\
+~\\
+La sequenza delle operazioni è la seguente:
+\begin{itemize}
+\item Ordino gli oggetti in ordine decrescente di rapporto profitto/peso.
+\item Scrivo il primo nodo e calcolo $U_0$ ed ipotizzo $C_0$ come massimo valore ammissibile, cioè C
+\item Inizio l'esplorazione dell'albero:
+\begin{itemize}
+\item se vado a sinistra eredito $U_x$ (Upper Bound) e ricalcolo $\overline{c}_x$
+\item se vado a destra eredito $\overline{c}_x$ (Capacità residua) e ricalcolo $U_x$
+\end{itemize}
+\item Per il calcolo di $U_x$ sommo i $p_j$ di tutti gli oggetti per i quali la somma dei $w_j$ risulta minore di C (Capacità del Knapsack). Se ho della capacità residua $\overline{c}$ allora la moltiplico per il valore $p_j/w_j$ e prendo il lower bound $\lfloor \alpha \rfloor$.
+\item Se arrivo in fondo ad un ramo allora ho una soluzione intera, cioè senza parti di oggetti, e quindi calcolo Z (come valore) e X (come elenco di oggetti).
+\item Ad ogni nodo, se $U_x$ è minore o uguale alla migliore Z trovata fino a quel momento, allora non proseguo nella esplorazione di quel ramo perchè non troverò un risultato migliore.
+\item Ad ogni nodo, se andando a sinistra la $w_j$ dell'oggetto è inferiore alla capacità residua $\overline{c}$ allora mi fermo e non inserisco l'oggetto.
+\item Se arrivo in fondo ad un ramo oppure mi sono fermato per poca capacità residua $\overline{c}$, allora risalgo l'albero fino a che non ho la possibilità di andare a destra.
+\item Ho concluso il problema quando tutti i percorsi sono stati esplorati, ed ho trovato la $Z^*$ e la $X^*$.
+\end{itemize}
 
 \newpage
 \section{GPLK}

@@ -1,67 +1,67 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.1.16)  22 JUN 2021 18:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.11.14)  1 DEC 2021 22:42
 entering extended mode
-**./SimpleDocument.tex
-(SimpleDocument.tex
-LaTeX2e <2020-10-01> patch level 2
-L3 programming layer <2020-12-07> xparse <2020-03-03>
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
-File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**SimpleDocument.tex
+(./SimpleDocument.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count177
-\c@section=\count178
-\c@subsection=\count179
-\c@subsubsection=\count180
-\c@paragraph=\count181
-\c@subparagraph=\count182
-\c@figure=\count183
-\c@table=\count184
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen138
+\bibindent=\dimen134
 )
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
-Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
 )
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
-Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics
-.cfg
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: dvips.def on input line 105.
 
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\dvips.de
-f
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/dvips.def
 File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
 ))
-\Gin@req@height=\dimen139
-\Gin@req@width=\dimen140
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
 )
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
-Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
 
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cf
-g
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.d
-ef
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks16
 \symAMSa=\mathgroup4
@@ -70,69 +70,68 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
-Package: amsmath 2020/09/23 v2.17i AMS math features
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
 \@mathmargin=\skip49
 
 For additional information on amsmath, use the `?' option.
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks17
-\ex@=\dimen141
+\ex@=\dimen137
 ))
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen142
+\pmbraise@=\dimen138
 )
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count185
-LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count186
-\leftroot@=\count187
-LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count188
-\DOTSCASE@=\count189
-LaTeX Info: Redefining \ldots on input line 496.
-LaTeX Info: Redefining \dots on input line 499.
-LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box47
-\strutbox@=\box48
-\big@size=\dimen143
-LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count190
-\c@MaxMatrixCols=\count191
+\inf@bad=\count175
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count176
+\leftroot@=\count177
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count178
+\DOTSCASE@=\count179
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen139
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count180
+\c@MaxMatrixCols=\count181
 \dotsspace@=\muskip16
-\c@parentequation=\count192
-\dspbrk@lvl=\count193
+\c@parentequation=\count182
+\dspbrk@lvl=\count183
 \tag@help=\toks18
-\row@=\count194
-\column@=\count195
-\maxfields@=\count196
+\row@=\count184
+\column@=\count185
+\maxfields@=\count186
 \andhelp@=\toks19
-\eqnshift@=\dimen144
-\alignsep@=\dimen145
-\tagshift@=\dimen146
-\tagwidth@=\dimen147
-\totwidth@=\dimen148
-\lineht@=\dimen149
+\eqnshift@=\dimen140
+\alignsep@=\dimen141
+\tagshift@=\dimen142
+\tagwidth@=\dimen143
+\totwidth@=\dimen144
+\lineht@=\dimen145
 \@envbody=\toks20
 \multlinegap=\skip50
 \multlinetaggap=\skip51
 \mathdisplay@stack=\toks21
-LaTeX Info: Redefining \[ on input line 2923.
-LaTeX Info: Redefining \] on input line 2924.
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
 )
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cf
-g
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -146,269 +145,254 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
-\lst@mode=\count197
-\lst@gtempboxa=\box49
+(/usr/local/texlive/2020/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count187
+\lst@gtempboxa=\box47
 \lst@token=\toks22
-\lst@length=\count198
-\lst@currlwidth=\dimen150
-\lst@column=\count199
-\lst@pos=\count266
-\lst@lostspace=\dimen151
-\lst@width=\dimen152
-\lst@newlines=\count267
-\lst@lineno=\count268
-\lst@maxwidth=\dimen153
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+\lst@length=\count188
+\lst@currlwidth=\dimen146
+\lst@column=\count189
+\lst@pos=\count190
+\lst@lostspace=\dimen147
+\lst@width=\dimen148
+\lst@newlines=\count191
+\lst@lineno=\count192
+\lst@maxwidth=\dimen149
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-\c@lstnumber=\count269
-\lst@skipnumbers=\count270
-\lst@framebox=\box50
+\c@lstnumber=\count193
+\lst@skipnumbers=\count194
+\lst@framebox=\box48
 )
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+(/usr/local/texlive/2020/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
- (C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.s
-ty
-Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2019/01/04 v1.2 Adjusting TeX boxes (trim, clip, ...)
 
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
-Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
-
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.te
-x
+(/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks23
 \XKV@tempa@toks=\toks24
 )
-\XKV@depth=\count271
+\XKV@depth=\count195
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/adjustbox/adjcalc.sty
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
 -ends (calc, etex, pgfmath)
 )
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.st
-y
-Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+(/usr/local/texlive/2020/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2018/04/08 v1.1 Trim and clip general TeX material
 
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox
-.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/collectbox/collectbox.sty
 Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
-\collectedbox=\box51
+\collectedbox=\box49
 )
-\tc@llx=\dimen154
-\tc@lly=\dimen155
-\tc@urx=\dimen156
-\tc@ury=\dimen157
+\tc@llx=\dimen150
+\tc@lly=\dimen151
+\tc@urx=\dimen152
+\tc@ury=\dimen153
 Package trimclip Info: Using driver 'tc-pdftex.def'.
 
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.d
-ef
+(/usr/local/texlive/2020/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
 File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 ))
-\adjbox@Width=\dimen158
-\adjbox@Height=\dimen159
-\adjbox@Depth=\dimen160
-\adjbox@Totalheight=\dimen161
-\adjbox@pwidth=\dimen162
-\adjbox@pheight=\dimen163
-\adjbox@pdepth=\dimen164
-\adjbox@ptotalheight=\dimen165
+\adjbox@Width=\dimen154
+\adjbox@Height=\dimen155
+\adjbox@Depth=\dimen156
+\adjbox@Totalheight=\dimen157
+\adjbox@pwidth=\dimen158
+\adjbox@pheight=\dimen159
+\adjbox@pdepth=\dimen160
+\adjbox@ptotalheight=\dimen161
 
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.s
-ty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
 Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
-\c@checkoddpage=\count272
+\c@checkoddpage=\count196
 )
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box52
-\sift@deathcycles=\count273
-\@vwid@loff=\dimen166
-\@vwid@roff=\dimen167
+\@vwid@box=\box50
+\sift@deathcycles=\count197
+\@vwid@loff=\dimen162
+\@vwid@roff=\dimen163
 ))
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
-Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
 
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 )
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcm
-ds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr
-.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys
-.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefi
-nekeys.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape
-.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 )
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmac
-ro.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.s
-ty
-Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 )
-\@linkdim=\dimen168
-\Hy@linkcounter=\count274
-\Hy@pagecounter=\count275
+\@linkdim=\dimen164
+\Hy@linkcounter=\count198
+\Hy@pagecounter=\count199
 
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.s
-ty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count276
-Package hyperref Info: Hyper figures OFF on input line 4464.
-Package hyperref Info: Link nesting OFF on input line 4469.
-Package hyperref Info: Hyper index ON on input line 4472.
-Package hyperref Info: Plain pages OFF on input line 4479.
-Package hyperref Info: Backreferencing OFF on input line 4484.
+\Hy@SavedSpaceFactor=\count266
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4717.
-\c@Hy@tempcnt=\count277
- (C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count267
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5076.
-\XeTeXLinkMargin=\dimen169
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen165
 
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintca
-lc.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count278
-\Field@Width=\dimen170
-\Fld@charsize=\dimen171
-Package hyperref Info: Hyper figures OFF on input line 6347.
-Package hyperref Info: Link nesting OFF on input line 6352.
-Package hyperref Info: Hyper index ON on input line 6355.
-Package hyperref Info: backreferencing OFF on input line 6362.
-Package hyperref Info: Link coloring OFF on input line 6367.
-Package hyperref Info: Link coloring with OCG OFF on input line 6372.
-Package hyperref Info: PDF/A mode OFF on input line 6377.
-LaTeX Info: Redefining \ref on input line 6417.
-LaTeX Info: Redefining \pageref on input line 6421.
+\Fld@menulength=\count268
+\Field@Width=\dimen166
+\Fld@charsize=\dimen167
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
 
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
-Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
-ge
-with kernel methods
+(/usr/local/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 )
-\Hy@abspage=\count279
-\c@Item=\count280
-\c@Hfootnote=\count281
+\Hy@abspage=\count269
+\c@Item=\count270
+\c@Hfootnote=\count271
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
 
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.st
-y
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
-e
-with kernel methods
+(/usr/local/texlive/2020/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
 )
-\Fld@listcount=\count282
-\c@bookmark@seq@number=\count283
+\Fld@listcount=\count272
+\c@bookmark@seq@number=\count273
 
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunf
-ilecheck.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
 
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqu
-ecounter.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 )
 \Hy@SectionHShift=\skip52
-)
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip53
-\enit@outerparindent=\dimen172
+\enit@outerparindent=\dimen168
 \enit@toks=\toks25
-\enit@inbox=\box53
-\enit@count@id=\count284
-\enitdp@description=\count285
+\enit@inbox=\box51
+\enit@count@id=\count274
+\enitdp@description=\count275
 )
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/imakeidx\imakeidx.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/imakeidx/imakeidx.sty
 Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
 nous mode
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 )
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-) (C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
-\c@tracingmulticols=\count286
-\mult@box=\box54
-\multicol@leftmargin=\dimen173
-\c@unbalance=\count287
-\c@collectmore=\count288
-\doublecol@number=\count289
-\multicoltolerance=\count290
-\multicolpretolerance=\count291
-\full@width=\dimen174
-\page@free=\dimen175
-\premulticols=\dimen176
-\postmulticols=\dimen177
+\c@tracingmulticols=\count276
+\mult@box=\box52
+\multicol@leftmargin=\dimen169
+\c@unbalance=\count277
+\c@collectmore=\count278
+\doublecol@number=\count279
+\multicoltolerance=\count280
+\multicolpretolerance=\count281
+\full@width=\dimen170
+\page@free=\dimen171
+\premulticols=\dimen172
+\postmulticols=\dimen173
 \multicolsep=\skip54
 \multicolbaselineskip=\skip55
-\partial@page=\box55
-\last@line=\box56
-\maxbalancingoverflow=\dimen178
-\mult@rightbox=\box57
-\mult@grightbox=\box58
-\mult@gfirstbox=\box59
-\mult@firstbox=\box60
+\partial@page=\box53
+\last@line=\box54
+\maxbalancingoverflow=\dimen174
+\mult@rightbox=\box55
+\mult@grightbox=\box56
+\mult@gfirstbox=\box57
+\mult@firstbox=\box58
+\@tempa=\box59
+\@tempa=\box60
 \@tempa=\box61
 \@tempa=\box62
 \@tempa=\box63
@@ -444,29 +428,27 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \@tempa=\box93
 \@tempa=\box94
 \@tempa=\box95
-\@tempa=\box96
-\@tempa=\box97
-\c@minrows=\count292
-\c@columnbadness=\count293
-\c@finalcolumnbadness=\count294
-\last@try=\dimen179
-\multicolovershoot=\dimen180
-\multicolundershoot=\dimen181
-\mult@nat@firstbox=\box98
-\colbreak@box=\box99
-\mc@col@check@num=\count295
+\c@minrows=\count282
+\c@columnbadness=\count283
+\c@finalcolumnbadness=\count284
+\last@try=\dimen175
+\multicolovershoot=\dimen176
+\multicolundershoot=\dimen177
+\mult@nat@firstbox=\box96
+\colbreak@box=\box97
+\mc@col@check@num=\count285
 ))
 \SimpleDocument@idxfile=\write3
 \openout3 = `SimpleDocument.idx'.
 
-Writing index file SimpleDocument.idx
 
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
-dftex.def
-File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count296
-\l__pdf_internal_box=\box100
-) (SimpleDocument.aux)
+Writing index file SimpleDocument.idx
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count286
+\l__pdf_internal_box=\box98
+)
+(./SimpleDocument.aux)
 \openout1 = `SimpleDocument.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
@@ -486,280 +468,282 @@ LaTeX Font Info:    ... okay on input line 29.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
 LaTeX Font Info:    ... okay on input line 29.
 
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
-mkii
+(/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count297
-\scratchdimen=\dimen182
-\scratchbox=\box101
-\nofMPsegments=\count298
-\nofMParguments=\count299
+\scratchcounter=\count287
+\scratchdimen=\dimen178
+\scratchbox=\box99
+\nofMPsegments=\count288
+\nofMParguments=\count289
 \everyMPshowfont=\toks26
-\MPscratchCnt=\count300
-\MPscratchDim=\dimen183
-\MPnumerator=\count301
-\makeMPintoPDFobject=\count302
+\MPscratchCnt=\count290
+\MPscratchDim=\dimen179
+\MPnumerator=\count291
+\makeMPintoPDFobject=\count292
 \everyMPtoPDFconversion=\toks27
-)
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
--base.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-)
-\c@lstlisting=\count303
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count293
+\AtBeginShipoutBox=\box100
 Package hyperref Info: Link coloring OFF on input line 29.
 
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gett
-itlestring.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count304
+\c@section@level=\count294
 )
 LaTeX Info: Redefining \ref on input line 29.
 LaTeX Info: Redefining \pageref on input line 29.
 LaTeX Info: Redefining \nameref on input line 29.
- (SimpleDocument.out) (SimpleDocument.out)
+ (./SimpleDocument.out) (./SimpleDocument.out)
 \@outlinefile=\write4
 \openout4 = `SimpleDocument.out'.
 
 LaTeX Font Info:    Trying to load font information for U+msa on input line 31.
 
 
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 31.
 
 
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 Underfull \hbox (badness 10000) in paragraph at lines 33--36
 
  []
 
-(SimpleDocument.toc [1
+(./SimpleDocument.toc [1
 Non-PDF special ignored!
 <special> papersize=614.295pt,794.96999pt
 
-{C:/Users/Meschio/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2])
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[2])
 \tf@toc=\write5
 \openout5 = `SimpleDocument.toc'.
 
- [3]
-[4]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 70--89
+ [3] [4] [5]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 71--90
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--89
+Underfull \hbox (badness 10000) in paragraph at lines 71--90
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--89
+Underfull \hbox (badness 10000) in paragraph at lines 71--90
 
  []
 
-[5]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 100--118
+[6]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 101--119
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--118
+Underfull \hbox (badness 10000) in paragraph at lines 101--119
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--118
+Underfull \hbox (badness 10000) in paragraph at lines 101--119
 
  []
 
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 131--148
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 132--149
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--148
+Underfull \hbox (badness 10000) in paragraph at lines 132--149
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--148
+Underfull \hbox (badness 10000) in paragraph at lines 132--149
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--148
+Underfull \hbox (badness 10000) in paragraph at lines 132--149
 
  []
 
-[6] [7]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 162--181
+[7] [8]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 163--182
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--181
+Underfull \hbox (badness 10000) in paragraph at lines 163--182
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--181
+Underfull \hbox (badness 10000) in paragraph at lines 163--182
 
  []
 
-[8] [9] [10]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 196--217
+[9] [10] [11]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 197--218
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 196--217
+Underfull \hbox (badness 10000) in paragraph at lines 197--218
 
  []
 
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 229--245
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 230--246
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 229--245
+Underfull \hbox (badness 10000) in paragraph at lines 230--246
 
  []
 
-[11] [12]
-Underfull \hbox (badness 10000) in paragraph at lines 255--257
+[12] [13]
+Underfull \hbox (badness 10000) in paragraph at lines 256--258
 
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 276.
+(hyperref)                removing `math shift' on input line 277.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\Rightarrow' on input line 276.
+(hyperref)                removing `\Rightarrow' on input line 277.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 276.
+(hyperref)                removing `math shift' on input line 277.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 282.
+(hyperref)                removing `math shift' on input line 283.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\Rightarrow' on input line 282.
+(hyperref)                removing `\Rightarrow' on input line 283.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 282.
+(hyperref)                removing `math shift' on input line 283.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 307--307
+Underfull \hbox (badness 10000) in paragraph at lines 308--308
 
  []
 
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 293--310
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 294--311
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 293--310
+Underfull \hbox (badness 10000) in paragraph at lines 294--311
 
  []
 
-[13] [14]
-Underfull \hbox (badness 10000) in paragraph at lines 325--327
+[14] [15]
+Underfull \hbox (badness 10000) in paragraph at lines 326--328
 
  []
 
-<immagini/mappa.jpg, id=424, 986.18437pt x 372.64218pt>
+<immagini/mappa.jpg, id=431, 986.18437pt x 372.64218pt>
 File: immagini/mappa.jpg Graphic file (type jpg)
 <use immagini/mappa.jpg>
-Package pdftex.def Info: immagini/mappa.jpg  used on input line 329.
+Package pdftex.def Info: immagini/mappa.jpg  used on input line 330.
 (pdftex.def)             Requested size: 341.43306pt x 129.01657pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 337--339
+Underfull \hbox (badness 10000) in paragraph at lines 338--340
 
  []
 
-[15 <./immagini/mappa.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 346--347
+[16 <./immagini/mappa.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 347--348
 
  []
 
-<immagini/PivotSimplex.jpg, id=429, 596.2275pt x 219.06844pt>
+<immagini/PivotSimplex.jpg, id=436, 596.2275pt x 219.06844pt>
 File: immagini/PivotSimplex.jpg Graphic file (type jpg)
 <use immagini/PivotSimplex.jpg>
-Package pdftex.def Info: immagini/PivotSimplex.jpg  used on input line 349.
+Package pdftex.def Info: immagini/PivotSimplex.jpg  used on input line 350.
 (pdftex.def)             Requested size: 341.43306pt x 125.45192pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 356--357
+Underfull \hbox (badness 10000) in paragraph at lines 357--358
 
  []
 
-<immagini/DualSimplex0.jpg, id=430, 633.86812pt x 188.20313pt>
+<immagini/DualSimplex0.jpg, id=437, 633.86812pt x 188.20313pt>
 File: immagini/DualSimplex0.jpg Graphic file (type jpg)
 <use immagini/DualSimplex0.jpg>
-Package pdftex.def Info: immagini/DualSimplex0.jpg  used on input line 358.
+Package pdftex.def Info: immagini/DualSimplex0.jpg  used on input line 359.
 (pdftex.def)             Requested size: 284.52756pt x 84.48097pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 361--362
+Underfull \hbox (badness 10000) in paragraph at lines 362--363
 
  []
 
-<immagini/DualSimplex1.jpg, id=431, 643.6547pt x 204.765pt>
+<immagini/DualSimplex1.jpg, id=438, 643.6547pt x 204.765pt>
 File: immagini/DualSimplex1.jpg Graphic file (type jpg)
 <use immagini/DualSimplex1.jpg>
-Package pdftex.def Info: immagini/DualSimplex1.jpg  used on input line 364.
+Package pdftex.def Info: immagini/DualSimplex1.jpg  used on input line 365.
 (pdftex.def)             Requested size: 284.52756pt x 90.51866pt.
-[16 <./immagini/PivotSimplex.jpg> <./immagini/DualSimplex0.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 367--368
+[17 <./immagini/PivotSimplex.jpg> <./immagini/DualSimplex0.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 368--369
 
  []
 
-<immagini/DualSimplex2.jpg, id=437, 651.18282pt x 255.20343pt>
+<immagini/DualSimplex2.jpg, id=444, 651.18282pt x 255.20343pt>
 File: immagini/DualSimplex2.jpg Graphic file (type jpg)
 <use immagini/DualSimplex2.jpg>
-Package pdftex.def Info: immagini/DualSimplex2.jpg  used on input line 370.
+Package pdftex.def Info: immagini/DualSimplex2.jpg  used on input line 371.
 (pdftex.def)             Requested size: 284.52756pt x 111.51103pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--377
+Underfull \hbox (badness 10000) in paragraph at lines 377--378
 
  []
 
-<immagini/2fasi0.jpg, id=438, 597.73312pt x 119.69719pt>
+<immagini/2fasi0.jpg, id=445, 597.73312pt x 119.69719pt>
 File: immagini/2fasi0.jpg Graphic file (type jpg)
 <use immagini/2fasi0.jpg>
-Package pdftex.def Info: immagini/2fasi0.jpg  used on input line 379.
+Package pdftex.def Info: immagini/2fasi0.jpg  used on input line 380.
 (pdftex.def)             Requested size: 341.43306pt x 68.37238pt.
-<immagini/2fasi1.jpg, id=439, 572.1375pt x 100.87688pt>
+<immagini/2fasi1.jpg, id=446, 572.1375pt x 100.87688pt>
 File: immagini/2fasi1.jpg Graphic file (type jpg)
 <use immagini/2fasi1.jpg>
-Package pdftex.def Info: immagini/2fasi1.jpg  used on input line 386.
+Package pdftex.def Info: immagini/2fasi1.jpg  used on input line 387.
 (pdftex.def)             Requested size: 341.43306pt x 60.20026pt.
-[17 <./immagini/DualSimplex1.jpg> <./immagini/DualSimplex2.jpg> <./immagini/2fa
+[18 <./immagini/DualSimplex1.jpg> <./immagini/DualSimplex2.jpg> <./immagini/2fa
 si0.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 389--390
+Underfull \hbox (badness 10000) in paragraph at lines 390--391
 
  []
 
-<immagini/2fasi2.jpg, id=444, 669.2503pt x 165.61874pt>
+<immagini/2fasi2.jpg, id=451, 669.2503pt x 165.61874pt>
 File: immagini/2fasi2.jpg Graphic file (type jpg)
 <use immagini/2fasi2.jpg>
 Package pdftex.def Info: immagini/2fasi2.jpg  used on input line 392.
@@ -769,7 +753,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 396--397
 
  []
 
-<immagini/2fasi3.jpg, id=445, 649.67719pt x 248.42813pt>
+<immagini/2fasi3.jpg, id=452, 649.67719pt x 248.42813pt>
 File: immagini/2fasi3.jpg Graphic file (type jpg)
 <use immagini/2fasi3.jpg>
 Package pdftex.def Info: immagini/2fasi3.jpg  used on input line 399.
@@ -779,19 +763,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 402--404
 
  []
 
-<immagini/2fasi4.jpg, id=446, 599.99156pt x 109.1578pt>
+<immagini/2fasi4.jpg, id=453, 599.99156pt x 109.1578pt>
 File: immagini/2fasi4.jpg Graphic file (type jpg)
 <use immagini/2fasi4.jpg>
 Package pdftex.def Info: immagini/2fasi4.jpg  used on input line 405.
 (pdftex.def)             Requested size: 341.43306pt x 62.11899pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 408--409
+Underfull \hbox (badness 10000) in paragraph at lines 408--410
 
  []
 
-[18 <./immagini/2fasi1.jpg> <./immagini/2fasi2.jpg> <./immagini/2fasi3.jpg> <./
+[19 <./immagini/2fasi1.jpg> <./immagini/2fasi2.jpg> <./immagini/2fasi3.jpg> <./
 immagini/2fasi4.jpg>]
-<immagini/2fasi5.jpg, id=451, 538.26094pt x 111.41624pt>
+<immagini/2fasi5.jpg, id=459, 538.26094pt x 111.41624pt>
 File: immagini/2fasi5.jpg Graphic file (type jpg)
 <use immagini/2fasi5.jpg>
 Package pdftex.def Info: immagini/2fasi5.jpg  used on input line 411.
@@ -801,12 +785,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 415--417
 
  []
 
-<immagini/DualeProblema0.jpg, id=452, 491.58656pt x 136.25906pt>
+<immagini/DualeProblema0.jpg, id=460, 491.58656pt x 136.25906pt>
 File: immagini/DualeProblema0.jpg Graphic file (type jpg)
 <use immagini/DualeProblema0.jpg>
 Package pdftex.def Info: immagini/DualeProblema0.jpg  used on input line 420.
 (pdftex.def)             Requested size: 227.62204pt x 63.09366pt.
-<immagini/DualeProblema0a.jpg, id=453, 487.06969pt x 135.50626pt>
+<immagini/DualeProblema0a.jpg, id=461, 487.06969pt x 135.50626pt>
 File: immagini/DualeProblema0a.jpg Graphic file (type jpg)
 <use immagini/DualeProblema0a.jpg>
 Package pdftex.def Info: immagini/DualeProblema0a.jpg  used on input line 421.
@@ -816,9 +800,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 429--430
 
  []
 
-[19 <./immagini/2fasi5.jpg> <./immagini/DualeProblema0.jpg> <./immagini/DualePr
+[20 <./immagini/2fasi5.jpg> <./immagini/DualeProblema0.jpg> <./immagini/DualePr
 oblema0a.jpg>]
-<immagini/DualeProblema0b.jpg, id=459, 489.32813pt x 217.5628pt>
+<immagini/DualeProblema0b.jpg, id=466, 489.32813pt x 217.5628pt>
 File: immagini/DualeProblema0b.jpg Graphic file (type jpg)
 <use immagini/DualeProblema0b.jpg>
 Package pdftex.def Info: immagini/DualeProblema0b.jpg  used on input line 440.
@@ -828,7 +812,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 443--444
 
  []
 
-<immagini/DualeProblema.jpg, id=460, 348.55219pt x 158.09062pt>
+<immagini/DualeProblema.jpg, id=467, 348.55219pt x 158.09062pt>
 File: immagini/DualeProblema.jpg Graphic file (type jpg)
 <use immagini/DualeProblema.jpg>
 Package pdftex.def Info: immagini/DualeProblema.jpg  used on input line 446.
@@ -838,8 +822,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 449--456
 
  []
 
-[20 <./immagini/DualeProblema0b.jpg> <./immagini/DualeProblema.jpg>]
-<immagini/ProblemaDuale1.jpg, id=465, 254.45062pt x 180.675pt>
+[21 <./immagini/DualeProblema0b.jpg> <./immagini/DualeProblema.jpg>]
+<immagini/ProblemaDuale1.jpg, id=472, 254.45062pt x 180.675pt>
 File: immagini/ProblemaDuale1.jpg Graphic file (type jpg)
 <use immagini/ProblemaDuale1.jpg>
 Package pdftex.def Info: immagini/ProblemaDuale1.jpg  used on input line 466.
@@ -854,18 +838,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 486--488
 
  []
 
-[21 <./immagini/ProblemaDuale1.jpg>]
+[22 <./immagini/ProblemaDuale1.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 504--507
 
  []
 
-[22]
-<immagini/Grafico1.jpg, id=474, 345.54094pt x 341.77687pt>
+[23]
+<immagini/Grafico1.jpg, id=482, 345.54094pt x 341.77687pt>
 File: immagini/Grafico1.jpg Graphic file (type jpg)
 <use immagini/Grafico1.jpg>
 Package pdftex.def Info: immagini/Grafico1.jpg  used on input line 521.
 (pdftex.def)             Requested size: 256.0748pt x 253.29163pt.
- [23 <./immagini/Grafico1.jpg>]
+ [24 <./immagini/Grafico1.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 527--528
 
  []
@@ -875,7 +859,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 532--534
 
  []
 
-<immagini/Gomory0.jpg, id=479, 236.38312pt x 109.91063pt>
+<immagini/Gomory0.jpg, id=487, 236.38312pt x 109.91063pt>
 File: immagini/Gomory0.jpg Graphic file (type jpg)
 <use immagini/Gomory0.jpg>
 Package pdftex.def Info: immagini/Gomory0.jpg  used on input line 536.
@@ -890,17 +874,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 551--553
 
  []
 
-<immagini/Gomory1.jpg, id=480, 268.75406pt x 137.01187pt>
+<immagini/Gomory1.jpg, id=488, 268.75406pt x 137.01187pt>
 File: immagini/Gomory1.jpg Graphic file (type jpg)
 <use immagini/Gomory1.jpg>
 Package pdftex.def Info: immagini/Gomory1.jpg  used on input line 554.
 (pdftex.def)             Requested size: 170.71652pt x 87.03293pt.
-[24 <./immagini/Gomory0.jpg>]
+[25 <./immagini/Gomory0.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 557--558
 
  []
 
-<immagini/Gomory2.jpg, id=485, 575.90157pt x 146.04562pt>
+<immagini/Gomory2.jpg, id=494, 575.90157pt x 146.04562pt>
 File: immagini/Gomory2.jpg Graphic file (type jpg)
 <use immagini/Gomory2.jpg>
 Package pdftex.def Info: immagini/Gomory2.jpg  used on input line 560.
@@ -915,7 +899,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 569--570
 
  []
 
-<immagini/Gomory3.jpg, id=486, 632.3625pt x 169.38281pt>
+<immagini/Gomory3.jpg, id=495, 632.3625pt x 169.38281pt>
 File: immagini/Gomory3.jpg Graphic file (type jpg)
 <use immagini/Gomory3.jpg>
 Package pdftex.def Info: immagini/Gomory3.jpg  used on input line 572.
@@ -925,7 +909,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 575--576
 
  []
 
-<immagini/Gomory4.jpg, id=487, 280.79906pt x 161.10187pt>
+<immagini/Gomory4.jpg, id=496, 280.79906pt x 161.10187pt>
 File: immagini/Gomory4.jpg Graphic file (type jpg)
 <use immagini/Gomory4.jpg>
 Package pdftex.def Info: immagini/Gomory4.jpg  used on input line 578.
@@ -940,23 +924,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 590--609
 
  []
 
-[25 <./immagini/Gomory1.jpg> <./immagini/Gomory2.jpg> <./immagini/Gomory3.jpg> 
+[26 <./immagini/Gomory1.jpg> <./immagini/Gomory2.jpg> <./immagini/Gomory3.jpg> 
 <./immagini/Gomory4.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 618--619
 
  []
 
-<immagini/matrici/2_0_1_0.jpg, id=493, 572.89032pt x 545.78906pt>
+<immagini/matrici/2_0_1_0.jpg, id=501, 572.89032pt x 545.78906pt>
 File: immagini/matrici/2_0_1_0.jpg Graphic file (type jpg)
 <use immagini/matrici/2_0_1_0.jpg>
 Package pdftex.def Info: immagini/matrici/2_0_1_0.jpg  used on input line 621.
 (pdftex.def)             Requested size: 284.52756pt x 271.07pt.
-[26]
+[27]
 Underfull \hbox (badness 10000) in paragraph at lines 624--631
 
  []
 
-[27 <./immagini/matrici/2_0_1_0.jpg>]
+[28 <./immagini/matrici/2_0_1_0.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 654--654
 
  []
@@ -966,17 +950,17 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 634--655
 [] 
  []
 
-<immagini/matrici/2_6_3_0.jpg, id=502, 351.56343pt x 718.93594pt>
+<immagini/matrici/2_6_3_0.jpg, id=510, 351.56343pt x 718.93594pt>
 File: immagini/matrici/2_6_3_0.jpg Graphic file (type jpg)
 <use immagini/matrici/2_6_3_0.jpg>
 Package pdftex.def Info: immagini/matrici/2_6_3_0.jpg  used on input line 657.
 (pdftex.def)             Requested size: 284.52756pt x 581.84128pt.
-[28]
+[29]
 Overfull \vbox (26.84128pt too high) has occurred while \output is active []
 
 
-[29 <./immagini/matrici/2_6_3_0.jpg>]
-<immagini/matrici/2_6_3_1.jpg, id=511, 353.06906pt x 270.25969pt>
+[30 <./immagini/matrici/2_6_3_0.jpg>]
+<immagini/matrici/2_6_3_1.jpg, id=519, 353.06906pt x 270.25969pt>
 File: immagini/matrici/2_6_3_1.jpg Graphic file (type jpg)
 <use immagini/matrici/2_6_3_1.jpg>
 Package pdftex.def Info: immagini/matrici/2_6_3_1.jpg  used on input line 660.
@@ -1006,12 +990,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 687--691
 
  []
 
-[30 <./immagini/matrici/2_6_3_1.jpg>] [31]
+[31 <./immagini/matrici/2_6_3_1.jpg>] [32]
 Underfull \hbox (badness 10000) in paragraph at lines 715--718
 
  []
 
-<immagini/grafi/Dijkstra1.jpg, id=521, 639.89063pt x 374.90062pt>
+<immagini/grafi/Dijkstra1.jpg, id=529, 639.89063pt x 374.90062pt>
 File: immagini/grafi/Dijkstra1.jpg Graphic file (type jpg)
 <use immagini/grafi/Dijkstra1.jpg>
 Package pdftex.def Info: immagini/grafi/Dijkstra1.jpg  used on input line 719.
@@ -1021,7 +1005,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 721--722
 
  []
 
-<immagini/grafi/Dijkstra2.jpg, id=522, 478.03593pt x 246.9225pt>
+<immagini/grafi/Dijkstra2.jpg, id=530, 478.03593pt x 246.9225pt>
 File: immagini/grafi/Dijkstra2.jpg Graphic file (type jpg)
 <use immagini/grafi/Dijkstra2.jpg>
 Package pdftex.def Info: immagini/grafi/Dijkstra2.jpg  used on input line 724.
@@ -1031,39 +1015,39 @@ Underfull \hbox (badness 10000) in paragraph at lines 727--729
 
  []
 
-[32 <./immagini/grafi/Dijkstra1.jpg> <./immagini/grafi/Dijkstra2.jpg>]
-<immagini/grafi/Dijkstra3.jpg, id=527, 475.7775pt x 249.93375pt>
+[33 <./immagini/grafi/Dijkstra1.jpg> <./immagini/grafi/Dijkstra2.jpg>]
+<immagini/grafi/Dijkstra3.jpg, id=535, 475.7775pt x 249.93375pt>
 File: immagini/grafi/Dijkstra3.jpg Graphic file (type jpg)
 <use immagini/grafi/Dijkstra3.jpg>
 Package pdftex.def Info: immagini/grafi/Dijkstra3.jpg  used on input line 731.
 (pdftex.def)             Requested size: 227.62204pt x 119.57402pt.
-<immagini/grafi/Dijkstra4.jpg, id=528, 485.56406pt x 252.19218pt>
+<immagini/grafi/Dijkstra4.jpg, id=536, 485.56406pt x 252.19218pt>
 File: immagini/grafi/Dijkstra4.jpg Graphic file (type jpg)
 <use immagini/grafi/Dijkstra4.jpg>
 Package pdftex.def Info: immagini/grafi/Dijkstra4.jpg  used on input line 737.
 (pdftex.def)             Requested size: 227.62204pt x 118.21863pt.
-<immagini/grafi/Dijkstra5.jpg, id=529, 479.54156pt x 246.9225pt>
+<immagini/grafi/Dijkstra5.jpg, id=537, 479.54156pt x 246.9225pt>
 File: immagini/grafi/Dijkstra5.jpg Graphic file (type jpg)
 <use immagini/grafi/Dijkstra5.jpg>
 Package pdftex.def Info: immagini/grafi/Dijkstra5.jpg  used on input line 743.
 (pdftex.def)             Requested size: 227.62204pt x 117.2065pt.
-<immagini/grafi/Dijkstra6.jpg, id=530, 483.30562pt x 244.66406pt>
+<immagini/grafi/Dijkstra6.jpg, id=538, 483.30562pt x 244.66406pt>
 File: immagini/grafi/Dijkstra6.jpg Graphic file (type jpg)
 <use immagini/grafi/Dijkstra6.jpg>
 Package pdftex.def Info: immagini/grafi/Dijkstra6.jpg  used on input line 744.
 (pdftex.def)             Requested size: 227.62204pt x 115.22731pt.
- [33 <./immagini/grafi/Dijkstra3.jpg> <./immagini/grafi/Dijkstra4.jpg> <./immag
+ [34 <./immagini/grafi/Dijkstra3.jpg> <./immagini/grafi/Dijkstra4.jpg> <./immag
 ini/grafi/Dijkstra5.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 748--749
 
  []
 
-<immagini/grafi/SPT1.jpg, id=535, 305.64188pt x 193.47281pt>
+<immagini/grafi/SPT1.jpg, id=543, 305.64188pt x 193.47281pt>
 File: immagini/grafi/SPT1.jpg Graphic file (type jpg)
 <use immagini/grafi/SPT1.jpg>
 Package pdftex.def Info: immagini/grafi/SPT1.jpg  used on input line 751.
 (pdftex.def)             Requested size: 142.26378pt x 90.05249pt.
-<immagini/grafi/SPT2.jpg, id=536, 296.60812pt x 134.75343pt>
+<immagini/grafi/SPT2.jpg, id=544, 296.60812pt x 134.75343pt>
 File: immagini/grafi/SPT2.jpg Graphic file (type jpg)
 <use immagini/grafi/SPT2.jpg>
 Package pdftex.def Info: immagini/grafi/SPT2.jpg  used on input line 752.
@@ -1073,49 +1057,49 @@ Underfull \hbox (badness 10000) in paragraph at lines 754--760
 
  []
 
-<immagini/grafi/SPT3.jpg, id=537, 380.92313pt x 295.1025pt>
+<immagini/grafi/SPT3.jpg, id=545, 380.92313pt x 295.1025pt>
 File: immagini/grafi/SPT3.jpg Graphic file (type jpg)
 <use immagini/grafi/SPT3.jpg>
 Package pdftex.def Info: immagini/grafi/SPT3.jpg  used on input line 761.
 (pdftex.def)             Requested size: 142.26378pt x 110.20836pt.
-<immagini/grafi/SPT4.jpg, id=538, 761.09344pt x 320.69812pt>
+<immagini/grafi/SPT4.jpg, id=546, 761.09344pt x 320.69812pt>
 File: immagini/grafi/SPT4.jpg Graphic file (type jpg)
 <use immagini/grafi/SPT4.jpg>
 Package pdftex.def Info: immagini/grafi/SPT4.jpg  used on input line 762.
 (pdftex.def)             Requested size: 284.52756pt x 119.89449pt.
-[34 <./immagini/grafi/Dijkstra6.jpg> <./immagini/grafi/SPT1.jpg> <./immagini/gr
-afi/SPT2.jpg> <./immagini/grafi/SPT3.jpg>] [35 <./immagini/grafi/SPT4.jpg>]
+[35 <./immagini/grafi/Dijkstra6.jpg> <./immagini/grafi/SPT1.jpg> <./immagini/gr
+afi/SPT2.jpg> <./immagini/grafi/SPT3.jpg>] [36 <./immagini/grafi/SPT4.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 781--782
 
  []
 
-<immagini/grafi/Prim1.jpg, id=547, 179.16937pt x 143.78719pt>
+<immagini/grafi/Prim1.jpg, id=555, 179.16937pt x 143.78719pt>
 File: immagini/grafi/Prim1.jpg Graphic file (type jpg)
 <use immagini/grafi/Prim1.jpg>
 Package pdftex.def Info: immagini/grafi/Prim1.jpg  used on input line 783.
 (pdftex.def)             Requested size: 170.71652pt x 137.01172pt.
-<immagini/grafi/Prim2.jpg, id=548, 625.58719pt x 165.61874pt>
+<immagini/grafi/Prim2.jpg, id=556, 625.58719pt x 165.61874pt>
 File: immagini/grafi/Prim2.jpg Graphic file (type jpg)
 <use immagini/grafi/Prim2.jpg>
 Package pdftex.def Info: immagini/grafi/Prim2.jpg  used on input line 790.
 (pdftex.def)             Requested size: 312.9803pt x 82.8597pt.
-<immagini/grafi/Prim3.jpg, id=549, 585.68813pt x 158.84344pt>
+<immagini/grafi/Prim3.jpg, id=557, 585.68813pt x 158.84344pt>
 File: immagini/grafi/Prim3.jpg Graphic file (type jpg)
 <use immagini/grafi/Prim3.jpg>
 Package pdftex.def Info: immagini/grafi/Prim3.jpg  used on input line 796.
 (pdftex.def)             Requested size: 312.9803pt x 84.88708pt.
-<immagini/grafi/Prim4.jpg, id=550, 606.01407pt x 231.11343pt>
+<immagini/grafi/Prim4.jpg, id=558, 606.01407pt x 231.11343pt>
 File: immagini/grafi/Prim4.jpg Graphic file (type jpg)
 <use immagini/grafi/Prim4.jpg>
 Package pdftex.def Info: immagini/grafi/Prim4.jpg  used on input line 802.
 (pdftex.def)             Requested size: 312.9803pt x 119.36153pt.
-[36 <./immagini/grafi/Prim1.jpg> <./immagini/grafi/Prim2.jpg> <./immagini/grafi
+[37 <./immagini/grafi/Prim1.jpg> <./immagini/grafi/Prim2.jpg> <./immagini/grafi
 /Prim3.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 806--807
 
  []
 
-<immagini/grafi/3_1_1_0.jpg, id=555, 289.83281pt x 201.75375pt>
+<immagini/grafi/3_1_1_0.jpg, id=564, 289.83281pt x 201.75375pt>
 File: immagini/grafi/3_1_1_0.jpg Graphic file (type jpg)
 <use immagini/grafi/3_1_1_0.jpg>
 Package pdftex.def Info: immagini/grafi/3_1_1_0.jpg  used on input line 819.
@@ -1132,7 +1116,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 821--822
 
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 8
 25.
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
@@ -1142,13 +1126,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 823--828
 
  []
 
-<immagini/grafi/3_1_1_1.jpg, id=556, 474.27188pt x 373.395pt>
+<immagini/grafi/3_1_1_1.jpg, id=565, 474.27188pt x 373.395pt>
 File: immagini/grafi/3_1_1_1.jpg Graphic file (type jpg)
 <use immagini/grafi/3_1_1_1.jpg>
 Package pdftex.def Info: immagini/grafi/3_1_1_1.jpg  used on input line 830.
 (pdftex.def)             Requested size: 199.16928pt x 156.80774pt.
-[37 <./immagini/grafi/Prim4.jpg> <./immagini/grafi/3_1_1_0.jpg>]
-<immagini/grafi/3_2_2_0.jpg, id=562, 463.7325pt x 242.40562pt>
+[38 <./immagini/grafi/Prim4.jpg> <./immagini/grafi/3_1_1_0.jpg>]
+<immagini/grafi/3_2_2_0.jpg, id=570, 463.7325pt x 242.40562pt>
 File: immagini/grafi/3_2_2_0.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_2_0.jpg>
 Package pdftex.def Info: immagini/grafi/3_2_2_0.jpg  used on input line 865.
@@ -1158,23 +1142,23 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 850--869
 [] 
  []
 
-[38 <./immagini/grafi/3_1_1_1.jpg>]
+[39 <./immagini/grafi/3_1_1_1.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 870--871
 
  []
 
-<immagini/grafi/3_2_2_1.jpg, id=567, 670.75594pt x 367.3725pt>
+<immagini/grafi/3_2_2_1.jpg, id=575, 670.75594pt x 367.3725pt>
 File: immagini/grafi/3_2_2_1.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_2_1.jpg>
 Package pdftex.def Info: immagini/grafi/3_2_2_1.jpg  used on input line 873.
 (pdftex.def)             Requested size: 284.52756pt x 155.83133pt.
-[39 <./immagini/grafi/3_2_2_0.jpg> <./immagini/grafi/3_2_2_1.jpg>]
-<immagini/grafi/3_2_2_2.jpg, id=572, 441.90094pt x 250.68657pt>
+[40 <./immagini/grafi/3_2_2_0.jpg> <./immagini/grafi/3_2_2_1.jpg>]
+<immagini/grafi/3_2_2_2.jpg, id=580, 441.90094pt x 250.68657pt>
 File: immagini/grafi/3_2_2_2.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_2_2.jpg>
 Package pdftex.def Info: immagini/grafi/3_2_2_2.jpg  used on input line 880.
 (pdftex.def)             Requested size: 170.71652pt x 96.84549pt.
- [40 <./immagini/grafi/3_2_2_2.jpg>]
+ [41 <./immagini/grafi/3_2_2_2.jpg>]
 Overfull \hbox (6.79999pt too wide) in paragraph at lines 888--905
 [] 
  []
@@ -1184,12 +1168,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 888--905
 
  []
 
-<immagini/grafi/3_2_3_0.jpg, id=577, 472.01344pt x 141.52875pt>
+<immagini/grafi/3_2_3_0.jpg, id=585, 472.01344pt x 141.52875pt>
 File: immagini/grafi/3_2_3_0.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_3_0.jpg>
 Package pdftex.def Info: immagini/grafi/3_2_3_0.jpg  used on input line 906.
 (pdftex.def)             Requested size: 199.16928pt x 59.72025pt.
-<immagini/grafi/3_2_3_0a.jpg, id=578, 481.8pt x 127.22531pt>
+<immagini/grafi/3_2_3_0a.jpg, id=586, 481.8pt x 127.22531pt>
 File: immagini/grafi/3_2_3_0a.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_3_0a.jpg>
 Package pdftex.def Info: immagini/grafi/3_2_3_0a.jpg  used on input line 907.
@@ -1199,12 +1183,12 @@ Overfull \hbox (70.56078pt too wide) in paragraph at lines 906--908
 [][] [] 
  []
 
-<immagini/grafi/3_2_3_1.jpg, id=579, 484.05844pt x 152.82094pt>
+<immagini/grafi/3_2_3_1.jpg, id=587, 484.05844pt x 152.82094pt>
 File: immagini/grafi/3_2_3_1.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_3_1.jpg>
 Package pdftex.def Info: immagini/grafi/3_2_3_1.jpg  used on input line 912.
 (pdftex.def)             Requested size: 199.16928pt x 62.8785pt.
-<immagini/grafi/3_2_3_1a.jpg, id=580, 475.7775pt x 137.7647pt>
+<immagini/grafi/3_2_3_1a.jpg, id=588, 475.7775pt x 137.7647pt>
 File: immagini/grafi/3_2_3_1a.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_3_1a.jpg>
 Package pdftex.def Info: immagini/grafi/3_2_3_1a.jpg  used on input line 913.
@@ -1214,14 +1198,14 @@ Overfull \hbox (70.56078pt too wide) in paragraph at lines 912--914
 [][] [] 
  []
 
-[41 <./immagini/grafi/3_2_3_0.jpg> <./immagini/grafi/3_2_3_0a.jpg> <./immagini/
+[42 <./immagini/grafi/3_2_3_0.jpg> <./immagini/grafi/3_2_3_0a.jpg> <./immagini/
 grafi/3_2_3_1.jpg> <./immagini/grafi/3_2_3_1a.jpg>]
-<immagini/grafi/3_2_3_2.jpg, id=585, 477.28313pt x 144.54pt>
+<immagini/grafi/3_2_3_2.jpg, id=593, 477.28313pt x 144.54pt>
 File: immagini/grafi/3_2_3_2.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_3_2.jpg>
 Package pdftex.def Info: immagini/grafi/3_2_3_2.jpg  used on input line 918.
 (pdftex.def)             Requested size: 199.16928pt x 60.316pt.
-<immagini/grafi/3_2_3_2a.jpg, id=586, 471.26062pt x 129.48375pt>
+<immagini/grafi/3_2_3_2a.jpg, id=594, 471.26062pt x 129.48375pt>
 File: immagini/grafi/3_2_3_2a.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_3_2a.jpg>
 Package pdftex.def Info: immagini/grafi/3_2_3_2a.jpg  used on input line 919.
@@ -1236,12 +1220,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 921--923
 
  []
 
-<immagini/grafi/3_2_3_3.jpg, id=587, 463.7325pt x 131.74219pt>
+<immagini/grafi/3_2_3_3.jpg, id=595, 463.7325pt x 131.74219pt>
 File: immagini/grafi/3_2_3_3.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_3_3.jpg>
 Package pdftex.def Info: immagini/grafi/3_2_3_3.jpg  used on input line 928.
 (pdftex.def)             Requested size: 199.16928pt x 56.5837pt.
-<immagini/grafi/3_2_3_3a.jpg, id=588, 472.01344pt x 127.22531pt>
+<immagini/grafi/3_2_3_3a.jpg, id=596, 472.01344pt x 127.22531pt>
 File: immagini/grafi/3_2_3_3a.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_3_3a.jpg>
 Package pdftex.def Info: immagini/grafi/3_2_3_3a.jpg  used on input line 929.
@@ -1251,12 +1235,12 @@ Overfull \hbox (70.56078pt too wide) in paragraph at lines 928--934
 [][] [] 
  []
 
-<immagini/grafi/3_2_3_4.jpg, id=589, 463.7325pt x 131.74219pt>
+<immagini/grafi/3_2_3_4.jpg, id=597, 463.7325pt x 131.74219pt>
 File: immagini/grafi/3_2_3_4.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_3_4.jpg>
 Package pdftex.def Info: immagini/grafi/3_2_3_4.jpg  used on input line 935.
 (pdftex.def)             Requested size: 199.16928pt x 56.5837pt.
-<immagini/grafi/3_2_3_4a.jpg, id=590, 486.31688pt x 128.73094pt>
+<immagini/grafi/3_2_3_4a.jpg, id=598, 486.31688pt x 128.73094pt>
 File: immagini/grafi/3_2_3_4a.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_3_4a.jpg>
 Package pdftex.def Info: immagini/grafi/3_2_3_4a.jpg  used on input line 936.
@@ -1266,15 +1250,15 @@ Overfull \hbox (70.56078pt too wide) in paragraph at lines 935--939
 [][] [] 
  []
 
-[42 <./immagini/grafi/3_2_3_2.jpg> <./immagini/grafi/3_2_3_2a.jpg> <./immagini/
+[43 <./immagini/grafi/3_2_3_2.jpg> <./immagini/grafi/3_2_3_2a.jpg> <./immagini/
 grafi/3_2_3_3.jpg> <./immagini/grafi/3_2_3_3a.jpg> <./immagini/grafi/3_2_3_4.jp
 g> <./immagini/grafi/3_2_3_4a.jpg>]
-<immagini/grafi/3_2_3_5.jpg, id=595, 472.76625pt x 132.495pt>
+<immagini/grafi/3_2_3_5.jpg, id=604, 472.76625pt x 132.495pt>
 File: immagini/grafi/3_2_3_5.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_3_5.jpg>
 Package pdftex.def Info: immagini/grafi/3_2_3_5.jpg  used on input line 940.
 (pdftex.def)             Requested size: 199.16928pt x 55.81935pt.
-<immagini/grafi/3_2_3_5a.jpg, id=596, 468.24937pt x 129.48375pt>
+<immagini/grafi/3_2_3_5a.jpg, id=605, 468.24937pt x 129.48375pt>
 File: immagini/grafi/3_2_3_5a.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_3_5a.jpg>
 Package pdftex.def Info: immagini/grafi/3_2_3_5a.jpg  used on input line 941.
@@ -1284,17 +1268,17 @@ Overfull \hbox (70.56078pt too wide) in paragraph at lines 940--942
 [][] [] 
  []
 
-<immagini/grafi/3_2_4_0.jpg, id=597, 365.11406pt x 202.50656pt>
+<immagini/grafi/3_2_4_0.jpg, id=606, 365.11406pt x 202.50656pt>
 File: immagini/grafi/3_2_4_0.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_4_0.jpg>
 Package pdftex.def Info: immagini/grafi/3_2_4_0.jpg  used on input line 945.
 (pdftex.def)             Requested size: 199.16928pt x 110.46739pt.
-<immagini/grafi/3_2_4_1.jpg, id=598, 490.83376pt x 210.03468pt>
+<immagini/grafi/3_2_4_1.jpg, id=607, 490.83376pt x 210.03468pt>
 File: immagini/grafi/3_2_4_1.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_4_1.jpg>
 Package pdftex.def Info: immagini/grafi/3_2_4_1.jpg  used on input line 951.
 (pdftex.def)             Requested size: 256.0748pt x 109.58081pt.
-<immagini/grafi/3_2_4_2.jpg, id=599, 487.06969pt x 200.24812pt>
+<immagini/grafi/3_2_4_2.jpg, id=608, 487.06969pt x 200.24812pt>
 File: immagini/grafi/3_2_4_2.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_4_2.jpg>
 Package pdftex.def Info: immagini/grafi/3_2_4_2.jpg  used on input line 957.
@@ -1308,9 +1292,9 @@ Overfull \hbox (70.56079pt too wide) in paragraph at lines 957--959
 [][] [] 
  []
 
-[43 <./immagini/grafi/3_2_3_5.jpg> <./immagini/grafi/3_2_3_5a.jpg> <./immagini/
+[44 <./immagini/grafi/3_2_3_5.jpg> <./immagini/grafi/3_2_3_5a.jpg> <./immagini/
 grafi/3_2_4_0.jpg> <./immagini/grafi/3_2_4_1.jpg>]
-<immagini/grafi/3_2_4_3.jpg, id=605, 491.58656pt x 205.5178pt>
+<immagini/grafi/3_2_4_3.jpg, id=613, 491.58656pt x 205.5178pt>
 File: immagini/grafi/3_2_4_3.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_4_3.jpg>
 Package pdftex.def Info: immagini/grafi/3_2_4_3.jpg  used on input line 966.
@@ -1324,12 +1308,12 @@ Overfull \hbox (70.56079pt too wide) in paragraph at lines 966--968
 [][] [] 
  []
 
-<immagini/grafi/3_2_4_5.jpg, id=606, 490.83376pt x 205.5178pt>
+<immagini/grafi/3_2_4_5.jpg, id=614, 490.83376pt x 205.5178pt>
 File: immagini/grafi/3_2_4_5.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_4_5.jpg>
 Package pdftex.def Info: immagini/grafi/3_2_4_5.jpg  used on input line 973.
 (pdftex.def)             Requested size: 256.0748pt x 107.22423pt.
-<immagini/grafi/3_2_4_5a.jpg, id=607, 367.3725pt x 201.75375pt>
+<immagini/grafi/3_2_4_5a.jpg, id=615, 367.3725pt x 201.75375pt>
 File: immagini/grafi/3_2_4_5a.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_4_5a.jpg>
 Package pdftex.def Info: immagini/grafi/3_2_4_5a.jpg  used on input line 974.
@@ -1339,12 +1323,12 @@ Overfull \hbox (70.56079pt too wide) in paragraph at lines 973--975
 [][] [] 
  []
 
-<immagini/grafi/3_2_4_6.jpg, id=608, 490.83376pt x 201.00093pt>
+<immagini/grafi/3_2_4_6.jpg, id=616, 490.83376pt x 201.00093pt>
 File: immagini/grafi/3_2_4_6.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_4_6.jpg>
 Package pdftex.def Info: immagini/grafi/3_2_4_6.jpg  used on input line 980.
 (pdftex.def)             Requested size: 256.0748pt x 104.86765pt.
-<immagini/grafi/3_2_4_6a.jpg, id=609, 366.61969pt x 203.25937pt>
+<immagini/grafi/3_2_4_6a.jpg, id=617, 366.61969pt x 203.25937pt>
 File: immagini/grafi/3_2_4_6a.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_4_6a.jpg>
 Package pdftex.def Info: immagini/grafi/3_2_4_6a.jpg  used on input line 981.
@@ -1354,14 +1338,14 @@ Overfull \hbox (70.56079pt too wide) in paragraph at lines 980--982
 [][] [] 
  []
 
-[44 <./immagini/grafi/3_2_4_2.jpg> <./immagini/grafi/3_2_4_3.jpg> <./immagini/g
+[45 <./immagini/grafi/3_2_4_2.jpg> <./immagini/grafi/3_2_4_3.jpg> <./immagini/g
 rafi/3_2_4_5.jpg> <./immagini/grafi/3_2_4_5a.jpg>]
-<immagini/grafi/3_2_4_7.jpg, id=614, 492.33937pt x 201.00093pt>
+<immagini/grafi/3_2_4_7.jpg, id=622, 492.33937pt x 201.00093pt>
 File: immagini/grafi/3_2_4_7.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_4_7.jpg>
 Package pdftex.def Info: immagini/grafi/3_2_4_7.jpg  used on input line 988.
 (pdftex.def)             Requested size: 256.0748pt x 104.54868pt.
-<immagini/grafi/3_2_4_7a.jpg, id=615, 365.86688pt x 203.25937pt>
+<immagini/grafi/3_2_4_7a.jpg, id=623, 365.86688pt x 203.25937pt>
 File: immagini/grafi/3_2_4_7a.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_4_7a.jpg>
 Package pdftex.def Info: immagini/grafi/3_2_4_7a.jpg  used on input line 989.
@@ -1376,7 +1360,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 997--998
 
  []
 
-<immagini/grafi/3_2_5_0.jpg, id=616, 250.68657pt x 124.21407pt>
+<immagini/grafi/3_2_5_0.jpg, id=624, 250.68657pt x 124.21407pt>
 File: immagini/grafi/3_2_5_0.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_5_0.jpg>
 Package pdftex.def Info: immagini/grafi/3_2_5_0.jpg  used on input line 1000.
@@ -1386,14 +1370,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 1003--1004
 
  []
 
-[45 <./immagini/grafi/3_2_4_6.jpg> <./immagini/grafi/3_2_4_6a.jpg> <./immagini/
+[46 <./immagini/grafi/3_2_4_6.jpg> <./immagini/grafi/3_2_4_6a.jpg> <./immagini/
 grafi/3_2_4_7.jpg> <./immagini/grafi/3_2_4_7a.jpg> <./immagini/grafi/3_2_5_0.jp
 g>]
 Underfull \hbox (badness 10000) in paragraph at lines 1010--1012
 
  []
 
-<immagini/grafi/3_2_5_1.jpg, id=621, 207.02344pt x 204.01219pt>
+<immagini/grafi/3_2_5_1.jpg, id=629, 207.02344pt x 204.01219pt>
 File: immagini/grafi/3_2_5_1.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_5_1.jpg>
 Package pdftex.def Info: immagini/grafi/3_2_5_1.jpg  used on input line 1013.
@@ -1403,22 +1387,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 1015--1017
 
  []
 
-<immagini/grafi/3_2_5_2a.jpg, id=622, 411.03563pt x 143.03438pt>
+<immagini/grafi/3_2_5_2a.jpg, id=630, 411.03563pt x 143.03438pt>
 File: immagini/grafi/3_2_5_2a.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_5_2a.jpg>
 Package pdftex.def Info: immagini/grafi/3_2_5_2a.jpg  used on input line 1018.
 (pdftex.def)             Requested size: 227.62204pt x 79.20822pt.
-<immagini/grafi/3_2_5_3.jpg, id=623, 243.15843pt x 255.95625pt>
+<immagini/grafi/3_2_5_3.jpg, id=631, 243.15843pt x 255.95625pt>
 File: immagini/grafi/3_2_5_3.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_5_3.jpg>
 Package pdftex.def Info: immagini/grafi/3_2_5_3.jpg  used on input line 1019.
 (pdftex.def)             Requested size: 170.71652pt x 179.6993pt.
-[46 <./immagini/grafi/3_2_5_1.jpg> <./immagini/grafi/3_2_5_2a.jpg>]
+[47 <./immagini/grafi/3_2_5_1.jpg> <./immagini/grafi/3_2_5_2a.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 1022--1025
 
  []
 
-<immagini/grafi/3_2_5_4.jpg, id=628, 497.60907pt x 221.32687pt>
+<immagini/grafi/3_2_5_4.jpg, id=636, 497.60907pt x 221.32687pt>
 File: immagini/grafi/3_2_5_4.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_5_4.jpg>
 Package pdftex.def Info: immagini/grafi/3_2_5_4.jpg  used on input line 1026.
@@ -1428,17 +1412,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 1028--1030
 
  []
 
-<immagini/grafi/3_2_5_5.jpg, id=629, 231.86626pt x 222.07968pt>
+<immagini/grafi/3_2_5_5.jpg, id=637, 231.86626pt x 222.07968pt>
 File: immagini/grafi/3_2_5_5.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_5_5.jpg>
 Package pdftex.def Info: immagini/grafi/3_2_5_5.jpg  used on input line 1031.
 (pdftex.def)             Requested size: 170.71652pt x 163.51294pt.
-[47 <./immagini/grafi/3_2_5_3.jpg> <./immagini/grafi/3_2_5_4.jpg>]
+[48 <./immagini/grafi/3_2_5_3.jpg> <./immagini/grafi/3_2_5_4.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 1033--1034
 
  []
 
-<immagini/grafi/3_2_5_2.jpg, id=634, 511.9125pt x 331.2375pt>
+<immagini/grafi/3_2_5_2.jpg, id=642, 511.9125pt x 331.2375pt>
 File: immagini/grafi/3_2_5_2.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_5_2.jpg>
 Package pdftex.def Info: immagini/grafi/3_2_5_2.jpg  used on input line 1036.
@@ -1453,34 +1437,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 1041--1061
 
  []
 
-[48 <./immagini/grafi/3_2_5_5.jpg> <./immagini/grafi/3_2_5_2.jpg>]
-<immagini/grafi/PLC1.jpg, id=639, 525.46312pt x 380.92313pt>
+[49 <./immagini/grafi/3_2_5_5.jpg> <./immagini/grafi/3_2_5_2.jpg>]
+<immagini/grafi/PLC1.jpg, id=649, 525.46312pt x 380.92313pt>
 File: immagini/grafi/PLC1.jpg Graphic file (type jpg)
 <use immagini/grafi/PLC1.jpg>
 Package pdftex.def Info: immagini/grafi/PLC1.jpg  used on input line 1062.
 (pdftex.def)             Requested size: 256.0748pt x 185.6426pt.
-<immagini/grafi/PLC2.jpg, id=640, 520.94624pt x 362.85562pt>
+<immagini/grafi/PLC2.jpg, id=650, 520.94624pt x 362.85562pt>
 File: immagini/grafi/PLC2.jpg Graphic file (type jpg)
 <use immagini/grafi/PLC2.jpg>
 Package pdftex.def Info: immagini/grafi/PLC2.jpg  used on input line 1066.
 (pdftex.def)             Requested size: 256.0748pt x 178.36555pt.
- [49 <./immagini/grafi/PLC1.jpg>]
-<immagini/grafi/PLC3.jpg, id=646, 518.6878pt x 337.26pt>
+ [50 <./immagini/grafi/PLC1.jpg>]
+<immagini/grafi/PLC3.jpg, id=655, 518.6878pt x 337.26pt>
 File: immagini/grafi/PLC3.jpg Graphic file (type jpg)
 <use immagini/grafi/PLC3.jpg>
 Package pdftex.def Info: immagini/grafi/PLC3.jpg  used on input line 1070.
 (pdftex.def)             Requested size: 256.0748pt x 166.50935pt.
-<immagini/grafi/PLC4.jpg, id=647, 551.81157pt x 352.31625pt>
+<immagini/grafi/PLC4.jpg, id=656, 551.81157pt x 352.31625pt>
 File: immagini/grafi/PLC4.jpg Graphic file (type jpg)
 <use immagini/grafi/PLC4.jpg>
 Package pdftex.def Info: immagini/grafi/PLC4.jpg  used on input line 1074.
 (pdftex.def)             Requested size: 256.0748pt x 163.5028pt.
-<immagini/grafi/PLC5.jpg, id=648, 444.15938pt x 391.4625pt>
+<immagini/grafi/PLC5.jpg, id=657, 444.15938pt x 391.4625pt>
 File: immagini/grafi/PLC5.jpg Graphic file (type jpg)
 <use immagini/grafi/PLC5.jpg>
 Package pdftex.def Info: immagini/grafi/PLC5.jpg  used on input line 1077.
 (pdftex.def)             Requested size: 199.16928pt x 175.53528pt.
- [50 <./immagini/grafi/PLC2.jpg> <./immagini/grafi/PLC3.jpg> <./immagini/grafi/
+ [51 <./immagini/grafi/PLC2.jpg> <./immagini/grafi/PLC3.jpg> <./immagini/grafi/
 PLC4.jpg>]
 Overfull \hbox (6.79999pt too wide) in paragraph at lines 1081--1095
 [] 
@@ -1491,83 +1475,92 @@ Underfull \hbox (badness 10000) in paragraph at lines 1081--1095
 
  []
 
-<immagini/grafi/3_2_1_0.jpg, id=653, 465.23813pt x 414.04688pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 1098--1100
+
+ []
+
+<immagini/grafi/3_2_1_0.jpg, id=662, 465.23813pt x 414.04688pt>
 File: immagini/grafi/3_2_1_0.jpg Graphic file (type jpg)
 <use immagini/grafi/3_2_1_0.jpg>
-Package pdftex.def Info: immagini/grafi/3_2_1_0.jpg  used on input line 1100.
+Package pdftex.def Info: immagini/grafi/3_2_1_0.jpg  used on input line 1102.
 (pdftex.def)             Requested size: 199.16928pt x 177.25327pt.
-[51 <./immagini/grafi/PLC5.jpg>] [52 <./immagini/grafi/3_2_1_0.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 1141--1141
+[52 <./immagini/grafi/PLC5.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 1104--1108
 
  []
 
+[53 <./immagini/grafi/3_2_1_0.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 1159--1159
 
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+ []
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
-(C:\Users\Meschio\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 )
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1124--1151
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1142--1169
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1124--1151
-
- []
-
-[53]
-Underfull \hbox (badness 10000) in paragraph at lines 1194--1194
-
- []
-
-
-Overfull \hbox (66.31479pt too wide) detected at line 1194
-[]
- []
-
-
-Overfull \hbox (73.11478pt too wide) in paragraph at lines 1175--1204
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1175--1204
+Underfull \hbox (badness 10000) in paragraph at lines 1142--1169
 
  []
 
 [54]
-Underfull \hbox (badness 10000) in paragraph at lines 1255--1255
+Underfull \hbox (badness 10000) in paragraph at lines 1212--1212
 
  []
 
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1239--1265
+Overfull \hbox (66.31479pt too wide) detected at line 1212
+[]
+ []
+
+
+Overfull \hbox (73.11478pt too wide) in paragraph at lines 1193--1222
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1239--1265
+Underfull \hbox (badness 10000) in paragraph at lines 1193--1222
 
  []
 
-[55] [56]
-Underfull \hbox (badness 10000) in paragraph at lines 1294--1295
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1296--1305
+[55]
+Underfull \hbox (badness 10000) in paragraph at lines 1273--1273
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1331--1332
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1257--1283
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1257--1283
 
  []
 
-[57] [58]
+[56] [57]
+Underfull \hbox (badness 10000) in paragraph at lines 1312--1313
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1314--1323
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1349--1350
+
+ []
+
+[58] [59]
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ≤ in font cmr10!
 Missing character: There is no √ in font cmr10!
@@ -1580,17 +1573,17 @@ Missing character: There is no í in font cmr10!
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ® in font cmr10!
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1352--1371
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1370--1389
 [] 
  []
 
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1372--1392
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1390--1410
 [] 
  []
 
-[59]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1393--1410
+[60]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1411--1428
 [] 
  []
 
@@ -1610,34 +1603,34 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1411--1430
-[] 
- []
-
-[60]
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1431--1448
-[] 
- []
-
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1449--1464
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1429--1448
 [] 
  []
 
 [61]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1466--1481
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1449--1466
+[] 
+ []
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1467--1482
 [] 
  []
 
 [62]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1484--1496
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1484--1499
+[] 
+ []
+
+[63]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1502--1514
 [] 
  []
 
@@ -1648,76 +1641,83 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1498--1512
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1516--1530
 [] 
  []
 
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1513--1525
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1531--1543
 [] 
  []
 
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1527--1542
-[] 
- []
-
-[63]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1544--1559
-[] 
- []
-
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1561--1576
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1545--1560
 [] 
  []
 
 [64]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1578--1593
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1562--1577
 [] 
  []
 
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1595--1610
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1579--1594
 [] 
  []
 
-[65] [66] (SimpleDocument.aux)
+[65]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1596--1611
+[] 
+ []
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1613--1628
+[] 
+ []
+
+[66]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1629.
+ [67]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1629.
+ (./SimpleDocument.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1629.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1629.
+
 Package rerunfilecheck Info: File `SimpleDocument.out' has not changed.
 (rerunfilecheck)             Checksum: EBACFE8A7DF12A213A49E02634752FE3;4860.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1629.
  ) 
 Here is how much of TeX's memory you used:
- 10836 strings out of 479697
- 168132 string characters out of 2866183
- 760730 words of memory out of 3000000
- 27344 multiletter control sequences out of 15000+200000
- 412403 words of font info for 62 fonts, out of 3000000 for 9000
+ 10834 strings out of 480608
+ 164880 string characters out of 5903629
+ 672948 words of memory out of 5000000
+ 26136 multiletter control sequences out of 15000+600000
+ 541311 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,18n,74p,698b,2020s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Meschio\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tc
-rm1000.pk><C:/Users/Meschio/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmbx10.pfb><C:/Users/Meschio/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Meschio/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Meschio/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Meschio/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Mesch
-io/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/U
-sers/Meschio/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7
-.pfb><C:/Users/Meschio/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
-s/cm/cmr10.pfb><C:/Users/Meschio/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmr12.pfb><C:/Users/Meschio/AppData/Local/Programs/MiKTeX/fonts/
-type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Meschio/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Meschio/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Meschio/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Meschio
-/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Us
-ers/Meschio/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.
-pfb><C:/Users/Meschio/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmtt10.pfb><C:/Users/Meschio/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/symbols/msam10.pfb>
-Output written on SimpleDocument.pdf (66 pages, 2917361 bytes).
+ 36i,18n,74p,695b,2014s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
+/usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></u
+sr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
+r/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr
+/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/l
+ocal/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/loc
+al/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local
+/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/t
+exlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/tex
+live/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texliv
+e/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2
+020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2020
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2020/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2020/tex
+mf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2020
+/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on SimpleDocument.pdf (67 pages, 2836202 bytes).
 PDF statistics:
- 1017 PDF objects out of 1200 (max. 8388607)
- 307 named destinations out of 1000 (max. 500000)
+ 1032 PDF objects out of 1200 (max. 8388607)
+ 857 compressed objects within 9 object streams
+ 308 named destinations out of 1000 (max. 500000)
  948 words of extra memory for PDF output out of 10000 (max. 10000000)
 
