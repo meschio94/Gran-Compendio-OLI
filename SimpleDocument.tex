@@ -24,7 +24,7 @@
 
 \title{Gran Compendio OLI}
 \author{\href{https://github.com/meschio94/Gran-Compendio-OLI}{Meschio}}
-\date{2021\\V1.2.1}
+\date{2021\\V1.2.2}
 
 \begin{document}
 \maketitle
@@ -1428,8 +1428,7 @@ Soluzione:\\
 \subsection{PLC minimization}
 \noindent\fbox{%
     \parbox{\textwidth}{%
-Given a PLC problem P in minimization form, with 2 constraints with sign ’≥’ and 1
-constraint with sign ’=’, and 5 variables, consider the dual problem D:
+Given a PLC problem P in minimization form, with 2 constraints with sign '$\geqq$' and 1 constraint with sign '=', and 5 variables, consider the dual problem D:
 \begin{enumerate}[label=\Alph*]
 \item | D has 3 variables
 and 5 constraints;
@@ -1519,7 +1518,8 @@ The branch-and-cut method:
 \begin{enumerate}[label=\Alph*]
 \item | is used to solve linear programming problems with continuous variables; 
 \item | always uses the lowest-first strategy to explore the subproblems.;
-\item | is used to solve NP-complete (“difficult”) problems; (d)  terminates in a polynomial number of iterations;
+\item | is used to solve NP-complete (“difficult”) problems; 
+\item | terminates in a polynomial number of iterations;
 \item | at each iteration uses the simplex algorithm to solve the current subproblem.
 \end{enumerate}
 }%
@@ -1532,8 +1532,11 @@ Soluzione:\\
     \parbox{\textwidth}{%
 Given a PLC problem with $n$ variables and $m$ constraints, a basic matrix is: 
 \begin{enumerate}[label=\Alph*]
-\item | a collection of $m$ constraints; (b) none of the above answers.; 
-\item |  a square $m$x$m$ matrix with value 1 on the main diagonal; \item |  a collection of $n-m$ columns of the constraint matrix; \item |  a square submatrix of the constraint matrix, that can be inverted.
+\item | a collection of $m$ constraints;
+\item | none of the above answers.; 
+\item |  a square $m$x$m$ matrix with value 1 on the main diagonal; 
+\item |  a collection of $n-m$ columns of the constraint matrix; 
+\item |  a square submatrix of the constraint matrix, that can be inverted.
 \end{enumerate}
 }%
 }%

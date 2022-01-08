@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.11.14)  1 DEC 2021 22:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.11.14)  8 JAN 2022 19:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1587,23 +1587,8 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 1411--1428
 [] 
  []
 
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no ‰ in font cmr10!
-Missing character: There is no ¥ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ™ in font cmr10!
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1429--1448
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1429--1447
 [] 
  []
 
@@ -1615,22 +1600,22 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no  in font cmr10!
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1449--1466
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1448--1465
 [] 
  []
 
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1467--1482
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1466--1481
 [] 
  []
 
 [62]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1484--1499
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1483--1498
 [] 
  []
 
 [63]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1502--1514
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1501--1513
 [] 
  []
 
@@ -1641,55 +1626,55 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no  in font cmr10!
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1516--1530
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1515--1530
 [] 
  []
 
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1531--1543
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1531--1546
 [] 
  []
 
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1545--1560
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1548--1563
 [] 
  []
 
 [64]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1562--1577
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1565--1580
 [] 
  []
 
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1579--1594
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1582--1597
 [] 
  []
 
 [65]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1596--1611
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1599--1614
 [] 
  []
 
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1613--1628
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1616--1631
 [] 
  []
 
 [66]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1629.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1632.
  [67]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1629.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1632.
  (./SimpleDocument.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1629.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1629.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1632.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1632.
 
 Package rerunfilecheck Info: File `SimpleDocument.out' has not changed.
 (rerunfilecheck)             Checksum: EBACFE8A7DF12A213A49E02634752FE3;4860.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1629.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1632.
  ) 
 Here is how much of TeX's memory you used:
- 10834 strings out of 480608
- 164880 string characters out of 5903629
+ 10836 strings out of 480608
+ 164894 string characters out of 5903629
  672948 words of memory out of 5000000
  26136 multiletter control sequences out of 15000+600000
  541311 words of font info for 59 fonts, out of 8000000 for 9000
@@ -1714,10 +1699,10 @@ texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2020/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2020/tex
 mf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2020
 /texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on SimpleDocument.pdf (67 pages, 2836202 bytes).
+Output written on SimpleDocument.pdf (67 pages, 2836254 bytes).
 PDF statistics:
- 1032 PDF objects out of 1200 (max. 8388607)
- 857 compressed objects within 9 object streams
- 308 named destinations out of 1000 (max. 500000)
+ 1034 PDF objects out of 1200 (max. 8388607)
+ 859 compressed objects within 9 object streams
+ 310 named destinations out of 1000 (max. 500000)
  948 words of extra memory for PDF output out of 10000 (max. 10000000)
 
