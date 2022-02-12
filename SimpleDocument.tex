@@ -24,7 +24,7 @@
 
 \title{Gran Compendio OLI}
 \author{\href{https://github.com/meschio94/Gran-Compendio-OLI}{Meschio}}
-\date{2021\\V1.2.2}
+\date{2021\\V1.2.3}
 
 \begin{document}
 \maketitle
@@ -875,7 +875,7 @@ Soluzione:
 \item il flusso massimo che posso avere in uscita sul nodo t, è 5.\\
 osservando l'immagine sopra, nel quale ho rimosso i flussi passanti e lasciato solo i flussi di capacita, notiamo che malgrado il nodo t abbia un upperbound massimo di 7, in realtà i suoi archi entranti che arrivano dal nodo 3 e 4, possono sostenere realisticamente e rispettivamente una capacità reale di uscita di 4 per il nodo 3, e di 2 per il nodo 4, dobbiamo anche notare che un nodo uscente di 3 finisce giusto nel nodo 4, quindi abbiamo nel best case scenario che il nodo 3 e 4 possono approvvigionare rispettivamente 3 dall'arco superiore e 2 dall'arco inferiore.
 
-\item Ricordando il teorema di Ford-Fulkerson: "il valore di un flusso accettabile di un flusso massimo in un grafo è uguale alla capacità di un taglio di minima capacità", ovvero, se io faccio un taglio tra 2 nodi, che hanno capacità minima in uscita (archi uscenti), trovo la capacità massima che posso avere nel mio network, in questo caso, se prendo i nodi ($1,2$), avrò come archi uscenti {$(1,3),(1,4),(2,3)$}:
+\item Ricordando il teorema del Max-flow min-cut: "Il valore massimo di flusso tra $s$ e $t$ equivale sempre al peso del taglio minimo $s-t$", ovvero, devo effettuare un taglio che includa il numero minimo di archi, e che separi il nodo $s$ da $t$, il flusso che scorre in quel taglio, è il flusso massimo che il network può supportare, da immagine qua sotto, vediamo l'esempio separando vicino al nodo $s$ con la linea tratteggiata blu, tale esempio può funzionare anche vicino al nodo $t$, considerando che in questa immagine anche questo taglio avrebbe due archi, ed effettivamente sommando il flusso del taglio (i numeri evidenziati in rosso) il valore di flusso massimo è $4$!:
 \begin{center}
 \raisebox{-.5\height}{\includegraphics[width=6cm]{immagini/grafi/3_2_2_2.jpg}}
 \end{center}
